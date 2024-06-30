@@ -1,1 +1,29 @@
 #Hi This is for Devops practice in 07-2024...
+														D80 16-JUNE-24
+=========D80-2024-06-24-SESSION-07=================
+Roboshop Setup …
+NTB-New to Bank
+ETB-Existing to bank
+=========D80-2024-06-25-SESSION-08
+01.Frontend  Nginx
+02.MongoDB
+set-prompt mongodb
+=========D80-2024-06-26-SESSION-09
+03.Catalogue  nodejs
+04.redis for cache
+05.User.  Nodes
+06.cart   nodes
+=========D80-2024-06-27-SESSION-10
+07.MySQL.   (app-user.sql use mysql_native_password)
+08.Shipping. java
+=========D80-2024-06-28-SESSION-11
+09-RabbitMQ   transaction(kafka/ActiveMQ alternative)
+     # First ".*" for configure permission on every entity
+     # Second ".*" for write permission on every entity
+     # Third ".*" for read permission on every entity
+rabbitmqctl set_permissions -p "custom-vhost" "username" ".*" ".*" ".*"
+10.payment Python
+11.Dispatch GoLang
+Problems in normal roboshop project
+=========D80-2024-07-02-SESSION-12
+
