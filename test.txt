@@ -25,5 +25,5 @@ rabbitmqctl set_permissions -p "custom-vhost" "username" ".*" ".*" ".*"
 10.payment Python
 11.Dispatch GoLang
 Problems in normal roboshop project
-=========D80-2024-07-02-SESSION-12
+=========D80-2024-07-02-SESSION-12======
 
