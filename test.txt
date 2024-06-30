@@ -28,3 +28,4 @@ Problems in normal roboshop project
 =========D80-2024-07-02-SESSION-12==========
 new comm
 push auto
+community pwd
