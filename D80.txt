@@ -1,21 +1,22 @@
 														D80 16-JUNE-24
 mdevops24.online
+tallapu.mohan@gmail.com
 =========D80-2024-06-24-SESSION-07=================
 Roboshop Setup …
 NTB-New to Bank
 ETB-Existing to bank
 =========D80-2024-06-25-SESSION-08
 01.Frontend  Nginx
-02.MongoDB 
+02.MongoDB
 set-prompt mongodb
 =========D80-2024-06-26-SESSION-09
 03.Catalogue  nodejs
-04.redis for cache 
+04.redis for cache
 05.User.  Nodes
 06.cart   nodes
 =========D80-2024-06-27-SESSION-10
 07.MySQL.   (app-user.sql use mysql_native_password)
-08.Shipping. java 
+08.Shipping. java
 =========D80-2024-06-28-SESSION-11
 09-RabbitMQ   transaction(kafka/ActiveMQ alternative)
      # First ".*" for configure permission on every entity
@@ -30,3 +31,17 @@ Automation using Shell
 Leanr-shell
 =========D80-2024-07-03-SESSION-13======
 Roboshop-shell
+01.Frontend  Nginx
+02.MongoDB
+03.Catalogue  nodejs
+04.redis for cache
+05.User.  Nodes
+=========D80-2024-07-04-SESSION-14======
+DNS update in frontend AWS Route53
+Mdevops24.online
+Mrakmonitor Inc. famous DNS service
+06.cart   nodes
+07.MySQL.
+09-RabbitMQ
+10.payment Python
+11.Dispatch GoLang
