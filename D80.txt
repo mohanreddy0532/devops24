@@ -38,7 +38,8 @@ Roboshop-shell
 05.User.  Nodes
 =========D80-2024-07-04-SESSION-14======
 DNS update in frontend AWS Route53
-Mdevops24.online
+mdevops24.online
+Update <MS>.dev.mdevops24.online in all configuration files
 Mrakmonitor Inc. famous DNS service
 06.cart   nodes
 07.MySQL.
