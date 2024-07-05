@@ -7,7 +7,7 @@ NTB-New to Bank
 ETB-Existing to bank
 =========D80-2024-06-25-SESSION-08
 01.Frontend  Nginx
-02.MongoDB
+02.MongoDB     ——>#mongosh  —show databases
 set-prompt mongodb
 =========D80-2024-06-26-SESSION-09
 03.Catalogue  nodejs
@@ -34,15 +34,40 @@ Roboshop-shell
 01.Frontend  Nginx
 02.MongoDB
 03.Catalogue  nodejs
+SED Editor options
 04.redis for cache
 05.User.  Nodes
 =========D80-2024-07-04-SESSION-14======
 DNS update in frontend AWS Route53
-mdevops24.online
-Update <MS>.dev.mdevops24.online in all configuration files
-Mrakmonitor Inc. famous DNS service
+mdevops24.online…in DEV,QA,PROD
+
+1.Update <MS>.dev.mdevops24.online in all configuration files
+Mrakmonitor Inc. famous DNS service…
+
 06.cart   nodes
 07.MySQL.
 09-RabbitMQ
 10.payment Python
 11.Dispatch GoLang
+=========D80-2024-07-05-SESSION-14======
+Fine tuning roboshop-shell
+Non Functional requirements:
+	Keep code DRY…
+	Don’t expose user/pwds
+	Re-run of code should not fail
+2.Functions.sh
+Common.sh in roboshop-shell
+	nodejs(),component=
+3.variables.sh
+	# Variable names can have alphabets, numbers and _ (Same for Function also)
+	# Variable name styles. Ex: variable name is coursename
+	# CamelCase - courseName
+	# PascalCase - CourseName
+	# snake case - course_name
+	# UNIX Way ( Later Linux) - COURSE_NAME
+Redirectors  &>> (append all)
+			1> only log
+			2> error only
+=========D80-2024-07-06-SESSION-15======
+
+
