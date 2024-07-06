@@ -68,6 +68,12 @@ Common.sh in roboshop-shell
 Redirectors  &>> (append all)
 			1> only log
 			2> error only
-=========D80-2024-07-06-SESSION-15======
-
-
+=========D80-2024-07-06-SESSION-15=====***====
+&>/dev/null
+Exit status 0 / 1
+$? -eq 0.
+    Expressions : Numbers -eq,-ne-lt
+			      String ==,!=,-z
+			      File -e /opt/file…chk if file exits
+Code colouring
+Practice—-rabbitmq,payment,dispatch
