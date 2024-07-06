@@ -42,6 +42,19 @@ DNS update in frontend AWS Route53
 mdevops24.online…in DEV,QA,PROD
 
 1.Update <MS>.dev.mdevops24.online in all configuration files
+
+		fe.dev.mdevops24.online
+		cart.dev.mdevops24.online
+		catalogue.dev.mdevops24.online
+		dispatch.dev.mdevops24.online
+		mongo.dev.mdevops24.online
+		mysql.dev.mdevops24.online
+		payment.dev.mdevops24.online
+		rabbitmq.dev.mdevops24.online
+		redis.dev.mdevops24.online
+		shipping.dev.mdevops24.online
+		user.dev.mdevops24.online
+
 Mrakmonitor Inc. famous DNS service…
 
 06.cart   nodes
@@ -75,5 +88,13 @@ $? -eq 0.
     Expressions : Numbers -eq,-ne-lt
 			      String ==,!=,-z
 			      File -e /opt/file…chk if file exits
+STAT $? ==>if [$1 -eq 0] here only one argument which is $1
 Code colouring
 Practice—-rabbitmq,payment,dispatch
+
+
+
+
+
+
+
