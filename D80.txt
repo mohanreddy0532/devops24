@@ -106,4 +106,3 @@ Ansible Roles—>task—>playS(playbook)—>module/collection
 	Frontend
 	Mongo
 	Catalogue
-
