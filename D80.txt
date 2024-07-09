@@ -102,4 +102,8 @@ Ansible (written in python) 2.17(core)v10(rhel)
 Sudo dnf list | grep ansible
 YAML(Yet Another Markup Language)
 =========D80-2024-07-08-SESSION-18=========
+Ansible Roles—>task—>playS(playbook)—>module/collection
+	Frontend
+	Mongo
+	Catalogue
 
