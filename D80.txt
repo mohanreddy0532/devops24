@@ -26,9 +26,9 @@ rabbitmqctl set_permissions -p "custom-vhost" "username" ".*" ".*" ".*"
 10.payment Python
 11.Dispatch GoLang
 Problems in normal roboshop project
-=========D80-2024-07-02-SESSION-12======
+=========D80-2024-07-02-SESSION-12=====Shell=
 Automation using Shell
-Leanr-shell
+Leanrn-shell
 =========D80-2024-07-03-SESSION-13======
 Roboshop-shell
 01.Frontend  Nginx
@@ -62,16 +62,16 @@ Mrakmonitor Inc. famous DNS service…
 09-RabbitMQ
 10.payment Python
 11.Dispatch GoLang
-=========D80-2024-07-05-SESSION-14======
+=========D80-2024-07-05-SESSION-15======
 Fine tuning roboshop-shell
 Non Functional requirements:
 	Keep code DRY…
 	Don’t expose user/pwds
 	Re-run of code should not fail
-2.Functions.sh
+Learn-shell 2.Functions.sh
 Common.sh in roboshop-shell
 	nodejs(),component=
-3.variables.sh
+Learn-shell 3.variables.sh
 	# Variable names can have alphabets, numbers and _ (Same for Function also)
 	# Variable name styles. Ex: variable name is coursename
 	# CamelCase - courseName
@@ -81,7 +81,8 @@ Common.sh in roboshop-shell
 Redirectors  &>> (append all)
 			1> only log
 			2> error only
-=========D80-2024-07-06-SESSION-15=====***====
+=========D80-2024-07-06-SESSION-16=====***====
+Learn-shell  04.print.sh
 &>/dev/null
 Exit status 0 / 1
 $? -eq 0.
@@ -91,10 +92,14 @@ $? -eq 0.
 STAT $? ==>if [$1 -eq 0] here only one argument which is $1
 Code colouring
 Practice—-rabbitmq,payment,dispatch
+=========D80-2024-07-08-SESSION-17=========
+Learn-shell  05.quotes
+Learn-shell  06.Loops
 
-
-
-
-
-
+Declarative Vs Imperative:
+Shell is Imperative and homogeneous
+Ansible (written in python) 2.17(core)v10(rhel)
+Sudo dnf list | grep ansible
+YAML(Yet Another Markup Language)
+=========D80-2024-07-08-SESSION-18=========
 
