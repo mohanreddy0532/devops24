@@ -107,7 +107,7 @@ Ansible Roles—>task—>playS(playbook)—>module/collection
 	Frontend
 	Mongo
 	Catalogue
-=========D80-2024-07-10-SESSION-19=========
+=========D80-2024-07-10-SESSION-19====***===
 Run.sh or make file to run ansible commands
 Env Setup: DEV QA UAT PROD
 Dev environment define @23:00
@@ -118,12 +118,36 @@ Files-->templates * @30:00
 	User
 	Cart
 	MySQL
-	Shipping
+@1:10*Shipping —>group tasks block, Loop
 Role dependencies @42:00 for set-prompt
 
-=========D80-2024-07-11-SESSION-20=========
+=========D80-2024-07-11-SESSION-20=====**====
+ RabbitMQ
+Payment
+Dispatch
+	# Variables precedence. Facts,register, inventory
+	# 1. CLi -e variable
+	# 2. tasks
+	# 3. roles vars
+	# 4. vars_files
+	# 5. vars
+	# 6. roles defaults
 
+	# Variable types
+		# 1. simple variable
+		# 2. List
+		# 3. Dictionary / Map
+Ansible Certificate Topics:
+inventory ansoble -I inventory <groupName> ;dynamic inventory in aws topic
+Facts: collect n store variables;eg:Gathering facts ansible facts…
+Configuration file: ansible.cfg
+Redirect o/p in ansible: register Variable to retrieve the results of running commands
 =========D80-2024-07-12-SESSION-21=========
-
-=========D80-2024-07-13-SESSION-22=========
+Recap of S20
+General Ansible topics
+Terraform—-IaaS  acquired by IBM
+	The real difference is that Terraform has shifted to a Business Source License (BSL), and OpenTofu is published under the open-source Mozilla Public License (MPL).
+HCL
+=========D80-2024-07-13====Break=====
+=========D80-2024-07-15-SESSION-22============
 
