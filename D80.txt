@@ -138,16 +138,20 @@ Dispatch
 		# 2. List
 		# 3. Dictionary / Map
 Ansible Certificate Topics:
-inventory ansoble -I inventory <groupName> ;dynamic inventory in aws topic
-Facts: collect n store variables;eg:Gathering facts ansible facts…
+inventory ansible -I inventory <groupName> ;dynamic inventory in aws topic
+Facts: collect n store variables; eg:Gathering facts ansible facts…
 Configuration file: ansible.cfg
 Redirect o/p in ansible: register Variable to retrieve the results of running commands
+ignore_errors: yes
+vault.yml
+Data Types: String,Boolean,
 =========D80-2024-07-12-SESSION-21=========
-Recap of S20
+Recap of Session-20
 General Ansible topics
 Terraform—-IaaS  acquired by IBM
 	The real difference is that Terraform has shifted to a Business Source License (BSL), and OpenTofu is published under the open-source Mozilla Public License (MPL).
 HCL
+
 =========D80-2024-07-13====Break=====
 =========D80-2024-07-15-SESSION-22============
 
