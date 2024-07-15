@@ -152,6 +152,13 @@ Terraform—-IaaS  acquired by IBM
 	The real difference is that Terraform has shifted to a Business Source License (BSL), and OpenTofu is published under the open-source Mozilla Public License (MPL).
 HCL
 
-=========D80-2024-07-13====Break============
+=========D80-2024-07-13====Break=====
 =========D80-2024-07-15-SESSION-22============
+ Terraform:
+Providers—>Resources—blocks{}
+Init——>plan——>apply——>destroy…
+How TF talks to AWS=apply—>role—>aws
+AWS—IAM—create role
+Station—security—IAM—attach
 
+Variables:
