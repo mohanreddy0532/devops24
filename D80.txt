@@ -160,5 +160,31 @@ Init——>plan——>apply——>destroy…
 How TF talks to AWS=apply—>role—>aws
 AWS—IAM—create role
 Station—security—IAM—attach
-
 Variables:
+=========D80-2024-07-16-SESSION-23=========
+Tf won’t execute variable in top to bottom…cn declare any wr.
+Variables continue: ami,sg,zone id,
+data_blocks—
+Loops: count, maps,
+Conditions—pick a value not abt running a block
+Module:(functions) collection of .tf files
+		root,child,published,
+=========D80-2024-07-17-SESSION-24=========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
