@@ -150,15 +150,23 @@ Recap of Session-20
 General Ansible topics
 Terraform—-IaaS  acquired by IBM
 	The real difference is that Terraform has shifted to a Business Source License (BSL), and OpenTofu is published under the open-source Mozilla Public License (MPL).
-HCL
-
 =========D80-2024-07-13====Break=====
 =========D80-2024-07-15-SESSION-22============
- Terraform:
-Providers—>Resources—blocks{}
+ Terraform: HCL(HashiCorp Configuration Language)  .tf only
+Providers—>Resources—code is in blocks{}
+      Blocks offered by TF are:7 resource,varibale,output,data,local,module,provider(was,azure,gcp,github etc…)
+Resource “abc” “xyz” {
+X = 10
+Y = 20
+}
+abc=resource label by provider
+xyz=local name by our own name
+S,y=argument
+10,20=inputs
 Init——>plan——>apply——>destroy…
+
 How TF talks to AWS=apply—>role—>aws
-AWS—IAM—create role
+AWS—IAM—Roles—Create role
 Station—security—IAM—attach
 Variables:
 =========D80-2024-07-16-SESSION-23=========
