@@ -190,8 +190,12 @@ Stores in a DB
 	in S3 for AWS
 		create in S3—>d80-terraform
 10.remote-state
-
-
+Roboshop-terraform: create dev, prod envs
+ 	run.sh or Makefile
+Provisioners: to model specific actions on the local machine
+	File,local-exec,remote-exec
+	inline is used to exec.  —>ansible-pull
+     Created fe, mongo, catalogue
 
 
 
