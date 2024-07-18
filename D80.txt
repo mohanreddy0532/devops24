@@ -167,19 +167,29 @@ Init——>plan——>apply——>destroy…
 
 How TF talks to AWS=apply—>role—>aws
 AWS—IAM—Roles—Create role
-Station—security—IAM—attach
+W.Station(right click)—security—IAM—attach
 Variables:
-=========D80-2024-07-16-SESSION-23=========
-Tf won’t execute variable in top to bottom…cn declare any wr.
-Variables continue: ami,sg,zone id,
-data_blocks—
-Loops: count, maps,
+=========D80-2024-07-16-SESSION-23=======**==
+Roboshop-v2 :variable declarations,
+Data source(jus get data from aws) data.tf
+	Tf won’t execute variable in top to bottom…cn declare any wr.
+	Variables continue: ami,sg,zone id,
+data_blocks :
+Loops: count, maps(for_each)
 Conditions—pick a value not abt running a block
 Module:(functions) collection of .tf files
-		root,child,published,
-=========D80-2024-07-17-SESSION-24=========
-
-
+		root>>child>>published,
+=========D80-2024-07-17-No SESSION=========
+=========D80-2024-07-18-SESSION-24=========
+09-Module-2
+	use one module o/p and send to another module as I/p and use
+ terraform.tfstate store the resource information.
+	terraform apply=>code>stateFile>CloudState
+Stores in a DB
+	Postgres database…
+	in S3 for AWS
+		create in S3—>d80-terraform
+10.remote-state
 
 
 
