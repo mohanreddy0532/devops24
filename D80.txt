@@ -112,7 +112,8 @@ Run.sh or make file to run ansible commands
 Env Setup: DEV QA UAT PROD
 Dev environment define @23:00
 Files-->templates * @30:00
-	all files(configuration files) changed to templates
+	all files(configuration files) changed to templates      **if templates—>module is template
+													**if files————>module is copy
 	Redis  —meta(dependencies) run this before
 		replacing a line need lineinfile module @38:00
 	User
