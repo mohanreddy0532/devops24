@@ -1,7 +1,7 @@
 														D80 16-JUNE-24
 mdevops24.online
 tallapu.mohan@gmail.com
-=========D80-2024-06-24-SESSION-07=================
+=========D80-2024-06-24-SESSION-07=============roboshop-Manul====
 Roboshop Setup …
 NTB-New to Bank
 ETB-Existing to bank
@@ -10,15 +10,15 @@ ETB-Existing to bank
 02.MongoDB     ——>#mongosh  —show databases
 				    shipping#mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 ;sql>show databses
 set-prompt mongodb
-=========D80-2024-06-26-SESSION-09
+=========D80-2024-06-26-SESSION-09====roboshop-Manul======
 03.Catalogue  nodejs
 04.redis for cache
 05.User.  Nodes
 06.cart   nodes
-=========D80-2024-06-27-SESSION-10
+=========D80-2024-06-27-SESSION-10=======roboshop-Manul====
 07.MySQL.   (app-user.sql use mysql_native_password)
 08.Shipping. java
-=========D80-2024-06-28-SESSION-11
+=========D80-2024-06-28-SESSION-11====roboshop-Manul=====
 09-RabbitMQ   transaction(kafka/ActiveMQ alternative)
      # First ".*" for configure permission on every entity
      # Second ".*" for write permission on every entity
@@ -27,10 +27,10 @@ rabbitmqctl set_permissions -p "custom-vhost" "username" ".*" ".*" ".*"
 10.payment Python
 11.Dispatch GoLang
 Problems in normal roboshop project
-=========D80-2024-07-02-SESSION-12=====Shell=
+=========D80-2024-07-02-SESSION-12=====roboshop-Shell=====
 Automation using Shell
 Leanrn-shell
-=========D80-2024-07-03-SESSION-13======
+=========D80-2024-07-03-SESSION-13======roboshop-Shell=====
 Roboshop-shell
 01.Frontend  Nginx
 02.MongoDB
@@ -38,7 +38,7 @@ Roboshop-shell
 SED Editor options
 04.redis for cache
 05.User.  Nodes
-=========D80-2024-07-04-SESSION-14======
+=========D80-2024-07-04-SESSION-14=====roboshop-Shell======
 DNS update in frontend AWS Route53
 mdevops24.online…in DEV,QA,PROD
 
@@ -63,7 +63,7 @@ Mrakmonitor Inc. famous DNS service…
 09-RabbitMQ
 10.payment Python
 11.Dispatch GoLang
-=========D80-2024-07-05-SESSION-15======
+=========D80-2024-07-05-SESSION-15======roboshop-Shell=====
 Fine tuning roboshop-shell
 Non Functional Requirements: NFR
 	Keep code DRY…
@@ -82,7 +82,7 @@ Learn-shell 3.variables.sh
 Redirectors  &>> (append all)
 			1> only log
 			2> error only
-=========D80-2024-07-06-SESSION-16=====***====
+=========D80-2024-07-06-SESSION-16=====***====roboshop-Shell=====
 Learn-shell  04.print.sh
 &>/dev/null
 Exit status 0 / 1
@@ -93,7 +93,7 @@ $? -eq 0.
 STAT $? ==>if [$1 -eq 0] here only one argument which is $1
 Code colouring
 Practice—-rabbitmq,payment,dispatch
-=========D80-2024-07-08-SESSION-17=========
+=========D80-2024-07-08-SESSION-17=========roboshop-Ansible=====
 Learn-shell  05.quotes
 Learn-shell  06.Loops
 
@@ -102,12 +102,12 @@ Shell is Imperative and homogeneous
 Ansible (written in python) 2.17(core)v10(rhel)
 Sudo dnf list | grep ansible
 YAML(Yet Another Markup Language)
-=========D80-2024-07-09-SESSION-18=========
+=========D80-2024-07-09-SESSION-18======roboshop-Ansible======
 Ansible Roles—>task—>playS(playbook)—>module/collection
 	Frontend
 	Mongo
 	Catalogue
-=========D80-2024-07-10-SESSION-19====***===
+=========D80-2024-07-10-SESSION-19====***===roboshop-Ansible=====
 Run.sh or make file to run ansible commands
 Env Setup: DEV QA UAT PROD
 Dev environment define @23:00
@@ -121,7 +121,7 @@ Files-->templates * @30:00
 @1:10*Shipping —>group tasks block, Loop
 Role dependencies @42:00 for set-prompt
 
-=========D80-2024-07-11-SESSION-20=====**====
+=========D80-2024-07-11-SESSION-20=====**====roboshop-Ansible=====
  RabbitMQ
 Payment
 Dispatch
@@ -151,7 +151,7 @@ General Ansible topics
 Terraform—-IaaS  acquired by IBM
 	The real difference is that Terraform has shifted to a Business Source License (BSL), and OpenTofu is published under the open-source Mozilla Public License (MPL).
 =========D80-2024-07-13====Break=====
-=========D80-2024-07-15-SESSION-22============
+=========D80-2024-07-15-SESSION-22============roboshop-Terraform=====
  Terraform: HCL(HashiCorp Configuration Language)  .tf only
 Providers—>Resources—code is in blocks{}
       Blocks offered by TF are:7 resource,varibale,output,data,local,module,provider(was,azure,gcp,github etc…)
@@ -169,7 +169,7 @@ How TF talks to AWS=apply—>role—>aws
 AWS—IAM—Roles—Create role
 W.Station(right click)—security—IAM—attach
 Variables:
-=========D80-2024-07-16-SESSION-23=======**==
+=========D80-2024-07-16-SESSION-23=======**====roboshop-Terraform===
 Roboshop-v2 :variable declarations,
 Data source(jus get data from aws) data.tf
 	Tf won’t execute variable in top to bottom…cn declare any wr.
@@ -180,7 +180,7 @@ Conditions—pick a value not abt running a block
 Module:(functions) collection of .tf files
 		root>>child>>published,
 =========D80-2024-07-17-No SESSION=========
-=========D80-2024-07-18-SESSION-24=========
+=========D80-2024-07-18-SESSION-24=======roboshop-Terraform=====
 09-Module-2
 	use one module o/p and send to another module as I/p and use
  terraform.tfstate store the resource information.
@@ -196,7 +196,7 @@ Provisioners: to model specific actions on the local machine
 	File,local-exec,remote-exec
 	inline is used to exec.  —>ansible-pull
      Created fe, mongo, catalogue
-=========D80-2024-07-19-SESSION-25=========
+=========D80-2024-07-19-SESSION-25======roboshop-Terraform+GitHubAction======
 Tf done in fe,mongo,ctatalogue manually
 With Pipeline—>GitHub Actions
 
