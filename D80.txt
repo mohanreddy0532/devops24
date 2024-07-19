@@ -196,6 +196,9 @@ Provisioners: to model specific actions on the local machine
 	File,local-exec,remote-exec
 	inline is used to exec.  —>ansible-pull
      Created fe, mongo, catalogue
+=========D80-2024-07-19-SESSION-25=========
+Tf done in fe,mongo,ctatalogue manually
+With Pipeline—>GitHub Actions
 
 
 
