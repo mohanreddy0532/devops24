@@ -197,14 +197,19 @@ Provisioners: to model specific actions on the local machine
 	File,local-exec,remote-exec
 	inline is used to exec.  —>ansible-pull
      Created fe, mongo, catalogue
-=========D80-2024-07-19-SESSION-25======roboshop-Terraform+GitHubAction======
+=========D80-2024-07-19-SESSION-25======roboshop-Terraform+GitHubAction*======
 Tf done in fe,mongo,ctatalogue manually
 With Pipeline—>GitHub Actions
+				create the .github/workflows/ directory to store your workflow files
+Org—>Runner grps—>Repository Allow public
+Needs: to create dependencies on jobs
+Tf init need credentials setup:
 
-
-
-
-
+Create own Runner fr gitHub:
+	>manual way created runner
+	>with gitHubAction >settings>runners>new runner>
+=========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*======
+Setup —self runner—token generation
 
 
 
