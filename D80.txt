@@ -207,13 +207,17 @@ Tf init need credentials setup:
 
 Create own Runner fr gitHub:
 	>manual way created runner
-	>with gitHubAction >settings>runners>new runner>
-=========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*======
-Setup —self runner—token generation
+	@51:00>with gitHubAction >settings>runners>new runner>
+        @1:07:00 integrate was with GitHub actions for credentials
+	1.create GitHub runner from workstation using terraform init from tools-automation-code
+=========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***==
+Setup —self runner—token generation(dynamically)
 
-
-
-
+=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***==
+Deploy in ends.
+Deploy in env. By approvals
+Vault: installation,integation
+Spot instance:
 
 
 
