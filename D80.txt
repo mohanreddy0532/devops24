@@ -212,12 +212,29 @@ Create own Runner fr gitHub:
 	1.create GitHub runner from workstation using terraform init from tools-automation-code
 =========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***==
 Setup —self runner—token generation(dynamically)
-
+workstation ~/tools-autoamtion-code# git pull; ansible -I <ip of github-runner>, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
+In gitlab-runner$./run.sh
+ ./svc.sh to start runner service @1:02:00
 =========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***==
 Deploy in ends.
 Deploy in env. By approvals
 Vault: installation,integation
 Spot instance:
+=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
