@@ -210,19 +210,20 @@ Create own Runner fr gitHub:
 	@51:00>with gitHubAction >settings>runners>new runner>
         @1:07:00 integrate was with GitHub actions for credentials
 	1.create GitHub runner from workstation using terraform init from tools-automation-code
-=========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***==
+=========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***=do=
 Setup —self runner—token generation(dynamically)
 @50:00 fresh setup
 workstation ~/tools-autoamtion-code# git pull; ansible-playbook -I <ip of github-runner>, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
 In gitlab-runner$./run.sh
  ./svc.sh to start runner service @1:02:00 all the time
-=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***==
+=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***=do=
+Attach IAM role to gihub-runner >add infrs-create>iam.tf
 Deploy in ends.
-Deploy in env. By approvals
-Vault: installation,integration
+Deploy in env. By approvals >protection rule=settings>rules>New env.*
+Pwd management tool Vault: installation,integration @48:00
 Spot instance: creation
 
-=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==
+=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***=do=
 Vault connection
 
 =========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***==
