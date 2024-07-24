@@ -218,13 +218,21 @@ In gitlab-runner$./run.sh
 =========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***==
 Deploy in ends.
 Deploy in env. By approvals
-Vault: installation,integation
-Spot instance:
+Vault: installation,integration
+Spot instance: creation
+
 =========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==
+Vault connection
+
+=========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***==
+
+Vault connection
+Unseal +update dns for vault after server restart
+Update vault for all roboshop-ansible components
 
 
-
-
+=======D80-2024-07-25-SESSION-30========
+N/w concepts/ Landing Zone further move to Containerisation
 
 
 
