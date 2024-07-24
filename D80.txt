@@ -199,7 +199,7 @@ Provisioners: to model specific actions on the local machine
      Created fe, mongo, catalogue
 =========D80-2024-07-19-SESSION-25======roboshop-Terraform+GitHubAction*======
 Tf done in fe,mongo,ctatalogue manually
-With Pipeline—>GitHub Actions
+With Pipeline—>GitHub Actions(for infra CD)
 				create the .github/workflows/ directory to store your workflow files
 Org—>Runner grps—>Repository Allow public
 Needs: to create dependencies on jobs
@@ -212,9 +212,10 @@ Create own Runner fr gitHub:
 	1.create GitHub runner from workstation using terraform init from tools-automation-code
 =========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***==
 Setup —self runner—token generation(dynamically)
-workstation ~/tools-autoamtion-code# git pull; ansible -I <ip of github-runner>, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
+@50:00 fresh setup
+workstation ~/tools-autoamtion-code# git pull; ansible-playbook -I <ip of github-runner>, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
 In gitlab-runner$./run.sh
- ./svc.sh to start runner service @1:02:00
+ ./svc.sh to start runner service @1:02:00 all the time
 =========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***==
 Deploy in ends.
 Deploy in env. By approvals
