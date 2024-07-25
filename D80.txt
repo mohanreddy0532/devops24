@@ -220,7 +220,7 @@ In gitlab-runner$./run.sh
 Attach IAM role to gihub-runner >add infrs-create>iam.tf
 Deploy in ends.
 Deploy in env. By approvals >protection rule=settings>rules>New env.*
-Pwd management tool Vault: installation,integration @48:00
+pwd management tool Vault: installation/integration @48:00
 Spot instance: creation
 
 =========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***=do=
@@ -233,12 +233,13 @@ Unseal +update dns for vault after server restart
 Update vault for all roboshop-ansible components
 
 
-=======D80-2024-07-25-SESSION-30========
+=======D80-2024-07-25-SESSION-30=====n/w=====
 N/w concepts/ Landing Zone further move to Containerisation
-
-
-
-
+VPC
+    subnet
+Landing Zone
+=======D80-2024-07-26-SESSION-31=====n/w=====
+Route table
 
 
 
