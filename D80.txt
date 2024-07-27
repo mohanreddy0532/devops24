@@ -213,23 +213,28 @@ Create own Runner fr gitHub:
 =========D80-2024-07-20-SESSION-26======roboshop-Terraform+GitHubAction*=====***=do=
 Setup —self runner—token generation(dynamically)
 @50:00 fresh setup
-workstation ~/tools-autoamtion-code# git pull; ansible-playbook -I <ip of github-runner>, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
+workstation ~/tools-autoamtion-code# git pull; ansible-playbook -i github-runner-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
 In gitlab-runner$./run.sh
  ./svc.sh to start runner service @1:02:00 all the time
-=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***=do=
+=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***=do==repeat
 Attach IAM role to gihub-runner >add infrs-create>iam.tf
 Deploy in ends.
 Deploy in env. By approvals >protection rule=settings>rules>New env.*
 pwd management tool Vault: installation/integration @48:00
-Spot instance: creation
+Spot instance: creation @60:00 >persistent>stop
 
-=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***=do=
+@1:21:00 workstation#git pull;ansible-playbook -i github-runner-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
+
+@1:25:00. ansible-playbook -i vault-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=vault
+=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==do-Later=
+Chk runner online/offline
+Full run @15:00
 Vault connection
 
-=========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***==
+=========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***==do-Later=
 
 Vault connection
-Unseal +update dns for vault after server restart
+*Unseal +update dns for vault after server restart
 Update vault for all roboshop-ansible components
 
 
@@ -239,7 +244,13 @@ VPC
     subnet
 Landing Zone
 =======D80-2024-07-26-SESSION-31=====n/w=====
-Route table
+Route tables
+=======D80-2024-07-27-SESSION-32==========
+Ec2 web instances
+Launch template
+Create aws_auto_scaling group
+Create db instance
+User data code in aws
 
 
 
