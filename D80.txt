@@ -216,7 +216,7 @@ Setup —self runner—token generation(dynamically)
 workstation ~/tools-autoamtion-code# git pull; ansible-playbook -i github-runner-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
 In gitlab-runner$./run.sh
  ./svc.sh to start runner service @1:02:00 all the time
-=========D80-2024-07-22-SESSION-27======roboshop-Terraform+GitHubAction*=====***=do==repeat
+=========D80-2024-07-22-SESSION-27====mon==roboshop-Terraform+GitHubAction*=====***=do==repeat
 Attach IAM role to gihub-runner >add infrs-create>iam.tf
 Deploy in ends.
 Deploy in env. By approvals >protection rule=settings>rules>New env.*
@@ -226,24 +226,25 @@ Spot instance: creation @60:00 >persistent>stop
 @1:21:00 workstation#git pull;ansible-playbook -i github-runner-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=github-runner
 
 @1:25:00. ansible-playbook -i vault-internal.mdevops24.online, tool-setup.yml -e ansible_user=ec2-user -e ansible_password=DevOps321 -e tool_name=vault
-=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==do-Later=
+=========D80-2024-07-23-SESSION-28======roboshop-Terraform+GitHubAction*=====***==done=
 Chk runner online/offline
 Full run @15:00
 Vault connection
-
-=========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***==do-Later=
+	dynamic port 8200
+Create. Secrets and retrive the secrets
+=========D80-2024-07-24-SESSION-29======roboshop-Terraform+GitHubAction*=====***=====done==
 
 Vault connection
-*Unseal +update dns for vault after server restart
+*Unseal +update dns for vault after server restart @06:00
 Update vault for all roboshop-ansible components
 
-
-=======D80-2024-07-25-SESSION-30=====n/w=====
+secrets: "{{ lookup('hashi_vault', 'secret=roboshop-{{env}}/data/cart token={{vault_token}} url=https://vault-internal.rdevopsb80.online:8200 validate_certs=false')}}"
+=======D80-2024-07-25-SESSION-30=====N/W===theory==
 N/w concepts/ Landing Zone further move to Containerisation
 VPC
     subnet
 Landing Zone
-=======D80-2024-07-26-SESSION-31=====n/w=====
+=======D80-2024-07-26-SESSION-31=====N/W=====
 Route tables
 =======D80-2024-07-27-SESSION-32==========
 Ec2 web instances
