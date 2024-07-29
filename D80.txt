@@ -241,21 +241,23 @@ Update vault for all roboshop-ansible components
 secrets: "{{ lookup('hashi_vault', 'secret=roboshop-{{env}}/data/cart token={{vault_token}} url=https://vault-internal.rdevopsb80.online:8200 validate_certs=false')}}"
 =======D80-2024-07-25-SESSION-30=====N/W===theory==
 N/w concepts/ Landing Zone further move to Containerisation
-VPC
+VPC—
     subnet
-Landing Zone
+Landing Zone—not covered
 =======D80-2024-07-26-SESSION-31=====N/W=====
 Route tables
 =======D80-2024-07-27-SESSION-32==========
 Ec2 web instances
 Launch template
-Create aws_auto_scaling group
+Create aws_auto_scaling group(ASG)
 Create db instance
 User data code in aws
+=======D80-2024-07-29-SESSION-33=======dry===
 
-
-
-
+Autoscaling group(using load balance)
+	Application LB
+	Target groups
+ARN(amazon resource name)
 
 
 
