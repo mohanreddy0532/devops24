@@ -246,20 +246,20 @@ VPC—
 Landing Zone—not covered
 =======D80-2024-07-26-SESSION-31=====N/W=====
 Route tables
-=======D80-2024-07-27-SESSION-32==========
+=======D80-2024-07-27-SESSION-32=====N/W===Terraform+roboshop==
 Ec2 web instances
 Launch template
 Create aws_auto_scaling group(ASG)
 Create db instance
 User data code in aws
-=======D80-2024-07-29-SESSION-33=======dry===
+=======D80-2024-07-29-SESSION-33=======dry===Terraform+roboshop====
 
 Autoscaling group(using load balance)
 	Application LB
 	Target groups
 ARN(amazon resource name)
-
-
+======D80-2024-07-30-SESSION-34=======dry===Terraform+roboshop===
+Terraform+roboshop
 
 
 
