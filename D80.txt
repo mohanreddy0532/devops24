@@ -241,11 +241,26 @@ Update vault for all roboshop-ansible components
 secrets: "{{ lookup('hashi_vault', 'secret=roboshop-{{env}}/data/cart token={{vault_token}} url=https://vault-internal.rdevopsb80.online:8200 validate_certs=false')}}"
 =======D80-2024-07-25-SESSION-30=====N/W===theory==
 N/w concepts/ Landing Zone further move to Containerisation
-VPC—
+>dev-VPC create @29:00
+ >Create instant—dev vpc—subnet(create)
+>Bastian node
+>	workstaion(public IP)—connect—roboshop server(pet tips)
+>VPC—peering—VPC @38:00 * (should diff. n/w)
     subnet
+>Add to route table
+>IGW(to get internet) 0.0.0.0 create and attach to vpc and add in RTB(route tables)
+>NGW(from IGW to split internet to pvt IPs)
+>> N/W diagram @57:00
+
 Landing Zone—not covered
 =======D80-2024-07-26-SESSION-31=====N/W=====
-Route tables
+Route tables creation for Public,web,app,db
+	and assign to respective subnet @8:00
+Now create IGW @12:00 and attach to Public-rt only as per diagram
+  Attach to rtb…
+Now NATGW creation @15:00
+********
+
 =======D80-2024-07-27-SESSION-32=====N/W===Terraform+roboshop==
 Ec2 web instances
 Launch template
@@ -260,8 +275,10 @@ Autoscaling group(using load balance)
 ARN(amazon resource name)
 ======D80-2024-07-30-SESSION-34=======dry===Terraform+roboshop===
 Terraform+roboshop
-
-
-
+======D80-2024-07-31-SESSION-35=======dry===Terraform+roboshop===
+Terraform+roboshop
+Certificate: Add CA-https:
+======D80-2024-08-01-SESSION-36=======dry===Terraform+roboshop===
+Cost reduction
 
 
