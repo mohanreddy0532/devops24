@@ -257,10 +257,12 @@ Landing Zone—not covered
 Route tables creation for Public,web,app,db
 	and assign to respective subnet @8:00
 Now create IGW @12:00 and attach to Public-rt only as per diagram
-  Attach to rtb…
+	  Attach to rtb…
 Now NATGW creation @15:00
-********
-
+	attach to rib. @19:00
+Create instances and chk
+——@22:00
+Peering connection to VPC
 =======D80-2024-07-27-SESSION-32=====N/W===Terraform+roboshop==
 Ec2 web instances
 Launch template
