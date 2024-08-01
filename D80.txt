@@ -280,7 +280,11 @@ Terraform+roboshop
 ======D80-2024-07-31-SESSION-35=======dry===Terraform+roboshop===
 Terraform+roboshop
 Certificate: Add CA-https:
-======D80-2024-08-01-SESSION-36=======dry===Terraform+roboshop===
+======D80-2024-08-01-SESSION-36=======dry====
 Cost reduction
+	reduced LB to one
+======D80-2024-08-02-SESSION-37=======dry===
+Cost reduction
+	reserverd/spot instance
 
 
