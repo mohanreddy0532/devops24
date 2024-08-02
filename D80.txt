@@ -261,8 +261,8 @@ Now create IGW @12:00 and attach to Public-rt only as per diagram
 Now NATGW creation @15:00
 	attach to rib. @19:00
 Create instances and chk
-——@22:00
-Peering connection to VPC
+Peering connection to VPC  ——@22:00
+	connect from workstation(default vpc) to servers in another vpc as per diagram…
 =======D80-2024-07-27-SESSION-32=====N/W===Terraform+roboshop==
 Ec2 web instances
 Launch template
@@ -286,5 +286,12 @@ Cost reduction
 ======D80-2024-08-02-SESSION-37=======dry===
 Cost reduction
 	reserverd/spot instance
+Containerization: @50:00
+	Docker: docker bin, docker service, container runtime
+	OpenSource & Enterprise
+Podman: docker alternative…from RedHat
+
+
+
 
 
