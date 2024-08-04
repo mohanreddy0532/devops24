@@ -265,13 +265,14 @@ Peering connection to VPC  ——@22:00
 	connect from workstation(default vpc) to servers in another vpc as per diagram….peering ->update info in both side rtb’s
 Now create separate servers for WEB,APP,DB @50:00
 
-=======D80-2024-07-27-SESSION-32=====N/W===Terraform+roboshop==
-Ec2 web instances
-Launch template
-Create aws_auto_scaling group(ASG)
+=======D80-2024-07-27-SESSION-32==**===N/W===Terraform+roboshop==
+EC2 web instances
+	Create awe_auto_scaling group(ASG)
+	Launch template @06:00
 Create db instance
-User data code in aws
-=======D80-2024-07-29-SESSION-33=======dry===Terraform+roboshop====
+User data code (for template usage)
+
+====MON===D80-2024-07-29-SESSION-33=======dry===Terraform+roboshop====
 
 Autoscaling group(using load balance)
 	Application LB
