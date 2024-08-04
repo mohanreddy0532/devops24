@@ -280,20 +280,20 @@ Autoscaling group(using load balance)
 ARN(amazon resource name)
 ======D80-2024-07-30-SESSION-34=======dry===Terraform+roboshop===
 Terraform+roboshop
-======D80-2024-07-31-SESSION-35=======dry===Terraform+roboshop===
+======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
 Terraform+roboshop
 Certificate: Add CA-https:
-======D80-2024-08-01-SESSION-36=======dry====
+======D80-2024-08-01-SESSION-36===========
 Cost reduction
 	reduced LB to one
-======D80-2024-08-02-SESSION-37=======dry===
+======D80-2024-08-02-SESSION-37==========
 Cost reduction
 	reserverd/spot instance
 Containerization: @50:00
 	Docker: docker bin, docker service, container runtime
 	OpenSource & Enterprise
 Podman: docker alternative…from RedHat
-
+======D80-2024-08-04-SESSION-38=======MON===
 
 
 
