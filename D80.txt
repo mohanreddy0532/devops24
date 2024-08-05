@@ -294,7 +294,10 @@ Containerization: @50:00
 	OpenSource & Enterprise
 Podman: docker alternative…from RedHat
 ======D80-2024-08-04-SESSION-38=======MON===
-
-
-
+	sudo def install docker -y ==>installing on reel so  u cn see podman
+Hub.docker.com —>for images docker
+#docker run -d -P docker.io/nginx  —>image come from docker -P-will open random port
+#docker ps
+#docker run -d -p 10000:80 docker.io/nginx =>10000 is server port ;80 is container port
+	netstat -lntp
 
