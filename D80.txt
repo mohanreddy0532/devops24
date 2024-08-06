@@ -293,7 +293,7 @@ Containerization: @50:00
 	Docker: docker bin, docker service, container runtime
 	OpenSource & Enterprise
 Podman: docker alternative…from RedHat
-======D80-2024-08-04-SESSION-38=======MON===
+======D80-2024-08-04-SESSION-38=======MON===Docker===
 	sudo def install docker -y ==>installing on reel so  u cn see podman
 Hub.docker.com —>for images docker
 #docker run -d -P docker.io/nginx  —>image come from docker -P-will open random port
@@ -301,8 +301,8 @@ Hub.docker.com —>for images docker
 #docker run -d -p 10000:80 docker.io/nginx =>10000 is server port ;80 is container port
 	netstat -lntp
 Containers are used for Stateless applications—>not DB
-======D80-2024-08-05-SESSION-39==========
+======D80-2024-08-05-SESSION-39======Docker====
 Docker internal commands
-
-
-
+Docker ++ ansible
+Docker commands
+======D80-2024-08-05-SESSION-39======K8’s====
