@@ -311,4 +311,4 @@ K8’s is an Orchestrator…
 Other tools	OpenShift
 			Docker Swarm
 			DCOS
-======D80-2024-08-08-SESSION-41======K8’s====
+======D80-2024-08-08-SESSION-41======K8’s=====
