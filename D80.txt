@@ -316,5 +316,9 @@ K8’s Architecture:
 Minikube=Master+Node(one server)
 	installation,
 Kubectl install to interact with Minikube
-Install K9’s
-Creating Pods
+	1>Install K9’s cli for k8 management
+	2>Use Octant UI tool for k8 management
+ReplicaSet:
+	to maintain a stable set of pods
+K8’s Namespace
+
