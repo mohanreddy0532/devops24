@@ -288,8 +288,8 @@ Cost reduction
 	reduced LB to one
 ======D80-2024-08-02-SESSION-37==========
 Cost reduction
-	reserverd/spot instance
-Containerization: @50:00
+	reserved/spot instance
+Containerisation: @50:00
 	Docker: docker bin, docker service, container runtime
 	OpenSource & Enterprise
 Podman: docker alternative…from RedHat
@@ -311,4 +311,6 @@ K8’s is an Orchestrator…
 Other tools	OpenShift
 			Docker Swarm
 			DCOS
-======D80-2024-08-08-SESSION-41======K8’s=====
+======D80-2024-08-08-SESSION-41======K8’s====
+K8’s Architecture:
+Minikube=Master+Node(one server)
