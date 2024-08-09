@@ -325,4 +325,8 @@ K8’s Namespace
 Container life:IP assignment
 	Pause container (will hold ip if c1 doesn’t exists)
 #crictl ps  #crictl images
-
+Pod Lifecycle:
+	Pending>Running>Success>Failed>Unknown
+Kubernetes
+	API Server=scheduler,ETCD,Controller,Cloud controller
+Kubernetes in action Book
