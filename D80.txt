@@ -321,4 +321,8 @@ Kubectl install to interact with Minikube
 ReplicaSet:
 	to maintain a stable set of pods
 K8’s Namespace
+======D80-2024-08-09-SESSION-42======K8’s====
+Container life:IP assignment
+	Pause container (will hold ip if c1 doesn’t exists)
+#crictl ps  #crictl images
 
