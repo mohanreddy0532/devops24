@@ -330,3 +330,9 @@ Pod Lifecycle:
 Kubernetes
 	API Server=scheduler,ETCD,Controller,Cloud controller
 Kubernetes in action Book
+======D80-2024-08-10-SESSION-43======K8’s====
+Amazon EKS cluster installation
+Service: To manage traffic in PODs
+
+
+===Pending 29-July—S33===
