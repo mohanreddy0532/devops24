@@ -334,5 +334,10 @@ Kubernetes in action Book
 Amazon EKS cluster installation
 Service: To manage traffic in PODs
 
+======D80-2024-08-12-SESSION-44======K8’s====
+======D80-2024-08-13-SESSION-45======K8’s====
+======D80-2024-08-14-SESSION-46======K8’s====
+======D80-2024-08-15-SESSION-47======K8’s====
+======D80-2024-08-16-SESSION-48======K8’s====
 
 ===Pending 29-July—S33===
