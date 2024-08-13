@@ -351,6 +351,10 @@ Quota’s
 N/w security in K8’s
 RBAC
 Cloud Trail in AWS
+RBAC resource
+Role biniding and AUTH.
+N/W Policies
+OSI Layer
 ======D80-2024-08-14-SESSION-46======K8’s====
 ======D80-2024-08-15-SESSION-47======K8’s====
 ======D80-2024-08-16-SESSION-48======K8’s====
