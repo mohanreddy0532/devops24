@@ -356,6 +356,9 @@ Role biniding and AUTH.
 N/W Policies
 OSI Layer
 ======D80-2024-08-14-SESSION-46======K8’s====
+Istio-Service mesh
+SELinux
+Problems in docker
 ======D80-2024-08-15-SESSION-47======K8’s====
 ======D80-2024-08-16-SESSION-48======K8’s====
 
