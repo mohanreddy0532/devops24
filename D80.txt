@@ -306,7 +306,9 @@ Docker internal commands
 Docker ++ ansible
 Docker commands
 ======D80-2024-08-07-SESSION-40======K8’s=intro===
-Docker commands
+Docker commands > Podman Commands
+Storage of Pod VS Container
+Wt/Why NAS?
 K8’s is an Orchestrator…
 Other tools	OpenShift
 			Docker Swarm
