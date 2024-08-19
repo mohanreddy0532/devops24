@@ -308,11 +308,13 @@ Docker commands
 ======D80-2024-08-07-SESSION-40======K8’s=intro===
 Docker commands > Podman Commands
 Storage of Pod VS Container
-Wt/Why NAS?
+Wt/Why NAS? =>MinIO(onPremisis)—or—S3(Cloud)
+Why K8’s than Docker—>n/w,Storage orchestration is leading K8.
 K8’s is an Orchestrator…
-Other tools	OpenShift
+Other tools	OpenShift(redHat on premis)
 			Docker Swarm
 			DCOS
+POD is Logical gr. Of containers..Advantages of POD are—>delaing n/w and storage,Inbuilt DNS
 ======D80-2024-08-08-SESSION-41======K8’s====
 K8’s Architecture:
 Minikube=Master+Node(one server)
@@ -367,7 +369,7 @@ PSP
 ======D80-2024-08-17-SESSION-No=============
 ======D80-2024-08-18-SESSION-No=============
 
-======D80-2024-08-19-SESSION-47=====Mon=====
+======D80-2024-08-19-SESSION-47=====Mon===K8’s troubleShoot==
 K8’s PSP-Pod Security Policy—>PSA,PSS
 Security scanners for Containers
 ======D80-2024-08-20-SESSION-48=============
