@@ -316,10 +316,10 @@ Other tools	OpenShift(redHat on premis)
 			DCOS
 POD is Logical gr. Of containers..Advantages of POD are—>delaing n/w and storage,Inbuilt DNS
 ======D80-2024-08-08-SESSION-41======K8’s====
-K8’s Architecture:
+K8’s Architecture:  EKS(AWS K8’s)
 Minikube=Master+Node(one server)
-	installation,
-Kubectl install to interact with Minikube
+	@26:00 auto installation
+Kubectl install to interact with Minikube(via API server)
 	1>Install K9’s cli for k8 management
 	2>Use Octant UI tool for k8 management
 ReplicaSet:
