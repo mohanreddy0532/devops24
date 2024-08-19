@@ -321,8 +321,9 @@ Minikube=Master+Node(one server)
 	@26:00 auto installation
 Kubectl install to interact with Minikube(via API server)
 	1>Install K9’s cli for k8 management  @51:00
-	2>Use Octant UI tool for k8 management
+	2>Use Octant UI tool for k8 management (from VMware)
 How to setup POD with automation(yaml)
+K8-Roadmap >PODS,
 ReplicaSet:
 	to maintain a stable set of pods
 K8’s Namespace
