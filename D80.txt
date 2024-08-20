@@ -381,6 +381,9 @@ Kubeaudit
 Monitoring and Logging
        K8 Monitoring tool is Metric server
 	Liveness/Readyness of Probe
+Autoscaling: Horizontal VS Vertical
+	KEDA->Event driven Autoscaler
+VPA:Vertical Pod Autoscaler
 ======D80-2024-08-21-SESSION-49=============
 ======D80-2024-08-22-SESSION-50=============
 ======D80-2024-08-23-SESSION-51=============
