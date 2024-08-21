@@ -385,6 +385,10 @@ Autoscaling: Horizontal VS Vertical
 	KEDA->Event driven Autoscaler
 VPA:Vertical Pod Autoscaler
 ======D80-2024-08-21-SESSION-49=============
+Scheduler:
+	nodeName:
+	affinity: req.DuringSchedulingIgnoreDuringExecution
+		      pref.DuringSchedulingIgnoreDuringExecution
 ======D80-2024-08-22-SESSION-50=============
 ======D80-2024-08-23-SESSION-51=============
 ======D80-2024-08-24-SESSION-52=============
