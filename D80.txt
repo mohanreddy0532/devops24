@@ -389,9 +389,22 @@ Scheduler:
 	nodeName:
 	affinity: req.DuringSchedulingIgnoreDuringExecution
 		      pref.DuringSchedulingIgnoreDuringExecution
+	podAntiAffinity:
+Taint:
+Storage And Volumes:
 ======D80-2024-08-22-SESSION-50=============
 ======D80-2024-08-23-SESSION-51=============
 ======D80-2024-08-24-SESSION-52=============
 ======D80-2024-08-25-SESSION-53=============
 
 ===Pending 29-July—S33===
+
+
+
+
+
+
+
+
+
+
