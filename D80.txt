@@ -393,9 +393,14 @@ Scheduler:
 Taint:
 Storage And Volumes:
 ======D80-2024-08-22-SESSION-50=============
+Storage
+EKS Cluster: IRSA(idea. Role for service account)
+ Created a new branch for existing setup as 02.before eke
 ======D80-2024-08-23-SESSION-51=============
 ======D80-2024-08-24-SESSION-52=============
-======D80-2024-08-25-SESSION-53=============
+
+======D80-2024-08-26-SESSION-53======MON====
+======D80-2024-08-27-SESSION-54==============
 
 ===Pending 29-July—S33===
 
