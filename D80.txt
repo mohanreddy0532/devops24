@@ -395,8 +395,9 @@ Storage And Volumes:
 ======D80-2024-08-22-SESSION-50=============
 Storage
 EKS Cluster: IRSA(idea. Role for service account)
- Created a new branch for existing setup as 02.before eke
+ Created a new branch for existing setup as 02.before eks
 ======D80-2024-08-23-SESSION-51=============
+EKS cluster
 ======D80-2024-08-24-SESSION-52=============
 
 ======D80-2024-08-26-SESSION-53======MON====
