@@ -397,7 +397,11 @@ Storage
 EKS Cluster: IRSA(idea. Role for service account)
  Created a new branch for existing setup as 02.before eks
 ======D80-2024-08-23-SESSION-51=============
-EKS cluster
+EKS cluster :
+	eks_access_policy to workstation
+K8’s for Roboshop setup in Terraform
+Create code for user Component
+	                    cart component
 ======D80-2024-08-24-SESSION-52=============
 
 ======D80-2024-08-26-SESSION-53======MON====
