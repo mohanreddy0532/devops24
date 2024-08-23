@@ -402,6 +402,8 @@ EKS cluster :
 K8’s for Roboshop setup in Terraform
 Create code for user Component
 	                    cart component
+Create code for shipping component
+Create code for Payment component
 ======D80-2024-08-24-SESSION-52=============
 
 ======D80-2024-08-26-SESSION-53======MON====
