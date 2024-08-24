@@ -401,11 +401,11 @@ EKS cluster : setup through Automation
 	eks_access_policy to workstation
 K8’s for Roboshop setup in Terraform
 Create code for user Component
-	            cart component
+	                    cart component
 Create code for shipping component
 Create code for Payment component
-======D80-2024-08-24-SESSION-52=============
-
+======D80-2024-08-24-SESSION-52======NA======
+Cancelled
 ======D80-2024-08-26-SESSION-53======MON====
 ======D80-2024-08-27-SESSION-54==============
 
