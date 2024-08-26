@@ -407,6 +407,11 @@ Create code for Payment component
 ======D80-2024-08-24-SESSION-52======NA======
 Cancelled
 ======D80-2024-08-26-SESSION-53======MON====
+Helm Chart
+Wt is Chart file structure
+Install helm chart
+Create template file for helm chart K*s
+Create Helm chart for K8s Roboshop
 ======D80-2024-08-27-SESSION-54==============
 
 ===Pending 29-July—S33===
