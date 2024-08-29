@@ -417,7 +417,10 @@ Docker images for specific —>sql, mongo, shipping, catalogue
 schema-load
 ======D80-2024-08-28-SESSION-54==============
 Vault image
+Vault external secrets ‘k8 external secrets
+install,Configure,
 ======D80-2024-08-29-SESSION-55==============
+
 ======D80-2024-08-30-SESSION-56==============
 ======D80-2024-08-31-SESSION-57==============
 ===Pending 29-July—S33===
