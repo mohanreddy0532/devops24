@@ -420,9 +420,13 @@ Vault image
 Vault external secrets ‘k8 external secrets
 install,Configure,
 ======D80-2024-08-29-SESSION-55==============
-
+Update shipping catalogue
+Update shipping schema
+Helm chart Hooks
+Vault access deployment to docker-Roboshop project
+Install EKS metric server
 ======D80-2024-08-30-SESSION-56==============
-======D80-2024-08-31-SESSION-57==============
+======D80-2024-08-31-SESSION-57=====NO=========
 ===Pending 29-July—S33===
 ======D80-2024-09-02-SESSION-58=====MON=====
 ======D80-2024-09-03-SESSION-59==============
