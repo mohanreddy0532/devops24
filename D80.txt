@@ -426,6 +426,9 @@ Helm chart Hooks
 Vault access deployment to docker-Roboshop project
 Install EKS metric server
 ======D80-2024-08-30-SESSION-56==============
+Setup the load-test of Roboshop
+Implement YAML helm
+Implement indent helm
 ======D80-2024-08-31-SESSION-57=====NO=========
 ===Pending 29-July—S33===
 ======D80-2024-09-02-SESSION-58=====MON=====
