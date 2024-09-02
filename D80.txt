@@ -432,6 +432,8 @@ Implement indent helm
 ======D80-2024-08-31-SESSION-57=====NO=========
 ===Pending 29-July—S33===
 ======D80-2024-09-02-SESSION-58=====MON=====
+NewRelic—>monitoring and analyzing the performance
+
 ======D80-2024-09-03-SESSION-59==============
 ======D80-2024-09-04-SESSION-60==============
 ======D80-2024-09-05-SESSION-61==============
