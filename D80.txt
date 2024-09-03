@@ -429,17 +429,23 @@ Install EKS metric server
 Setup the load-test of Roboshop
 Implement YAML helm
 Implement indent helm
-======D80-2024-08-31-SESSION-57=====NO=========
+======D80-2024-08-31-SESSION-NA=====NO=========
 ===Pending 29-July—S33===
-======D80-2024-09-02-SESSION-58=====MON=====
+======D80-2024-09-02-SESSION-57=====MON=====
 NewRelic—>monitoring and analyzing the performance
-
-======D80-2024-09-03-SESSION-59==============
+Register NewRelic
+Install Nginx
+Wt is monitoring and Why
+Four Golden Signals if Monitoring
+Monitor Nginx with NewRelic
+Add Catalogue data to New Relic
+Integrate Newrelic with K8’s
+======D80-2024-09-03-SESSION-58==============
 Prometheus…
-======D80-2024-09-04-SESSION-60==============
-======D80-2024-09-05-SESSION-61==============
-======D80-2024-09-06-SESSION-62==============
-======D80-2024-09-07-SESSION-63==============
+======D80-2024-09-04-SESSION-59==============
+======D80-2024-09-05-SESSION-60==============
+======D80-2024-09-06-SESSION-61==============
+======D80-2024-09-07-SESSION-62==============
 
 
 
