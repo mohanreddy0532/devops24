@@ -445,7 +445,13 @@ Prometheus…
 ======D80-2024-09-04-SESSION-59==============
 Install external-DNS
 Create IAM role. For external-pod-role
-Attach ham-role-policy to external-pod-role
+Attach iam-role-policy to external-pod-role
+Add aws-eks-pod-identity-association to externla-pod-role
+Secure http
+Create nginx ingress with certificate
+Install aws load balancer controller ingress
+Add IAM role permissions to AWS LB controller ingress
+Add subnets annotations to AWS LB controller ingress
 ======D80-2024-09-05-SESSION-60==============
 ======D80-2024-09-06-SESSION-61==============
 ======D80-2024-09-07-SESSION-62==============
