@@ -457,7 +457,13 @@ Add subnets annotations to AWS LB controller ingress
 Creare aws-alb-ingress controller
 AWS LB ingress controller annotations
 How to create https listener for ALB
-How to redirect http listener to https of groan
+How to redirect http listener to https of grfana
+AWS LB ingress controller configuration
+Prometheus Architecture
+Prometheus configuration to K8’s sd_config
+Deploying roboshop-helm
+The 4 golden signals in Prometheus
+Wt are diff. Log collecting tools
 ======D80-2024-09-07-SESSION-62==============
 
 
