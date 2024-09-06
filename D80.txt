@@ -454,6 +454,10 @@ Add IAM role permissions to AWS LB controller ingress
 Add subnets annotations to AWS LB controller ingress
 ======D80-2024-09-05-SESSION-60==============
 ======D80-2024-09-06-SESSION-61==============
+Creare aws-alb-ingress controller
+AWS LB ingress controller annotations
+How to create https listener for ALB
+How to redirect http listener to https of groan
 ======D80-2024-09-07-SESSION-62==============
 
 
