@@ -445,7 +445,14 @@ Prometheus…Install
 Install node-exporter
 Prometheus configuration
 How to monitor with ec2_sdconfig Prometheus
-
+Create a role for ec2 instance Prometheus
+How to install Grafana and add connection
+How to install Kube-prometheus-stack
+How to create ec2 instance K8’s Operater
+How to install Nginx ingress controller with Helm
+How to create Nginx ingress example
+Create DNS record for grafana
+Wt is External DNS K8’s
 ======D80-2024-09-04-SESSION-59==============
 Install external-DNS
 Create IAM role. For external-pod-role
