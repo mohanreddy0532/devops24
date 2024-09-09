@@ -477,6 +477,7 @@ The 4 golden signals in Prometheus
 Wt are diff. Log collecting tools
 ======D80-2024-09-07-SESSION-NA==============
 ======D80-2024-09-09-SESSION-62===MON=======
+ELK install
 ======D80-2024-09-10-SESSION-63==============
 ======D80-2024-09-11-SESSION-64==============
 ======D80-2024-09-12-SESSION-65==============
