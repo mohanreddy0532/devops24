@@ -486,6 +486,14 @@ Disable vault http to https
 Install ELK manually
 Install Kibana ,install log stash
 ======D80-2024-09-10-SESSION-63==============
+ELK collects logs
+Shio nix logs to Logstash
+Install file beat to ship logs
+Elastic search output plugins
+Wt are transaction and non-transaction logs
+How logstasth converts unstructured logs to structures logs
+How to built grok pattern in Grok debugger
+How to install filbert helm chart
 ======D80-2024-09-11-SESSION-64==============
 ======D80-2024-09-12-SESSION-65==============
 ======D80-2024-09-13-SESSION-66==============
