@@ -502,7 +502,7 @@ Create for roboshop components ingress in Helm chart
 How to write logs proper pattern using log stash
 To add the logotype labels to roboshop helm
 ======D80-2024-09-12-SESSION-65==============
-======D80-2024-09-13-SESSION-NA==============
+======D80-2024-09-13-SESSION-NA======NA========
 ======D80-2024-09-14-SESSION-66==============
 ======D80-2024-09-16-SESSION-67==============
 ======D80-2024-09-17-SESSION-NA=====NA=========
@@ -510,7 +510,14 @@ To add the logotype labels to roboshop helm
 ======D80-2024-09-19-SESSION-NA=====NA=========
 ======D80-2024-09-20-SESSION-69==============
 ======D80-2024-09-21-SESSION-70==============
-======D80-2024-09-23-SESSION-==============
+======D80-2024-09-23-SESSION-71==============
+Create Jenkins jobs through automation
+Wt are CI pipeline stages
+Wt is continuous integration.
+How to create the CI pipeline
+How to create a git tag in Jenkins
+Wt is extending shared libraries.
+How to create CI pipeline in Roboshop and add Jenkins libraries.
 ======D80-2024-09-24-SESSION-==============
 ======D80-2024-09-25-SESSION-==============
 
