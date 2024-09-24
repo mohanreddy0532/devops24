@@ -478,7 +478,7 @@ Wt are diff. Log collecting tools
 ======D80-2024-09-07-SESSION-NA==============
 ======D80-2024-09-09-SESSION-62===MON=======
 ELK introduction
-EL=lastic search prod cluster arch.
+ELK=Elastic search prod cluster arch.
 Pricing of Spot instance
 How to create spot instance for elastic search
 Install Elastic search with automation
@@ -510,6 +510,13 @@ To add the logotype labels to roboshop helm
 ======D80-2024-09-19-SESSION-NA=====NA=========
 ======D80-2024-09-20-SESSION-69==============
 ======D80-2024-09-21-SESSION-70==============
+Update Jenkins config file
+Setup Jenkins instance with automation
+Setup Jenkins with ansible
+Setup user/pwd using vault secrets for Jenkins
+Install multi branch pipeline plugins through automation
+How to create jobs
+How to create Roboshop Jenkins jobs
 ======D80-2024-09-23-SESSION-71==============
 Create Jenkins jobs through automation
 Wt are CI pipeline stages
