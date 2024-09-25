@@ -525,7 +525,13 @@ How to create the CI pipeline
 How to create a git tag in Jenkins
 Wt is extending shared libraries.
 How to create CI pipeline in Roboshop and add Jenkins libraries.
-======D80-2024-09-24-SESSION-==============
+======D80-2024-09-24-SESSION-72==============
+How to install the roboshop-app-import repos
+Add Jenkins file to Roboshop-jenkins
+Run a test case
+Make the code checkout Jenkins pipeline
+Run Maven integration test
+Setup the docker build with ansible
 ======D80-2024-09-25-SESSION-==============
 
 
