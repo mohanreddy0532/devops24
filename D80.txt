@@ -532,9 +532,13 @@ Run a test case
 Make the code checkout Jenkins pipeline
 Run Maven integration test
 Setup the docker build with ansible
-======D80-2024-09-25-SESSION-==============
-
-
+======D80-2024-09-25-SESSION-73==============
+How to built the docker images manually
+How to built docker images in AWS ECR for Roboshop
+Docker image for Cart,catalogue,User,Shipping
+Increase volume of Jenkins
+======D80-2024-09-26-SESSION-74==============
+======D80-2024-09-27-SESSION-75==============
 
 
 
