@@ -540,8 +540,21 @@ Increase volume of Jenkins
 ======D80-2024-09-26-SESSION-74==============
 ======D80-2024-09-27-SESSION-75==============
 ======D80-2024-09-27-SESSION-NA====NA==========
+======D80-2024-09-30-SESSION-76=============
 
-
+======D80-2024-10-01-SESSION-77‎ = ==============
+======D80-2024-10-01-SESSION-77‎ = ==============
+======D80-2024-10-01-SESSION-77‎ = ==============
+======D80-2024-10-01-SESSION-77‎ = ==============
+======D80-2024-10-01-SESSION-77‎ = ==============
+How to deploy the pipeline with gitHub actions.
+How to add the github_repository_environment to Roboshopcomponents with Terraform
+How to list to map the repository_environment with Terrofrm
+======D80-2024-10-02-SESSION-78==============
+======D80-2024-10-03-SESSION-79==============
+======D80-2024-10-04-SESSION-7==============
+======D80-2024-10-05-SESSION-==============
+======D80-2024-10-06-SESSION-==============
 
 
 
