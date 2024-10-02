@@ -555,7 +555,7 @@ How to trigger the CI Pipeline workflow
 How to install the AgroCD cli manually
 How to install the ArgoCD CLI with ansible and deploy the Roboshop-helm
 ======D80-2024-10-03-SESSION-79==============
-======D80-2024-10-04-SESSION-7==============
+======D80-2024-10-04-SESSION-80==============
 ======D80-2024-10-05-SESSION-==============
 ======D80-2024-10-06-SESSION-==============
 
