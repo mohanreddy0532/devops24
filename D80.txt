@@ -551,6 +551,10 @@ How to deploy the pipeline with gitHub actions.
 How to add the github_repository_environment to Roboshopcomponents with Terraform
 How to list to map the repository_environment with Terrofrm
 ======D80-2024-10-02-SESSION-78==============
+How to add Map list functions to Roboshop-Jenkins with Terraform
+How to trigger the CI Pipeline workflow
+How to install the AgroCD cli manually
+How to install the ArgoCD CLI with ansible and deploy the Roboshop-helm
 ======D80-2024-10-03-SESSION-79==============
 ======D80-2024-10-04-SESSION-7==============
 ======D80-2024-10-05-SESSION-==============
