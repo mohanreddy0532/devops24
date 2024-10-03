@@ -508,7 +508,21 @@ To add the logotype labels to roboshop helm
 ======D80-2024-09-17-SESSION-NA=====NA=========
 ======D80-2024-09-18-SESSION-68==============
 ======D80-2024-09-19-SESSION-NA=====NA=========
-======D80-2024-09-20-SESSION-69==============
+======D80-2024-09-20-SESSION-69======***========
+Wt is CI
+Wt is Pipelines in CI
+How the developer deploy the code
+Wt is Trunck Based development
+Wt is Jira sprint Agile
+CI and CD
+Why Jenkins is not good for CD
+Install Jenkins
+Create Jenkins free style project
+Pipeline syntax
+Create Jenkins pipeline
+Pipeline syntax
+How to create Jenkins pipeline
+Install blueocean plugin
 ======D80-2024-09-21-SESSION-70==============
 Update Jenkins config file
 Setup Jenkins instance with automation
