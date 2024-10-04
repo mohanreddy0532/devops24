@@ -570,6 +570,10 @@ How to install the AgroCD cli manually
 How to install the ArgoCD CLI with ansible and deploy the Roboshop-helm
 ======D80-2024-10-03-SESSION-NA====NA==========
 ======D80-2024-10-04-SESSION-79==============
+How to deploy the pipeline with ArgoCD
+Monitor the roboshop project with ELK
+Creating the pods for the Roboshop-helm
+Made a load test to roboshop-helm
 ======D80-2024-10-05-SESSION-==============
 ======D80-2024-10-06-SESSION-==============
 
