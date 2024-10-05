@@ -552,6 +552,10 @@ How to built docker images in AWS ECR for Roboshop
 Docker image for Cart,catalogue,User,Shipping
 Increase volume of Jenkins
 ======D80-2024-09-26-SESSION-74==============
+Run the terraform code
+Built docker images for Roboshop-Payment
+Built docker images for Frontend
+Deploy with Helm
 ======D80-2024-09-27-SESSION-75==============
 ======D80-2024-09-27-SESSION-NA====NA==========
 ======D80-2024-09-30-SESSION-76=============
