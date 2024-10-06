@@ -507,6 +507,13 @@ To add the logotype labels to roboshop helm
 ======D80-2024-09-16-SESSION-67==============
 ======D80-2024-09-17-SESSION-NA=====NA=========
 ======D80-2024-09-18-SESSION-68==============
+Signup to NewRelic
+Deploy Roboshop with New Relic
+Monitor catalogue docker image with NewRelic
+Monitor use docker image with NewRelic
+Monitor cart docker image with NewRelic
+Monitor shipping docker image with NewRelic
+Monitor payment docker image with NewRelic
 ======D80-2024-09-19-SESSION-NA=====NA=========
 ======D80-2024-09-20-SESSION-69======***========
 Wt is CI
