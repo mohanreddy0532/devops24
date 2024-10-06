@@ -556,7 +556,11 @@ Run the terraform code
 Built docker images for Roboshop-Payment
 Built docker images for Frontend
 Deploy with Helm
-======D80-2024-09-27-SESSION-75==============
+======D80-2024-09-27-SESSION-75======***========
+Deploy FE
+Update code and deployed Roboshop components
+Create WebHook Manually
+Create GitHub web hook with Terraform
 ======D80-2024-09-27-SESSION-NA====NA==========
 ======D80-2024-09-30-SESSION-76=============
 Create gitlab repository web hook
