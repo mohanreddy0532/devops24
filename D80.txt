@@ -589,8 +589,11 @@ How to deploy the pipeline with ArgoCD
 Monitor the roboshop project with ELK
 Creating the pods for the Roboshop-helm
 Made a load test to roboshop-helm
-======D80-2024-10-05-SESSION-==============
-======D80-2024-10-06-SESSION-==============
+======D80-2024-10-07-SESSION-80==============
+Run a Load set of Robaoshop Helm
+Creating virtualise library for helm
+Enable the New relic to monitor helm
+======D80-2024-10-08-SESSION-81==============
 
 
 
