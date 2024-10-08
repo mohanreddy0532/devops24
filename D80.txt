@@ -501,7 +501,12 @@ Store logs in proper manner
 Create for roboshop components ingress in Helm chart
 How to write logs proper pattern using log stash
 To add the logotype labels to roboshop helm
-======D80-2024-09-12-SESSION-65==============
+======D80-2024-09-12-SESSION-65======**=========
+Update the labels in log stash config
+How to add drop filter plugin in log stash
+How to write logs for diff. Applications
+How to make grokpattern
+How to remove fields from log stash
 ======D80-2024-09-13-SESSION-NA======NA========
 ======D80-2024-09-14-SESSION-66==============
 ======D80-2024-09-16-SESSION-67==============
