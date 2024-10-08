@@ -507,6 +507,8 @@ How to add drop filter plugin in log stash
 How to write logs for diff. Applications
 How to make grokpattern
 How to remove fields from log stash
+How to generate the grok expression to shipping logs
+How grok deal with multiline logs in logstash
 ======D80-2024-09-13-SESSION-NA======NA========
 ======D80-2024-09-14-SESSION-66==============
 ======D80-2024-09-16-SESSION-67==============
