@@ -511,6 +511,9 @@ How to generate the grok expression to shipping logs
 How grok deal with multiline logs in logstash
 ======D80-2024-09-13-SESSION-NA======NA========
 ======D80-2024-09-14-SESSION-66==============
+How multi log line split into log line of shipping
+How to manage filbert multiline messages
+How multilog line split into log line of payment
 ======D80-2024-09-16-SESSION-67==============
 ======D80-2024-09-17-SESSION-NA=====NA=========
 ======D80-2024-09-18-SESSION-68==============
