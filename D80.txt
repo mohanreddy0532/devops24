@@ -515,6 +515,10 @@ How multi log line split into log line of shipping
 How to manage filbert multiline messages
 How multilog line split into log line of payment
 ======D80-2024-09-16-SESSION-67==============
+How to colect the logs of Roboshop app
+How to get Nginx response time of logs
+Create visualisation for roboshop frontend ***
+How to generate the load in Roboshop helm
 ======D80-2024-09-17-SESSION-NA=====NA=========
 ======D80-2024-09-18-SESSION-68==============
 Signup to NewRelic
