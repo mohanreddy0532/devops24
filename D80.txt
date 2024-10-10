@@ -273,7 +273,7 @@ Create db instance
 User data code (for template usage)
 
 ====MON===D80-2024-07-29-SESSION-33=======dry===Terraform+roboshop====
-
+=============================================Pending 29-July—S33=======================
 Autoscaling group(using load balance)
 	Application LB
 	Target groups
@@ -430,7 +430,6 @@ Setup the load-test of Roboshop
 Implement YAML helm
 Implement indent helm
 ======D80-2024-08-31-SESSION-NA=====NO=========
-===Pending 29-July—S33===
 ======D80-2024-09-02-SESSION-57===MON====monitoring=
 NewRelic—>monitoring and analyzing the performance
 Register NewRelic
