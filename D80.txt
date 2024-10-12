@@ -617,7 +617,13 @@ How to enable the logs
 How to create the log group in cloud watch
 How to encrypt the Roboshop infra
 ======D80-2024-10-11-SESSION-83==============
-
+Add KMS Key policy to cloud watch
+Creating the log group in Cloud watch
+How do you use KMS to encrypt cloud watch logs
+How to modify the permissions in R53
+Ignore tfsec problems
+Modify the eks_node_group
+Creat the template for autoscaling group
 ======D80-2024-10-14-SESSION-84==============
 ======D80-2024-10-15-SESSION-85==============
 ======D80-2024-10-16-SESSION-83==============
