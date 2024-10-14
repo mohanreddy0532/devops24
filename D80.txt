@@ -628,6 +628,7 @@ Ignore tfsec problems
 Modify the eks_node_group
 Creat the template for autoscaling group
 ======D80-2024-10-14-SESSION-84==============
+terraform==>Packer tool for IaaS
 ======D80-2024-10-15-SESSION-85==============
 ======D80-2024-10-16-SESSION-83==============
 ======D80-2024-10-17-SESSION-87==============
