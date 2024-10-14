@@ -628,6 +628,11 @@ Ignore tfsec problems
 Modify the eks_node_group
 Creat the template for autoscaling group
 ======D80-2024-10-14-SESSION-84==============
+Create findings by container images in AWS
+How to enable the scan configuration in ECR
+How to multi-stage build docker
+How to scan EC2 in instances
+C.delivery VS C.deployment
 terraform==>Packer tool for IaaS
 ======D80-2024-10-15-SESSION-85==============
 ======D80-2024-10-16-SESSION-83==============
