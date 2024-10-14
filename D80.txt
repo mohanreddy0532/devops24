@@ -463,6 +463,9 @@ Install aws load balancer controller ingress
 Add IAM role permissions to AWS LB controller ingress
 Add subnets annotations to AWS LB controller ingress
 ======D80-2024-09-05-SESSION-60==============
+How to create the was-ingress-controller
+Create the aws load balancer controller
+Add to eks aws ingress controller annotations group
 ======D80-2024-09-06-SESSION-61==============
 Creare aws-alb-ingress controller
 AWS LB ingress controller annotations
