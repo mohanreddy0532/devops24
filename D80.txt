@@ -635,6 +635,10 @@ How to scan EC2 in instances
 C.delivery VS C.deployment
 terraform==>Packer tool for IaaS
 ======D80-2024-10-15-SESSION-85==============
+How to fix AMI
+Adding IAM role to scanner
+How to automate builds with packer images
+Creating roles for the golden AMI
 ======D80-2024-10-16-SESSION-83==============
 ======D80-2024-10-17-SESSION-87==============
 ======D80-2024-10-11-SESSION-88==============
