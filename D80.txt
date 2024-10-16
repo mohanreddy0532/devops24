@@ -644,7 +644,7 @@ How to fix AMI
 Adding IAM role to scanner
 How to automate builds with packer images
 Creating roles for the golden AMI
-======D80-2024-10-16-SESSION-NA==============
+======D80-2024-10-16-SESSION-NA=====NA=========
 ======D80-2024-10-17-SESSION-87==============
 ======D80-2024-10-11-SESSION-88==============
 ======D80-2024-10-18-SESSION-89==============
