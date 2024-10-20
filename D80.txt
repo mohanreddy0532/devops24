@@ -648,6 +648,9 @@ Creating roles for the golden AMI
 ======D80-2024-10-17-SESSION-87==============
 Creating EKS cluster with Terraform
 Add the SG to EKS
+Scan with trivy K8s
+Deploying the Roboshop-helm with ArgoCD
+How ship the docker images with catalogue schema
 ======D80-2024-10-11-SESSION-88=============
 
 ======D80-2024-10-18-SESSION-89==============
