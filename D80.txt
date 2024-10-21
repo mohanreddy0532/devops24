@@ -645,14 +645,20 @@ Adding IAM role to scanner
 How to automate builds with packer images
 Creating roles for the golden AMI
 ======D80-2024-10-16-SESSION-NA=====NA=========
-======D80-2024-10-17-SESSION-87==============
+======D80-2024-10-17-SESSION-86================
+How to fix K8s security
+Diff. Scan tools
+How to install kubeaudit
+How to add n/w policy to kubeaudit
+To check apparmour using AWS Guardduty
+How to install privy K8’s
+======D80-2024-10-18-SESSION-87================
 Creating EKS cluster with Terraform
 Add the SG to EKS
 Scan with trivy K8s
 Deploying the Roboshop-helm with ArgoCD
 How ship the docker images with catalogue schema
-======D80-2024-10-11-SESSION-88=============
-
+======D80-2024-10-21-SESSION-88==============
 ======D80-2024-10-18-SESSION-89==============
 
 
