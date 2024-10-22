@@ -659,6 +659,12 @@ Scan with trivy K8s
 Deploying the Roboshop-helm with ArgoCD
 How ship the docker images with catalogue schema
 ======D80-2024-10-21-SESSION-88==============
+Run the TF code of EKS
+trivy K8s of Roboshop K8s
+How to ignore read only file system for FE
+Updating the new relic keys
+Deploying the gitgub actions
+How to ignore privy
 ======D80-2024-10-18-SESSION-89==============
 
 
