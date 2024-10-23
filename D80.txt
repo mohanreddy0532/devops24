@@ -671,6 +671,13 @@ How to increase the disk of LVM of git hub runner
 Introduction to Service mesh
 Install Istio with helm
 ======D80-2024-10-23-SESSION-90==============
+How to install Istio
+Wt is istio G/w
+How to setup istio MTLS
+How to istio use the pods run multiple containers
+How to set automatic side car injection for istio
+Deploying with ArgoCD
+How to install Aston Piali Service
 
 
 
