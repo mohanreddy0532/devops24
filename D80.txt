@@ -665,7 +665,12 @@ How to ignore read only file system for FE
 Updating the new relic keys
 Deploying the gitgub actions
 How to ignore privy
-======D80-2024-10-18-SESSION-89==============
+======D80-2024-10-22-SESSION-89==============
+How to ignore the privy K8s scan of roboshop
+How to increase the disk of LVM of git hub runner
+Introduction to Service mesh
+Install Istio with helm
+======D80-2024-10-23-SESSION-90==============
 
 
 
