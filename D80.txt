@@ -680,7 +680,9 @@ Deploying with ArgoCD
 How to install Aston kiali Service
 ======D80-2024-10-24-SESSION-NA==============
 ======D80-2024-10-25-SESSION-91==============
-
+How to create Istio security Configuration
+How to configure individual service level
+How to create the Authorisation policy in service Mesh
 
 
 
