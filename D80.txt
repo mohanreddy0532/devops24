@@ -678,8 +678,8 @@ How to istio use the pods run multiple containers
 How to set automatic side car injection for istio
 Deploying with ArgoCD
 How to install Aston kiali Service
-======D80-2024-10-24-SESSION-91==============
-======D80-2024-10-25-SESSION-==============
+======D80-2024-10-24-SESSION-NA==============
+======D80-2024-10-25-SESSION-91==============
 
 
 
