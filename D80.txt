@@ -683,7 +683,10 @@ How to install Aston kiali Service
 How to create Istio security Configuration
 How to configure individual service level
 How to create the Authorisation policy in service Mesh
-
+======D80-2024-10-28-SESSION-92==============
+======D80-2024-10-29-SESSION-93=============
+======D80-2024-10-30-SESSION-94==============
+======D80-2024-10-31-SESSION-95==============
 
 
 
