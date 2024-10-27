@@ -286,6 +286,14 @@ Certificate: Add CA-https:
 ======D80-2024-08-01-SESSION-36===========
 Cost reduction
 	reduced LB to one
+How to add lB to Roboshop servers
+How to solve infra code problem
+Wt is listner rule
+How to create LB in separate modules
+Wt is Service quotes
+How to add listener to LB
+How to add DNS o/p to LV
+How to add aws_lb_listner-rule
 ======D80-2024-08-02-SESSION-37==========
 Cost reduction
 	reserved/spot instance
