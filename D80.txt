@@ -696,7 +696,7 @@ Enable Istio injection label
 How to create service account for Roboshop-helm
 How to deploy the Roboshop-helm components
 How to Disable the Istio injection
-======D80-2024-10-29-SESSION-93==============
+======D80-2024-10-29-SESSION-NA==============
 ======D80-2024-10-30-SESSION-94==============
 ======D80-2024-10-31-SESSION-95==============
 
