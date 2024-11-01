@@ -697,7 +697,12 @@ How to create service account for Roboshop-helm
 How to deploy the Roboshop-helm components
 How to Disable the Istio injection
 ======D80-2024-10-29-SESSION-NA==============
-======D80-2024-10-30-SESSION-94==============
+======D80-2024-10-30-SESSION-93==============
+Enable the Istio
+How to enable the auth. Policy
+How to create the Istio g/w
+How to create the aws n/w LB K8’s
+EKS LB annotations controller
 ======D80-2024-10-31-SESSION-NA====Diwali==========
 
 
