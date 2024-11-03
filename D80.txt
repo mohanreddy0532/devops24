@@ -622,7 +622,7 @@ How to set up New Relic in Roboshop-helm
 ELK Load test for Roboshop
 How to deploy with ArgoCD
 How to add liveness and redness probes to roboshop-helm
-Made a load test
+Made a load test…
 ======D80-2024-10-09-SESSION-NA==============
 ======D80-2024-10-10-SESSION-82==============
 Things need to consider during prod env.
