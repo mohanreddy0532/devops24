@@ -705,7 +705,7 @@ How to create the aws n/w LB K8’s
 EKS LB annotations controller
 ======D80-2024-10-31-SESSION-NA====Diwali==========
 ======D80-2024-11-04-SESSION-94==================
-
+SonarQube
 
 
 
