@@ -705,18 +705,10 @@ How to create the aws n/w LB K8’s
 EKS LB annotations controller
 ======D80-2024-10-31-SESSION-NA====Diwali==========
 ======D80-2024-11-04-SESSION-94==================
-SonarQube
+Wt is strict peer Auth.
+Auth policy idiot example
+How Helm keep value as the list
+AWS WAF
+Add the Jenkins pipelines to SonarQube
 ======D80-2024-11-04-SESSION-95=======THE END===========
 Design channel—ByteByteGo
-
-
-
-
-
-
-
-
-
-
-
-
