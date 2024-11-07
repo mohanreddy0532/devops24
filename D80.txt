@@ -273,7 +273,7 @@ Create db instance
 User data code (for template usage)
 
 ====MON===D80-2024-07-29-SESSION-33=======dry===Terraform+roboshop====
-=============================================Pending 29-July—S33=======================
+============================Pending 29-July—S33=======================
 Autoscaling group(using load balance)
 	Application LB
 	Target groups
@@ -284,8 +284,7 @@ Terraform+roboshop
 Terraform+roboshop
 Certificate: Add CA-https:
 ======D80-2024-08-01-SESSION-36===========
-Cost reduction
-	reduced LB to one
+Cost reduction.   reduced LB to one
 How to add lB to Roboshop servers
 How to solve infra code problem
 Wt is listner rule
@@ -313,6 +312,10 @@ Containers are used for Stateless applications—>not DB
 Docker internal commands
 Docker ++ ansible
 Docker commands
+Setup cart container
+Setup catalogue container
+Setup Paymeent container
+Setup user container
 ======D80-2024-08-07-SESSION-40======K8’s=intro===
 Docker commands > Podman Commands
 Storage of Pod VS Container
