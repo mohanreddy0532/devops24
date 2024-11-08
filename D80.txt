@@ -320,7 +320,7 @@ How to run master data container for catalogue
 How to load schema for shipping container
 How to retrieve the secrets for Roboshop project-docker
 K8’s roadmap
-
+How to execute Podman commands
 ======D80-2024-08-07-SESSION-40======K8’s=intro===
 Docker commands > Podman Commands
 Storage of Pod VS Container
