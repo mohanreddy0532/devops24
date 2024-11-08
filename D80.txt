@@ -357,6 +357,12 @@ Kubernetes in action Book
 ======D80-2024-08-10-SESSION-43======K8’s====
 Amazon EKS cluster installation
 Service: To manage traffic in PODs
+Services and n/w’s in K8’s
+How to install EKS scull manually
+How to create service in K8’s
+Node port in service
+Host port K8’s
+How to create the K8’s cluster instance
 
 ======D80-2024-08-12-SESSION-44======K8’s====
 Headless service
