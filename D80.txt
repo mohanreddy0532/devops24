@@ -316,6 +316,11 @@ Setup cart container
 Setup catalogue container
 Setup Paymeent container
 Setup user container
+How to run master data container for catalogue
+How to load schema for shipping container
+How to retrieve the secrets for Roboshop project-docker
+K8’s roadmap
+
 ======D80-2024-08-07-SESSION-40======K8’s=intro===
 Docker commands > Podman Commands
 Storage of Pod VS Container
