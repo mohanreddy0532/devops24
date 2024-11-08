@@ -362,7 +362,7 @@ How to install EKS scull manually
 How to create service in K8’s
 Node port in service
 Host port K8’s
-How to create the K8’s cluster instance
+How to create the K8’s cluster instance—
 
 ======D80-2024-08-12-SESSION-44======K8’s====
 Headless service
