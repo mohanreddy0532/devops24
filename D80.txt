@@ -366,6 +366,9 @@ How to create the K8’s cluster instance—
 Create node port
 Wt is ip table
 LB in K8’s
+Wt is external name record
+Headless service
+How to configure Headless service
 
 ======D80-2024-08-12-SESSION-44======K8’s====
 Headless service
