@@ -393,6 +393,10 @@ N/W Policies
 OSI Layer
 Create N/W policy ex.
 ======D80-2024-08-14-SESSION-46======K8’s====
+Create N/W policy
+Wt are http methods
+Service mesh
+Wt is Istio
 Istio-Service mesh
 SELinux
 Problems in docker
