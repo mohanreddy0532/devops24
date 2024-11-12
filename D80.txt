@@ -369,28 +369,29 @@ LB in K8’s
 Wt is external name record
 Headless service
 How to configure Headless service
-
 ======D80-2024-08-12-SESSION-44======K8’s====
 Headless service
 Stateful sets
 Configuration mangt. Containers
-Roboshop on containers
-Config. Magnet. File
+Setup Roboshop on containers
+Create Config. Magnet. File for Roboshop project
 Config map attachment
 Secrets in K8’s
-Resource magnet in K8’s
+Resource management in K8’s
 Huge Page in Linux
 Limits of pod and container
 Resource quota’s
 ======D80-2024-08-13-SESSION-45======K8’s====
-Quota’s
+Resource Quota’s
 N/w security in K8’s
 RBAC
 Cloud Trail in AWS
 RBAC resource
-Role biniding and AUTH.
+RBAC Authorizarion
+Role binding and AUTH.
 N/W Policies
 OSI Layer
+Create N/W policy ex.
 ======D80-2024-08-14-SESSION-46======K8’s====
 Istio-Service mesh
 SELinux
