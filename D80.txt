@@ -283,6 +283,10 @@ Create autoscaling group
 Enabling all the components
 How catalogue works
 Wt is LB
+Wt is target group
+How to create a LB with Terraform
+How to create Target group with Terraform
+How to create target groups with terraform
 ===D80-2024-07-30-SESSION-34===dry===Terraform+roboshop===
 Terraform+roboshop
 ======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
