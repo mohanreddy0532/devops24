@@ -278,6 +278,11 @@ Autoscaling group(using load balance)
 	Application LB
 	Target groups
 ARN(amazon resource name)
+How to unseal vault
+Create autoscaling group
+Enabling all the components
+How catalogue works
+Wt is LB
 ===D80-2024-07-30-SESSION-34===dry===Terraform+roboshop===
 Terraform+roboshop
 ======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
