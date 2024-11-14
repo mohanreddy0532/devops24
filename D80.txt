@@ -292,6 +292,10 @@ Terraform+roboshop
 How to create the Public LB
 How to add health check to target_group
 How FE access through public LB
+Modified Catalogue component setup
+		  Cart component setup
+		 Shipping setup
+		Payment setup
 ======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
 Terraform+roboshop
 Certificate: Add CA-https:
