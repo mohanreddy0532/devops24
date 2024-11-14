@@ -289,6 +289,9 @@ How to create Target group with Terraform
 How to create target groups with terraform
 ===D80-2024-07-30-SESSION-34===dry===Terraform+roboshop===
 Terraform+roboshop
+How to create the Public LB
+How to add health check to target_group
+How FE access through public LB
 ======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
 Terraform+roboshop
 Certificate: Add CA-https:
