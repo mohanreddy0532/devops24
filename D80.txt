@@ -302,7 +302,11 @@ Certificate: Add CA-https:
 Run the Roboshop Project TF
 Sol for backlog project
 Setup Roboshop Project TF
-
+How to redirect project to httpS
+Wt is certificate Authority
+Wt is AWS certificate Manager
+How to request for AWS certificate
+How to add AWS cert. And redirect Roboshop project FE to httpS
 ======D80-2024-08-01-SESSION-36===========
 Cost reduction.   reduced LB to one
 How to add lB to Roboshop servers
