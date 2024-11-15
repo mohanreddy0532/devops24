@@ -299,6 +299,10 @@ Modified Catalogue component setup
 ======D80-2024-07-31-SESSION-35==========Terraform+roboshop===
 Terraform+roboshop
 Certificate: Add CA-https:
+Run the Roboshop Project TF
+Sol for backlog project
+Setup Roboshop Project TF
+
 ======D80-2024-08-01-SESSION-36===========
 Cost reduction.   reduced LB to one
 How to add lB to Roboshop servers
