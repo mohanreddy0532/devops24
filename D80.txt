@@ -327,6 +327,10 @@ Podman: docker alternative…from RedHat
 How to save cost of AWS instances
 How to launch the ASG modules instances into spot instances
 What are the problems of direct server
+Wt are the advantages of containers
+WASM 40:50 - What are Stateless application
+Linux containers
+Intro to Docker
 ======D80-2024-08-05-SESSION-38=======MON===Docker===
 	sudo def install docker -y ==>installing on reel so  u cn see podman
 Hub.docker.com —>for images docker
