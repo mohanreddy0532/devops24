@@ -382,9 +382,12 @@ Container life:IP assignment
 #crictl ps  #crictl images
 Pod Lifecycle:
 	Pending>Running>Success>Failed>Unknown
-Kubernetes
+Arch. Kubernetes
 	API Server=scheduler,ETCD,Controller,Cloud controller
 Kubernetes in action Book
+Arch. Of K8 Master
+Replica set in Pods
+Wt is annotation.
 ======D80-2024-08-10-SESSION-43======K8’s====
 Amazon EKS cluster installation
 Service: To manage traffic in PODs
