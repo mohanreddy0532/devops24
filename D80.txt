@@ -449,6 +449,9 @@ PSP
 Ho wto setup Minikube with TF
 Wt are the Pod security standards
 How to create privilaged pss profile name space
+Security scanners in K8s
+Twistlock scanner
+Diff. Opensource tools for K8s
 K8’s PSP-Pod Security Policy—>PSA,PSS
 Security scanners for Containers
 ======D80-2024-08-20-SESSION-48=============
