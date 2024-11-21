@@ -469,7 +469,10 @@ Scheduler:
 		      pref.DuringSchedulingIgnoreDuringExecution
 	podAntiAffinity:
 Taint:
+Topology spread constraints in K8’s
+Evictions in scheduling
 Storage And Volumes:
+How to create PVC storage class
 ======D80-2024-08-22-SESSION-50=============
 Storage
 EKS Cluster: IRSA(idea. Role for service account)
