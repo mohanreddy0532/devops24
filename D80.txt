@@ -468,7 +468,7 @@ Scheduler:
 	affinity: req.DuringSchedulingIgnoreDuringExecution
 		      pref.DuringSchedulingIgnoreDuringExecution
 	podAntiAffinity:
-Taint:
+Taint: and Tolerations in scheduling
 Topology spread constraints in K8’s
 Evictions in scheduling
 Storage And Volumes:
