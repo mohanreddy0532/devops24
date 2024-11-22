@@ -480,6 +480,9 @@ EKS Cluster: IRSA(idea. Role for service account)
 How to add aws EBS csi driver add-on manually
 EKS cluster add-on access IAM role
 How to add a identify provide
+How to create a EKS cluster with TF
+How to node_group to EKS cluster
+How to eks_addon eks cluster
 ======D80-2024-08-23-SESSION-51=============
 EKS cluster : setup through Automation
 	eks_access_policy to workstation
