@@ -477,6 +477,9 @@ How to create PVC storage class
 Storage
 EKS Cluster: IRSA(idea. Role for service account)
  Created a new branch for existing setup as 02.before eks
+How to add aws EBS csi driver add-on manually
+EKS cluster add-on access IAM role
+How to add a identify provide
 ======D80-2024-08-23-SESSION-51=============
 EKS cluster : setup through Automation
 	eks_access_policy to workstation
