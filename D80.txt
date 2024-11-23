@@ -502,6 +502,8 @@ Create Helm chart for K8s Roboshop
 ======D80-2024-08-27-SESSION-53==============
 Docker images for specific —>sql, mongo, shipping, catalogue
 schema-load
+How to create docker image
+How to create repository in Elastic Container registry
 ======D80-2024-08-28-SESSION-54==============
 Vault image
 Vault external secrets ‘k8 external secrets
