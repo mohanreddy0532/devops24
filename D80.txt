@@ -504,6 +504,7 @@ Docker images for specific —>sql, mongo, shipping, catalogue
 schema-load
 How to create docker image
 How to create repository in Elastic Container registry
+How to load schema in docker images for Roboshop
 ======D80-2024-08-28-SESSION-54==============
 Vault image
 Vault external secrets ‘k8 external secrets
