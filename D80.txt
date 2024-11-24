@@ -509,6 +509,11 @@ How to load schema in docker images for Roboshop
 Vault image
 Vault external secrets ‘k8 external secrets
 install,Configure,
+How to access vault external secrets
+K8’s external secrets
+How to install external secrets
+How vault configure external secrets
+How to disable vault secrets
 ======D80-2024-08-29-SESSION-55==============
 Update shipping catalogue
 Update shipping schema
