@@ -514,6 +514,8 @@ K8’s external secrets
 How to install external secrets
 How vault configure external secrets
 How to disable vault secrets
+EKS cluster creation for Roboshop helm
+How to create helm release external secrets
 ======D80-2024-08-29-SESSION-55==============
 Update shipping catalogue
 Update shipping schema
