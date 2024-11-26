@@ -1,6 +1,6 @@
 D82-NOV25-AzureDevOps
 
-=========D82-2024-07-25-SESSION-01============
+=========D82-2024-11-25-SESSION-01============
 Azure Roadmap
 Roles and responsibilities of Devops
 Servers
@@ -9,3 +9,20 @@ Versions of RHEL
 How to create Linux box in Azure
 Create the resource group in Azure
 How to create Azure VM
+Azure Free limits
+How to download putty
+Delete VM
+Create Azure VM
+Linux cli
+=========D82-2024-11-26-SESSION-02============
+
+=========D82-2024-11--SESSION-============
+
+=========D82-2024-11--SESSION-============
+
+=========D82-2024-11--SESSION-============
+
+=========D82-2024-11--SESSION-============
+
+=========D82-2024-11--SESSION-============
+
