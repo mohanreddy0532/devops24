@@ -1,3 +1,11 @@
 D82-NOV25-AzureDevOps
 
-NOV25-S1
+=========D82-2024-07-25-SESSION-01============
+Azure Roadmap
+Roles and responsibilities of Devops
+Servers
+Usage of OS
+Versions of RHEL
+How to create Linux box in Azure
+Create the resource group in Azure
+How to create Azure VM
