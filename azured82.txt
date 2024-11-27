@@ -23,6 +23,8 @@ PWD in Linux
 How to navigate to directories in Linux
 How to create the files in linux
 Create the directories in linux
+Remove files and directories in Linux
+Rename/move files in linux
 =========D82-2024-11--SESSION-============
 
 =========D82-2024-11--SESSION-============
