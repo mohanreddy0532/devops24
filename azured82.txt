@@ -11,7 +11,7 @@ Create the resource group in Azure
 How to create Azure VM
 Azure Free limits
 How to download putty
-Delete VM
+Delete VM**==>Delete Resource Group will delete all
 Create Azure VM
 Linux cli
 =========D82-2024-11-26-SESSION-02============
