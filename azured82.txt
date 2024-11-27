@@ -15,7 +15,14 @@ Delete VM
 Create Azure VM
 Linux cli
 =========D82-2024-11-26-SESSION-02============
-
+Killercoda
+Linux basics
+Cli syntax,Linux directory structure
+Lift files in Linus
+PWD in Linux
+How to navigate to directories in Linux
+How to create the files in linux
+Create the directories in linux
 =========D82-2024-11--SESSION-============
 
 =========D82-2024-11--SESSION-============
