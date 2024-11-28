@@ -25,8 +25,14 @@ How to create the files in linux
 Create the directories in linux
 Remove files and directories in Linux
 Rename/move files in linux
-=========D82-2024-11--SESSION-============
-
+=========D82-2024-11-27-SESSION-03============
+Creating VM azure
+Linux editors vi,sed
+SED editor
+How sed ofr diff. Operations
+Concatenate File contenet
+Fileter commands in Linux
+Cli browser curl
 =========D82-2024-11--SESSION-============
 
 =========D82-2024-11--SESSION-============
