@@ -34,9 +34,14 @@ Concatenate File contenet
 Fileter commands in Linux
 Cli browser curl
 Extracting file tar/zip
-=========D82-2024-11--SESSION-============
-
-=========D82-2024-11--SESSION-============
+=========D82-2024-11-28-SESSION-04============
+Create VM
+Pipes in Linux
+Linux administration
+Wt is process management
+SUDOers
+Usermanagemet,package management
+=========D82-2024-11-29-SESSION-05============
 
 =========D82-2024-11--SESSION-============
 
