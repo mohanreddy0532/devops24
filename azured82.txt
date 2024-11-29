@@ -41,6 +41,7 @@ Linux administration
 Wt is process management
 SUDOers
 Usermanagemet,package management
+Wt is Service management
 =========D82-2024-11-29-SESSION-05============
 
 =========D82-2024-11--SESSION-============
