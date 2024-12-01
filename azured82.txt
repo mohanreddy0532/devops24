@@ -51,7 +51,14 @@ Networking
 Wt is port number
 Security F/w
 Add the SG rules to n/w security group
-=========D82-2024-11--SESSION-============
+=========D82-2024-12--SESSION-06============
 
-=========D82-2024-11--SESSION-============
+=========D82-2024-12--SESSION-06============
+
+=========D82-2024-12--SESSION-06============
+
+=========D82-2024-12--SESSION-06============
+
+=========D82-2024-12--SESSION-06============
+
 
