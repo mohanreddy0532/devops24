@@ -44,7 +44,13 @@ SUDOers
 Usermanagemet,package management
 Wt is Service management
 =========D82-2024-11-29-SESSION-05============
-
+Creating VM
+Permission Management in Linux
+Disk info.
+Networking
+Wt is port number
+Security F/w
+Add the SG rules to n/w security group
 =========D82-2024-11--SESSION-============
 
 =========D82-2024-11--SESSION-============
