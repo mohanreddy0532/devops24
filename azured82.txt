@@ -1,5 +1,6 @@
 D82-NOV25-AzureDevOps
-
+Syllabus:
+https://docs.google.com/document/d/1LwWN_CLbFgclXy69k68c0vlxUoXQqnEnrlF_mBT_pY4/edit?tab=t.0#heading=h.q90zy3rmhmce
 =========D82-2024-11-25-SESSION-01============
 Azure Roadmap
 Roles and responsibilities of Devops
