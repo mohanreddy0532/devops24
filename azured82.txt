@@ -52,7 +52,8 @@ Wt is port number
 Security F/w
 Add the SG rules to n/w security group
 =========D82-2024-12-02-SESSION-06============
-
+3 Tier Architecture
+MicroServices—->monolitic vs microservice
 =========D82-2024-12-03-SESSION-07============
 
 =========D82-2024-12-04-SESSION-08============
