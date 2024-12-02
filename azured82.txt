@@ -54,6 +54,8 @@ Add the SG rules to n/w security group
 =========D82-2024-12-02-SESSION-06============
 3 Tier Architecture
 MicroServices—->monolitic vs microservice
+Select VM form East UK for 2gv 2cpu Standard_B2s
+Virtual N/w creation—subnet—>
 =========D82-2024-12-03-SESSION-07============
 
 =========D82-2024-12-04-SESSION-08============
