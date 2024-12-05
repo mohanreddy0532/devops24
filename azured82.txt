@@ -65,7 +65,8 @@ Project overview
 Wt is FE
 Wt is WebServer
 How to setup FE
-
+Wt is Reverse proxy
+Setup MongoDB
 =========D82-2024-12-04-SESSION-08============
 Wt is Catalogue & Setup
 Wt is Redis with example
