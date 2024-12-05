@@ -60,6 +60,11 @@ Create resource groups for project setup
 Select VM form East UK for 2gv 2cpu Standard_B2s
 Virtual N/w creation—subnet—>
 =========D82-2024-12-03-SESSION-07============
+Create the Azure vm’s for project setup
+Project overview
+Wt is FE
+Wt is WebServer
+How to setup FE
 
 =========D82-2024-12-04-SESSION-08============
 Wt is Catalogue & Setup
