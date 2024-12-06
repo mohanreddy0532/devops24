@@ -76,7 +76,9 @@ Setup cart
 POSTMAN—>SWAGGER
 User Journey and User Story
 =========D82-2024-12-05-SESSION-09============
-
+SETUP Roboshop Project
+Setup Shipping
+Creating VM for Roboshop components
 =========D82-2024-12-06-SESSION-10============
 
 
