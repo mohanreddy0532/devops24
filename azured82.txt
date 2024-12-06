@@ -79,6 +79,9 @@ User Journey and User Story
 SETUP Roboshop Project
 Setup Shipping
 Creating VM for Roboshop components
+Wt is RabbitMQ
+Setup Payment
+Setup dispatch
 =========D82-2024-12-06-SESSION-10============
 
 
