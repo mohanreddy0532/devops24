@@ -87,8 +87,11 @@ Proble identification in current project
 Identify solutions to achieve devops project
 =========D82-2024-12-09-SESSION-11============
 Automation
-OS —>Shell scripting
-Application —> Python,NodeJS,GoLang
+	OS —>Shell scripting
+	Application —> Python,NodeJS,GoLang
+Code Standards: Never keep in local…
+Code Editors: Notepad++,IntelliJ
+Code Central: GitHub VCS(Version Control Systems)
 =========D82-2024-12-09-SESSION-1============
 
 =========D82-2024-12-09-SESSION-1============
