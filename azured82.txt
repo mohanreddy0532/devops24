@@ -104,7 +104,12 @@ How to setup the code for Roboshop components
 Create VM and DNS records for Roboshop components to set up roboshop project
 Wt are functional and non-functional requirements
 Wt is dry and wet code
-
+How to declare variables in shell
+Quotes
+How to execute variable in project
+Wt is function and how to declare
+How to execute function in catalogue and use components dynamic declaration of variables
+Wt are redirections
 =========D82-2024-12-09-SESSION-1============
 
 =========D82-2024-12-09-SESSION-1============
