@@ -110,9 +110,13 @@ How to execute variable in project
 Wt is function and how to declare
 How to execute function in catalogue and use components dynamic declaration of variables
 Wt are redirections
-=========D82-2024-12-09-SESSION-1============
-
-=========D82-2024-12-09-SESSION-1============
+=========D82-2024-12-12-SESSION-14============
+Conditions in shell scripting and how to execute
+Exit status 0 and 1
+Echo command to print in Colors
+How to provide inputs to system
+How to execute the exit status
+=========D82-2024-12-13-SESSION-15============
 
 
 
