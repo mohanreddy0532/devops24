@@ -116,6 +116,7 @@ Exit status 0 and 1
 Echo command to print in Colors
 How to provide inputs to system
 How to execute the exit status
+Loops in shell scripting and how to execute loops
 =========D82-2024-12-13-SESSION-15============
 
 
