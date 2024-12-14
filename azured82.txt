@@ -118,6 +118,9 @@ How to provide inputs to system
 How to execute the exit status
 Loops in shell scripting and how to execute loops
 =========D82-2024-12-13-SESSION-15============
-
+Username and pwd not to hardcoded
+Wt are the problems of shell scripting
+Configuration Management tools
+Intro to Ansible
 
 
