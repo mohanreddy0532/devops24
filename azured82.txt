@@ -122,5 +122,14 @@ Username and pwd not to hardcoded
 Wt are the problems of shell scripting
 Configuration Management tools
 Intro to Ansible
+How ansible solves shell problems
+Config management push & pull
+History of Ansible
+How ansible connects to node
+How to create the workstation machine
+How to setup Ansible in workstation manually
+How to install nginx with Ansible
+Ansible playbook
+
 
 
