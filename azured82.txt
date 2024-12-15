@@ -130,6 +130,17 @@ How to create the workstation machine
 How to setup Ansible in workstation manually
 How to install nginx with Ansible
 Ansible playbook
+=========D82-2024-12-16-SESSION-16============
+=========D82-2024-12-17-SESSION-17============
+=========D82-2024-12-18-SESSION-18============
+=========D82-2024-12-19-SESSION-19============
+=========D82-2024-12-20-SESSION-20============
+
+=========D82-2024-12-21-SESSION-21============
+=========D82-2024-12-22-SESSION-22============
+=========D82-2024-12-23-SESSION-23============
+=========D82-2024-12-24-SESSION-24============
+=========D82-2024-12-25-SESSION-25============
 
 
 
