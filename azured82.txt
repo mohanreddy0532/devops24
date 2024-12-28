@@ -131,6 +131,9 @@ How to setup Ansible in workstation manually
 How to install nginx with Ansible
 Ansible playbook
 =========D82-2024-12-16-SESSION-16============
+YAML
+Ansible collection
+How to write Playbook
 =========D82-2024-12-17-SESSION-17============
 =========D82-2024-12-18-SESSION-18============
 =========D82-2024-12-19-SESSION-19============
