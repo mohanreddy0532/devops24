@@ -134,6 +134,11 @@ Ansible playbook
 YAML
 Ansible collection
 How to write Playbook
+How to declare variables in Ansible
+Ansible roles
+Key colon value in variables
+Setup roboshop project FE with Ansible
+Wt is makeFile and how to write it
 =========D82-2024-12-17-SESSION-17============
 =========D82-2024-12-18-SESSION-18============
 =========D82-2024-12-19-SESSION-19============
