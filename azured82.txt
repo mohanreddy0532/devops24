@@ -154,6 +154,11 @@ Setup catalogue with Ansible
 =========D82-2024-12-29-SESSION-NA============
 
 =========D82-2024-12-30-SESSION-23============
+Conditions in Terraform
+Triaging in Terraform
+TF state backend
+How to create storage account
+Repository for Roboshop-TF
 =========D82-2024-12-31-SESSION-24============
 
 
