@@ -159,6 +159,9 @@ Triaging in Terraform
 TF state backend
 How to create storage account
 Repository for Roboshop-TF
+Multi env in structure
+How to recover tf state file corrupted
+How to create the roboshop terraform
 =========D82-2024-12-31-SESSION-24============
 
 
