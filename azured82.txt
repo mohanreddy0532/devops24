@@ -150,7 +150,9 @@ Setup catalogue with Ansible
 Setup azure_network_interface
 How to attach azure_network_interface_security_group_association to n/w interface
 Create the azurem_n/w_security_group
-
+Create the azurem_dns_a_record
+Re-run the code and updated the dns records
+Re-run the code and updated the changes in roboshop components
 =========D82-2024-12-25-SESSION-NA============
 =========D82-2024-12-26-SESSION-NA============
 =========D82-2024-12-27-SESSION-NA============
