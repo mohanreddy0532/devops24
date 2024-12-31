@@ -147,6 +147,10 @@ Setup catalogue with Ansible
 
 =========D82-2024-12-23-SESSION-21============
 =========D82-2024-12-24-SESSION-22============
+Setup azure_network_interface
+How to attach azure_network_interface_security_group_association to n/w interface
+Create the azurem_n/w_security_group
+
 =========D82-2024-12-25-SESSION-NA============
 =========D82-2024-12-26-SESSION-NA============
 =========D82-2024-12-27-SESSION-NA============
