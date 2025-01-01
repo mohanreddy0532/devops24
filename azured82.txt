@@ -150,6 +150,10 @@ Setup Roboshop terraform
 Create the resource for Roboshop components
 Setup the code for Roboshop Terraform
 Loops in Terraform
+Execute Loops in roboshop terraform
+Provisioner in Terraform
+Create provision the custom image
+How to create the azurerm_shared_image_version
 =========D82-2024-12-24-SESSION-22============
 Setup azure_network_interface
 How to attach azure_network_interface_security_group_association to n/w interface
