@@ -146,6 +146,10 @@ Setup catalogue with Ansible
 =========D82-2024-12-20-SESSION-20============
 
 =========D82-2024-12-23-SESSION-21============
+Setup Roboshop terraform
+Create the resource for Roboshop components
+Setup the code for Roboshop Terraform
+Loops in Terraform
 =========D82-2024-12-24-SESSION-22============
 Setup azure_network_interface
 How to attach azure_network_interface_security_group_association to n/w interface
