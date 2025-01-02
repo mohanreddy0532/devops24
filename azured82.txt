@@ -177,7 +177,10 @@ Multi env in structure
 How to recover tf state file corrupted
 How to create the roboshop terraform
 =========D82-2024-12-31-SESSION-24============
-
+Intro to vault
+Create VM for vault to install manually
+How to automate the vault with TF and Ansible
+Install vault with ansible
 
 =========D82-2025-01-03-SESSION-25============
 =========D82-2025-01-06-SESSION-26============
