@@ -181,7 +181,8 @@ Intro to vault
 Create VM for vault to install manually
 How to automate the vault with TF and Ansible
 Install vault with ansible
-
+create secrets in vault
+retrieve the username and pwd from vault using terraform
 =========D82-2025-01-03-SESSION-25============
 =========D82-2025-01-06-SESSION-26============
 =========D82-2025-01-07-SESSION-27============
