@@ -184,5 +184,10 @@ Install vault with ansible
 create secrets in vault
 retrieve the username and pwd from vault using terraform
 =========D82-2025-01-03-SESSION-25============
+How to restore the secrets in vault
+Create secrets for FE
+Create the vault_KV_secret
+How to fetch the changes from vault
+
 =========D82-2025-01-06-SESSION-26============
 =========D82-2025-01-07-SESSION-27============
