@@ -144,6 +144,9 @@ Setup catalogue with Ansible
 Setup Catalogue with ansible
 How to setup Redis with ansible
 How to setup Cart with Ansible
+How to setup Shipping with Ansible
+How to setup RabbitMQ with Ansible
+How to setup Paayment with Ansible
 =========D82-2024-12-18-SESSION-18============
 =========D82-2024-12-19-SESSION-19============
 =========D82-2024-12-20-SESSION-20============
