@@ -215,6 +215,10 @@ hub.docker
 How to get nginx docker image
 Wt is the purpose of container to run application
 =========D82-2025-01-07-SESSION-27============
+convert roboshop components to containers with Terraform
+Run the roboshop terraform
+How to categorize Stateful application and stateless application
+How to run docker container of frontend
 =========D82-2025-01-08-SESSION-28============
 =========D82-2025-01-09-SESSION-29============
 =========D82-2025-01-10-SESSION-30============
