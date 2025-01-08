@@ -219,6 +219,12 @@ convert roboshop components to containers with Terraform
 Run the roboshop terraform
 How to categorize Stateful application and stateless application
 How to run docker container of frontend
+How to create the docker container for catalogue
+How to create docker container for USer
+How to create docker container for cart
+How to create docker container for shipping
+How to create docker container for Payment
+K8's roadmap
 =========D82-2025-01-08-SESSION-28============
 =========D82-2025-01-09-SESSION-29============
 =========D82-2025-01-10-SESSION-30============
