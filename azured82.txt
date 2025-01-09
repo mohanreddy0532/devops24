@@ -229,7 +229,14 @@ K8’s roadmap
 Problems of containers
 How to install docker manually to explain problems of container
 K8 Orcestrators
-What K8 make
+What K8 make better than docker swarm
+Wt are the advantages of POD over container
+N/W and storage in POD vs container
+K8 Architechture
+How to interact wht API server in K8s
+How to create the K8’s cluster with AZ AKS
+How to create the K8 cluster with terraform
+
 =========D82-2025-01-09-SESSION-29============
 =========D82-2025-01-10-SESSION-30============
 
