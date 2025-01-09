@@ -224,8 +224,12 @@ How to create docker container for USer
 How to create docker container for cart
 How to create docker container for shipping
 How to create docker container for Payment
-K8's roadmap
+K8’s roadmap
 =========D82-2025-01-08-SESSION-28============
+Problems of containers
+How to install docker manually to explain problems of container
+K8 Orcestrators
+What K8 make
 =========D82-2025-01-09-SESSION-29============
 =========D82-2025-01-10-SESSION-30============
 
