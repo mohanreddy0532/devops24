@@ -150,7 +150,9 @@ How to setup Paayment with Ansible
 =========D82-2024-12-18-SESSION-18============
 =========D82-2024-12-19-SESSION-19============
 =========D82-2024-12-20-SESSION-20============
-
+INtro to Terraform
+How terrafrom authenticate to Azure cloud
+How to create the azurerm_vm with terraform
 =========D82-2024-12-23-SESSION-21============
 Setup Roboshop terraform
 Create the resource for Roboshop components
