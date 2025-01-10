@@ -236,7 +236,11 @@ K8 Architechture
 How to interact wht API server in K8s
 How to create the K8’s cluster with AZ AKS
 How to create the K8 cluster with terraform
-
+Intro to PODs in K8s
+Creating K8s for repository and setup the pods
+How to install K9’s to run the git commands
+POD templates
+POD update and replacement
 =========D82-2025-01-09-SESSION-29============
 =========D82-2025-01-10-SESSION-30============
 
