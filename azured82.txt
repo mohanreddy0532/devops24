@@ -153,6 +153,10 @@ How to setup Paayment with Ansible
 INtro to Terraform
 How terrafrom authenticate to Azure cloud
 How to create the azurerm_vm with terraform
+How to create the azurerm_subnet for VM
+How to create resource in terrafrom
+Access varibale in Terrafrom
+Modules in terrafrom
 =========D82-2024-12-23-SESSION-21============
 Setup Roboshop terraform
 Create the resource for Roboshop components
