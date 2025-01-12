@@ -149,8 +149,11 @@ How to setup RabbitMQ with Ansible
 How to setup Paayment with Ansible
 =========D82-2024-12-18-SESSION-18============
 =========D82-2024-12-19-SESSION-19============
+How to use the templates in Ansible
+How to add templates to Roboshop-ansible
+
 =========D82-2024-12-20-SESSION-20============
-INtro to Terraform
+Intro to Terraform
 How terrafrom authenticate to Azure cloud
 How to create the azurerm_vm with terraform
 How to create the azurerm_subnet for VM
