@@ -151,7 +151,10 @@ How to setup Paayment with Ansible
 =========D82-2024-12-19-SESSION-19============
 How to use the templates in Ansible
 How to add templates to Roboshop-ansible
-
+Wt is Ansible pull configuration
+Wt is standard operating procedure
+Intro to Terrafrom
+HCL configuration looks like
 =========D82-2024-12-20-SESSION-20============
 Intro to Terraform
 How terrafrom authenticate to Azure cloud
