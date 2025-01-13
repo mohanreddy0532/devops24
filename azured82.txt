@@ -155,6 +155,8 @@ Wt is Ansible pull configuration
 Wt is standard operating procedure
 Intro to Terrafrom
 HCL configuration looks like
+Terraform files
+How to install the terraform
 =========D82-2024-12-20-SESSION-20============
 Intro to Terraform
 How terrafrom authenticate to Azure cloud
