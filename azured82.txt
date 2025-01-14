@@ -155,7 +155,10 @@ Fileters in Ansible
 Inventory files in Ansible
 Dynamic inventory
 How to get task output
-
+Ansible certification topics
+Ansible facts
+Error handling in Ansible
+Ansible vault
 =========D82-2024-12-19-SESSION-19============
 How to use the templates in Ansible
 How to add templates to Roboshop-ansible
