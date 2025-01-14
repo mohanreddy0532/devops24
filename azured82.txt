@@ -148,6 +148,14 @@ How to setup Shipping with Ansible
 How to setup RabbitMQ with Ansible
 How to setup Paayment with Ansible
 =========D82-2024-12-18-SESSION-18============
+Variable precedence
+Conditions in Ansible
+Loops in Ansible
+Fileters in Ansible
+Inventory files in Ansible
+Dynamic inventory
+How to get task output
+
 =========D82-2024-12-19-SESSION-19============
 How to use the templates in Ansible
 How to add templates to Roboshop-ansible
