@@ -270,6 +270,8 @@ POD update and replacement
 Kubernetes Road map
 How to create multiple containers
 Wt is Relicaset with example
+Wt is Stateful sets
+Wt is deployment in k8’s
 =========D82-2025-01-10-SESSION-30============
 
 =========D82-2025-01-13-SESSION-NA============
