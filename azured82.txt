@@ -267,6 +267,9 @@ How to install K9’s to run the git commands
 POD templates
 POD update and replacement
 =========D82-2025-01-09-SESSION-29============
+Kubernetes Road map
+How to create multiple containers
+Wt is Relicaset with example
 =========D82-2025-01-10-SESSION-30============
 
 =========D82-2025-01-13-SESSION-NA============
