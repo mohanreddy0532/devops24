@@ -277,7 +277,11 @@ Stateful sets
 Jobs in Kubernets
 Services and networking
 Services in K8’s
-
+How to create node type service
+How to create LB service type
+External access to service
+Ingress in services
+How to install ingress with nginx
 =========D82-2025-01-13-SESSION-NA============
 =========D82-2025-01-14-SESSION-NA============
 =========D82-2025-01-15-SESSION-NA============
