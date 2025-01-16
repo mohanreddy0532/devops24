@@ -273,6 +273,10 @@ Wt is Relicaset with example
 Wt is Stateful sets
 Wt is deployment in k8’s
 =========D82-2025-01-10-SESSION-30============
+Stateful sets
+Jobs in Kubernets
+Services and networking
+Services in K8’s
 
 =========D82-2025-01-13-SESSION-NA============
 =========D82-2025-01-14-SESSION-NA============
