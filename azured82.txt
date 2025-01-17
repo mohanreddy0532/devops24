@@ -266,13 +266,16 @@ Creating K8s for repository and setup the pods
 How to install K9’s to run the git commands
 POD templates
 POD update and replacement
-=========D82-2025-01-09-SESSION-29============
+=========D82-2025-01-10-SESSION-29============
 Kubernetes Road map
 How to create multiple containers
 Wt is Relicaset with example
 Wt is Stateful sets
 Wt is deployment in k8’s
-=========D82-2025-01-10-SESSION-30============
+=========D82-2025-01-13-SESSION-NA============
+=========D82-2025-01-14-SESSION-NA============
+=========D82-2025-01-15-SESSION-NA============
+=========D82-2025-01-16-SESSION-30============
 Stateful sets
 Jobs in Kubernets
 Services and networking
@@ -282,10 +285,6 @@ How to create LB service type
 External access to service
 Ingress in services
 How to install ingress with nginx
-=========D82-2025-01-13-SESSION-NA============
-=========D82-2025-01-14-SESSION-NA============
-=========D82-2025-01-15-SESSION-NA============
-=========D82-2025-01-16-SESSION-31============
 =========D82-2025-01-17-SESSION-32============
 
 =========D82-2025-01-20-SESSION-33============
