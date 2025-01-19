@@ -1,6 +1,9 @@
 D82-NOV25-AzureDevSecOps
 Syllabus:
 https://docs.google.com/document/d/1LwWN_CLbFgclXy69k68c0vlxUoXQqnEnrlF_mBT_pY4/edit?tab=t.0#heading=h.q90zy3rmhmce
+========Missle====
+https://youtu.be/ZKgLVRpGrcc
+https://youtu.be/gQBno_0e5bs
 =========D82-2024-11-25-SESSION-01============
 Azure Roadmap
 Roles and responsibilities of Devops
