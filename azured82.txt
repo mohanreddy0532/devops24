@@ -89,7 +89,7 @@ Setup dispatch
 Proble identification in current project
 Identify solutions to achieve devops project
 =========D82-2024-12-09-SESSION-11============
-Automation
+Automation :
 	OS —>Shell scripting
 	Application —> Python,NodeJS,GoLang
 Code Standards: Never keep in local…
@@ -200,7 +200,6 @@ Re-run the code and updated the changes in roboshop components
 =========D82-2024-12-27-SESSION-NA============
 =========D82-2024-12-28-SESSION-NA============
 =========D82-2024-12-29-SESSION-NA============
-
 =========D82-2024-12-30-SESSION-23============
 Conditions in Terraform
 Triaging in Terraform
