@@ -300,7 +300,12 @@ Request and limits in resource management
 How to create resource for container
 How pods with resource request scheduled
 Kubernetes action
-
+Resource Quotas
+How to setup the resource quota
+How to optimizing resource Quota
+Security in K8s
+Rols Based access control
+How to create the service account
 =========D82-2025-01-21-SESSION-34============
 =========D82-2025-01-22-SESSION-35============
 =========D82-2025-01-23-SESSION-36============
