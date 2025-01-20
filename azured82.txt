@@ -295,6 +295,12 @@ How to create config maps and secrts with diff. options
 K8’s Architecture
 Bootstrap a node K8’s
 =========D82-2025-01-20-SESSION-33============
+Resource management
+Request and limits in resource management
+How to create resource for container
+How pods with resource request scheduled
+Kubernetes action
+
 =========D82-2025-01-21-SESSION-34============
 =========D82-2025-01-22-SESSION-35============
 =========D82-2025-01-23-SESSION-36============
