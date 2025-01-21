@@ -294,7 +294,7 @@ How to create secrets
 How to create config maps and secrts with diff. options
 K8’s Architecture
 Bootstrap a node K8’s
-=========D82-2025-01-20-SESSION-33============
+=========D82-2025-01-20-SESSION-32============
 Resource management
 Request and limits in resource management
 How to create resource for container
@@ -306,10 +306,10 @@ How to optimizing resource Quota
 Security in K8s
 Rols Based access control
 How to create the service account
-=========D82-2025-01-21-SESSION-34============
-=========D82-2025-01-22-SESSION-35============
-=========D82-2025-01-23-SESSION-36============
-=========D82-2025-01-24-SESSION-37============
+=========D82-2025-01-21-SESSION-33============
+=========D82-2025-01-22-SESSION-34============
+=========D82-2025-01-23-SESSION-35============
+=========D82-2025-01-24-SESSION-36============
 
 =========D82-2025-01-27-SESSION-38============
 =========D82-2025-01-28-SESSION-39============
