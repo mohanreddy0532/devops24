@@ -311,7 +311,11 @@ Networksecurity in K8’s
 wt is n/wpolicies
 Network plugins
 How to setup n/w policy
-
+How to create AKS cluster to enable n/w policy
+Container and pod security
+How to install Trivy K8’s
+How to security context run as user
+How to create secure-container
 =========D82-2025-01-22-SESSION-34============
 =========D82-2025-01-23-SESSION-35============
 =========D82-2025-01-24-SESSION-36============
