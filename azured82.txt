@@ -307,6 +307,11 @@ Security in K8s
 Rols Based access control
 How to create the service account
 =========D82-2025-01-21-SESSION-33============
+Networksecurity in K8’s
+wt is n/wpolicies
+Network plugins
+How to setup n/w policy
+
 =========D82-2025-01-22-SESSION-34============
 =========D82-2025-01-23-SESSION-35============
 =========D82-2025-01-24-SESSION-36============
