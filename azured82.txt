@@ -322,7 +322,9 @@ How to restrict a container access to resource with appArmour
 Security scanners in K8’s
 Wt is Autoscaling
 How to deploy Horizontal pod autoscaling
-How to built docker image
+How to built docker image for autoscaling
+Vertical vs Horizontal scaling
+How to deploy vertical pod auto scaling
 =========D82-2025-01-23-SESSION-35============
 =========D82-2025-01-24-SESSION-36============
 
