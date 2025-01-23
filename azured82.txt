@@ -317,6 +317,12 @@ How to install Trivy K8’s
 How to security context run as user
 How to create secure-container
 =========D82-2025-01-22-SESSION-34============
+How to Restrict a container syscalls with seccomp
+How to restrict a container access to resource with appArmour
+Security scanners in K8’s
+Wt is Autoscaling
+How to deploy Horizontal pod autoscaling
+How to built docker image
 =========D82-2025-01-23-SESSION-35============
 =========D82-2025-01-24-SESSION-36============
 
