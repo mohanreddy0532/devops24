@@ -325,8 +325,8 @@ How to deploy Horizontal pod autoscaling
 How to built docker image for autoscaling
 Vertical vs Horizontal scaling
 How to deploy vertical pod auto scaling
-=========D82-2025-01-23-SESSION-35============
-=========D82-2025-01-24-SESSION-36============
+=========D82-2025-01-23-SESSION-NA============
+=========D82-2025-01-24-SESSION-35============
 
 =========D82-2025-01-27-SESSION-37============
 =========D82-2025-01-28-SESSION-38============
