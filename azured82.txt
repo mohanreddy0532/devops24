@@ -213,9 +213,9 @@ How to create the roboshop terraform
 Intro to vault
 Create VM for vault to install manually
 How to automate the vault with TF and Ansible
-Install vault with ansible
-create secrets in vault
-retrieve the username and pwd from vault using terraform
+How to Install vault with ansible
+How to create secrets in vault
+How to retrieve the username and pwd from vault using terraform
 =========D82-2025-01-03-SESSION-25============
 How to restore the secrets in vault
 Create secrets for FE
