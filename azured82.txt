@@ -230,12 +230,13 @@ Create vault secrets for cart component
 Create vault secrets for shipping component
 Create vault secrets for RabbitMQ component
 =========D82-2025-01-06-SESSION-26============
-Created secrets for roboboshop-app
-Wt is containerization
+Create secrets for roboboshop-app
+What is containerization
 Into to containers
-chroot jailing
+ch-root jailing
 Linux containers
 Intro to Docker and Container
+WASM
 Webassambly
 History od Docker…How to install and setup docker manually
 hub.docker
