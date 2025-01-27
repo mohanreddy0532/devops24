@@ -330,6 +330,11 @@ How to deploy vertical pod auto scaling
 =========D82-2025-01-24-SESSION-NA============
 
 =========D82-2025-01-27-SESSION-35============
+Vertical Pod autoscaler
+What is cluster Autoscaler
+How to create azurerm_k8s_cluster
+How to create node-autoscaler
+
 =========D82-2025-01-28-SESSION-36============
 =========D82-2025-01-29-SESSION-37============
 =========D82-2025-01-30-SESSION-38============
