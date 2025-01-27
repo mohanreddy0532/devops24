@@ -334,7 +334,11 @@ Vertical Pod autoscaler
 What is cluster Autoscaler
 How to create azurerm_k8s_cluster
 How to create node-autoscaler
-
+What is scheduling in K8’s
+How to assign pods to node k8’s using node selector
+wt are taints and tolerations
+How to taint the node
+What is Topology spread contraints with example
 =========D82-2025-01-28-SESSION-36============
 =========D82-2025-01-29-SESSION-37============
 =========D82-2025-01-30-SESSION-38============
