@@ -340,6 +340,12 @@ wt are taints and tolerations
 How to taint the node
 What is Topology spread contraints with example
 =========D82-2025-01-28-SESSION-36============
+How to schedule Topology spread contraints
+What is Pod priorities
+How to schedule the pod priorities with example
+Evictions in k8’s
+CS driverrs in K8’s
+
 =========D82-2025-01-29-SESSION-37============
 =========D82-2025-01-30-SESSION-38============
 =========D82-2025-01-31-SESSION-39===========
