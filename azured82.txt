@@ -344,8 +344,11 @@ How to schedule Topology spread contraints
 What is Pod priorities
 How to schedule the pod priorities with example
 Evictions in k8’s
-CS driverrs in K8’s
-
+CSI driverrs in K8’s
+How to create PVC kubernetes
+Presistant volume claim concepts
+Wt is statefulSet and beahvoiur
+Wt is DaemonSet
 =========D82-2025-01-29-SESSION-37============
 =========D82-2025-01-30-SESSION-38============
 =========D82-2025-01-31-SESSION-39===========
