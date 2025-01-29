@@ -350,7 +350,17 @@ Presistant volume claim concepts
 Wt is statefulSet and beahvoiur
 Wt is DaemonSet
 =========D82-2025-01-29-SESSION-37============
-Kubernetes Roboshop
+Kubernetes Roboshop SETUP
+Create deployment for FE
+Create deployment for cart
+Create deployment for catalogue
+Create deployment for payment
+Create deployment for shipping
+Create deployment for user
+Create job for roboshop components
+Set n/w for roboshop
+
+
 =========D82-2025-01-30-SESSION-38============
 =========D82-2025-01-31-SESSION-39===========
 
