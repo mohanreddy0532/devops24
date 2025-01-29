@@ -350,6 +350,7 @@ Presistant volume claim concepts
 Wt is statefulSet and beahvoiur
 Wt is DaemonSet
 =========D82-2025-01-29-SESSION-37============
+Kubernetes Roboshop
 =========D82-2025-01-30-SESSION-38============
 =========D82-2025-01-31-SESSION-39===========
 
