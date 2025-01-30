@@ -359,8 +359,7 @@ Create deployment for shipping
 Create deployment for user
 Create job for roboshop components
 Set n/w for roboshop
-
-
+How to create the azurerm_Kubernetes_cluster
 =========D82-2025-01-30-SESSION-38============
 =========D82-2025-01-31-SESSION-39===========
 
