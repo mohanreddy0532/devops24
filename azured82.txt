@@ -361,6 +361,11 @@ Create job for roboshop components
 Set n/w for roboshop
 How to create the azurerm_Kubernetes_cluster
 =========D82-2025-01-30-SESSION-38============
+How to get pwd from vault for Roboshop-K8s
+External secrets operator in k8;s
+How to install helm
+External secrets integretes vault
+How to create the external secrets
 =========D82-2025-01-31-SESSION-39===========
 
 =========D82-2025-02-03-SESSION-40===========
