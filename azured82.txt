@@ -368,7 +368,7 @@ External secrets integretes vault
 How to create the external secrets
 =========D82-2025-01-31-SESSION-NA===========
 =========D82-2025-02-03-SESSION-39===========
-
-
-
+=========D82-2025-02-04-SESSION-40===========
+=========D82-2025-02-05-SESSION-41===========
+=========D82-2025-02-06-SESSION-42===========
 
