@@ -367,6 +367,8 @@ How to install helm
 External secrets integretes vault
 How to create the external secrets
 =========D82-2025-01-31-SESSION-NA===========
+What is Istio used for?
+Istio is an open source service mesh that helps organizations run distributed, microservices-based apps anywhere. Why use Istio? Istio enables organizations to secure, connect, and monitor microservices, so they can modernize their enterprise apps more swiftly and securely.
 =========D82-2025-02-03-SESSION-39===========
 =========D82-2025-02-04-SESSION-40===========
 =========D82-2025-02-05-SESSION-41===========
