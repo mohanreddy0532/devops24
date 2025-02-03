@@ -370,6 +370,10 @@ How to create the external secrets
 What is Istio used for?
 Istio is an open source service mesh that helps organizations run distributed, microservices-based apps anywhere. Why use Istio? Istio enables organizations to secure, connect, and monitor microservices, so they can modernize their enterprise apps more swiftly and securely.
 =========D82-2025-02-03-SESSION-39===========
+Run Terrafromcode
+How to install external secrets with helm and retrive the secrets
+How to replace the external secrets
+How to
 =========D82-2025-02-04-SESSION-40===========
 =========D82-2025-02-05-SESSION-41===========
 =========D82-2025-02-06-SESSION-42===========
