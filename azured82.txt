@@ -379,6 +379,11 @@ How to keep code dry using Helm charts
 Helm chart file structure
 How to create Helm chart
 How to install Helm charts manually
+How to setup roboshop-Helm project
+How to install the cart in roboshop-helm
+How to install FE in roboshop-Helm
+Created Make file for Helm
+How to install the catalogue in roboshop-Helm
 
 =========D82-2025-02-05-SESSION-41===========
 =========D82-2025-02-06-SESSION-42===========
