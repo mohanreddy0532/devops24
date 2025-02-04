@@ -375,6 +375,11 @@ How to install external secrets with helm and retrive the secrets
 How to replace the external secrets
 How to standardise external secrets with TF
 =========D82-2025-02-04-SESSION-40===========
+How to keep code dry using Helm charts
+Helm chart file structure
+How to create Helm chart
+How to install Helm charts manually
+
 =========D82-2025-02-05-SESSION-41===========
 =========D82-2025-02-06-SESSION-42===========
 
