@@ -384,6 +384,9 @@ How to install the cart in roboshop-helm
 How to install FE in roboshop-Helm
 Created Make file for Helm
 How to install the catalogue in roboshop-Helm
+How to add the DB jobs to catalogue and shipping
+How to enable conditions in Helm chart for DB jobs
+How to add the DB jobs to shipping
 
 =========D82-2025-02-05-SESSION-41===========
 =========D82-2025-02-06-SESSION-42===========
