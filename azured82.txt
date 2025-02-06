@@ -395,5 +395,10 @@ Charts in Helm
 Chart Hooks in Helm
 Accessning files inside the templates in Helm
 Values files in Helm
-
+Template Functions and pipelines in Helm
+Template function List
+Variables in Helm chars
+Names template and how to declare named templates in Helm
+How to create Notes.txt in Helm
+Subcharts and global values in Helm
 =========D82-2025-02-07-SESSION-42===========
