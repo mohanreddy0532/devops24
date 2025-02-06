@@ -390,4 +390,10 @@ How to add the DB jobs to shipping
 How to add range to roboshop-Helm
 =========D82-2025-02-05-SESSION-NA===========
 =========D82-2025-02-06-SESSION-41===========
+How to setup roboshop-Helm project
+Charts in Helm
+Chart Hooks in Helm
+Accessning files inside the templates in Helm
+Values files in Helm
+
 =========D82-2025-02-07-SESSION-42===========
