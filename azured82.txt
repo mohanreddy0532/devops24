@@ -388,6 +388,6 @@ How to add the DB jobs to catalogue and shipping
 How to enable conditions in Helm chart for DB jobs
 How to add the DB jobs to shipping
 How to add range to roboshop-Helm
-=========D82-2025-02-05-SESSION-41===========
-=========D82-2025-02-06-SESSION-42===========
-=========D82-2025-02-07-SESSION-43===========
+=========D82-2025-02-05-SESSION-NA===========
+=========D82-2025-02-06-SESSION-41===========
+=========D82-2025-02-07-SESSION-42===========
