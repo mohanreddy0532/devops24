@@ -409,6 +409,11 @@ How to update ArgoCD server as LB
 How to create external-secrets for ArgoCD
 How to deploy the ArgoCD manually
 How to install cart Helm chart in ArgoCD
+How to install ArgoCD CLI
+How to install ArgoCD with automation and sync the app
+How to deploy the roboshop-Helm with ArgoCD
+How tis llok like pipeline view
+What are multiple environments
 
 =========D82-2025-02-07-SESSION-42===========
 =========D82-2025-02-07-SESSION-42===========
