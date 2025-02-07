@@ -402,3 +402,17 @@ Names template and how to declare named templates in Helm
 How to create Notes.txt in Helm
 Subcharts and global values in Helm
 =========D82-2025-02-07-SESSION-42===========
+Wt is CD
+Into to ArgoCD
+How to install and setup ArgoCD
+How to update ArgoCD server as LB
+How to create external-secrets for ArgoCD
+How to deploy the ArgoCD manually
+How to install cart Helm chart in ArgoCD
+
+=========D82-2025-02-07-SESSION-42===========
+=========D82-2025-02-07-SESSION-42===========
+=========D82-2025-02-07-SESSION-42===========
+=========D82-2025-02-07-SESSION-42===========
+=========D82-2025-02-07-SESSION-42===========
+
