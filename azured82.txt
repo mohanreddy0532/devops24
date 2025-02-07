@@ -414,10 +414,10 @@ How to install ArgoCD with automation and sync the app
 How to deploy the roboshop-Helm with ArgoCD
 How tis llok like pipeline view
 What are multiple environments
-
-=========D82-2025-02-07-SESSION-42===========
-=========D82-2025-02-07-SESSION-42===========
-=========D82-2025-02-07-SESSION-42===========
-=========D82-2025-02-07-SESSION-42===========
-=========D82-2025-02-07-SESSION-42===========
+Intro to GitHUB actions
+=========D82-2025-02-10-SESSION-42===========
+=========D82-2025-02-11-SESSION-42===========
+=========D82-2025-02-12-SESSION-42===========
+=========D82-2025-02-13-SESSION-42===========
+=========D82-2025-02-14-SESSION-42===========
 
