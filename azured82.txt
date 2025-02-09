@@ -415,9 +415,9 @@ How to deploy the roboshop-Helm with ArgoCD
 How tis llok like pipeline view
 What are multiple environments
 Intro to GitHUB actions
-=========D82-2025-02-10-SESSION-42===========
-=========D82-2025-02-11-SESSION-42===========
-=========D82-2025-02-12-SESSION-42===========
-=========D82-2025-02-13-SESSION-42===========
-=========D82-2025-02-14-SESSION-42===========
+=========D82-2025-02-10-SESSION-43===========
+=========D82-2025-02-11-SESSION-44===========
+=========D82-2025-02-12-SESSION-45===========
+=========D82-2025-02-13-SESSION-46===========
+=========D82-2025-02-14-SESSION-47===========
 
