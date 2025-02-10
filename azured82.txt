@@ -402,7 +402,7 @@ Names template and how to declare named templates in Helm
 How to create Notes.txt in Helm
 Subcharts and global values in Helm
 =========D82-2025-02-07-SESSION-42===========
-Wt is CD
+What is ContinousDelivery
 Into to ArgoCD
 How to install and setup ArgoCD
 How to update ArgoCD server as LB
@@ -416,6 +416,11 @@ How tis llok like pipeline view
 What are multiple environments
 Intro to GitHUB actions
 =========D82-2025-02-10-SESSION-43===========
+How to create GitHUB Org.
+GitHub Actions
+What are find and customise actions with examples
+GitHub CLI in Workflow
+Workflow commands for HitHub actions with example
 =========D82-2025-02-11-SESSION-44===========
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
