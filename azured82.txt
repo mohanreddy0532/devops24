@@ -425,8 +425,11 @@ How to Add scripts to your workflow with examples
 Premissions for GitHub_Token
 Expressions in GitHub actions with Examples
 Self-Hosted runners in GitHub actions
-Varibales in GitHub Actions with examples
-
+Variables in GitHub Actions with examples
+Self-Hosted runners in Github actions
+How to create Self-Hosted runner in Github actions
+How to get code access to repository
+How to deploy the roboshop cart
 =========D82-2025-02-11-SESSION-44===========
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
