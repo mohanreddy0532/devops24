@@ -421,6 +421,12 @@ GitHub Actions
 What are find and customise actions with examples
 GitHub CLI in Workflow
 Workflow commands for HitHub actions with example
+How to Add scripts to your workflow with examples
+Premissions for GitHub_Token
+Expressions in GitHub actions with Examples
+Self-Hosted runners in GitHub actions
+Varibales in GitHub Actions with examples
+
 =========D82-2025-02-11-SESSION-44===========
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
