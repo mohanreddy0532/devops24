@@ -431,6 +431,11 @@ How to create Self-Hosted runner in Github actions
 How to get code access to repository
 How to deploy the roboshop cart
 =========D82-2025-02-11-SESSION-44===========
+How to create the gitHub-runner instance
+How to configure GitHub-runner infra in hither instance
+How to add user module to GitHub runner
+How to create runner in gihub org.
+
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
 =========D82-2025-02-14-SESSION-47===========
