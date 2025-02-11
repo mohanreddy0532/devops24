@@ -441,7 +441,9 @@ How to create GitHub workflow with terraform
 How to checkout the code in GitHub actions
 How to add the vault secrets in gut hub org.
 How to download the terraform file
-
+How to provide identity to GitHub runner manually
+How to add role assignment to GitHub runner manually
+How to create azurerm_role_assignment
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
 =========D82-2025-02-14-SESSION-47===========
