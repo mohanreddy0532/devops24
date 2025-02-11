@@ -435,6 +435,12 @@ How to create the gitHub-runner instance
 How to configure GitHub-runner infra in hither instance
 How to add user module to GitHub runner
 How to create runner in gihub org.
+Creating vault token for GitHub runner and configure the secret
+How to create gitHub runner service file
+How to create GitHub workflow with terraform
+How to checkout the code in GitHub actions
+How to add the vault secrets in gut hub org.
+How to download the terraform file
 
 =========D82-2025-02-12-SESSION-45===========
 =========D82-2025-02-13-SESSION-46===========
