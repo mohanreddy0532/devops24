@@ -447,6 +447,8 @@ How to create azurerm_role_assignment
 =========D82-2025-02-12-SESSION-45===========
 How terraform connect to provide using service principle creds
 How to import gitHub-actions secrets from vault
+How to install and setup Kubectl on Linux
+How to deploy the Roboshop -cart with ArgoCD
 =========D82-2025-02-13-SESSION-46===========
 =========D82-2025-02-14-SESSION-47===========
 
