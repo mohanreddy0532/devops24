@@ -450,5 +450,9 @@ How to import gitHub-actions secrets from vault
 How to install and setup Kubectl on Linux
 How to deploy the Roboshop -cart with ArgoCD
 =========D82-2025-02-13-SESSION-46===========
+Create the gitHub-runners
+How to deploy cart with ArgoCD
+How to deploy the Roboshop components with ArgoCD
+How to create gitHub-actions reusable workflows
 =========D82-2025-02-14-SESSION-47===========
 
