@@ -464,4 +464,6 @@ What are the CI pipieline stages
 How to setup the cart CI pipeline
 How to do a code-checkout and install app-dependencies
 Static code analysis of cart CI
-
+How to trigger a workflow gitHub actions
+How to setup the roboshop-app CI-pipeline
+What are diff. Static code analysis tools
