@@ -457,4 +457,11 @@ How to create gitHub-actions reusable workflows
 How to use env for hither-actions
 How to create github_repository_env
 =========D82-2025-02-14-SESSION-47===========
+Create env for Roboshop-app
+Wt is CI
+What is ship-left approach
+What are the CI pipieline stages
+How to setup the cart CI pipeline
+How to do a code-checkout and install app-dependencies
+Static code analysis of cart CI
 
