@@ -471,8 +471,9 @@ What are diff. Static code analysis tools
 Setup the server for SonarQube
 How to setup Sonarqube
 SAST tools
-Ho wto install Sonar Scanner
-
+How to install Sonar Scanner
+How to submit the code to sonar scanner for code-checkout
+How to access the sonar secrets
 =========D82-2025-02-18-SESSION-49===========
 =========D82-2025-02-19-SESSION-50===========
 =========D82-2025-02-20-SESSION-51===========
