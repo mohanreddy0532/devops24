@@ -468,6 +468,11 @@ How to trigger a workflow gitHub actions
 How to setup the roboshop-app CI-pipeline
 What are diff. Static code analysis tools
 =========D82-2025-02-17-SESSION-48===========
+Setup the server for SonarQube
+How to setup Sonarqube
+SAST tools
+Ho wto install Sonar Scanner
+
 =========D82-2025-02-18-SESSION-49===========
 =========D82-2025-02-19-SESSION-50===========
 =========D82-2025-02-20-SESSION-51===========
