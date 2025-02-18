@@ -478,7 +478,10 @@ How to access the sonar secrets
 How to submit the code-quality of project to sonarqube
 How to run-code quality of remaining  Robshop-components
 How to run unit test with maven
-
+How developer work in multibracnh container
+How to run roboshop pipelines in main-branch
+How to built docker image
+How to create container registry for project
 =========D82-2025-02-19-SESSION-50===========
 =========D82-2025-02-20-SESSION-51===========
 =========D82-2025-02-21-SESSION-52===========
