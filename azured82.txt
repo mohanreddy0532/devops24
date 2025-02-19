@@ -486,6 +486,9 @@ How to create container registry for project
 Create the node image in docker file
 How to build docker container images for roboshop cart
 How to create docker container image for frontend
-
+How to create docker container images for catalogue
+How to create docker container images for payment
+How to create docker container images for shipping
+How to deploy the docker container image with ArgoCD
 =========D82-2025-02-20-SESSION-51===========
 =========D82-2025-02-21-SESSION-52===========
