@@ -483,5 +483,9 @@ How to run roboshop pipelines in main-branch
 How to built docker image
 How to create container registry for project
 =========D82-2025-02-19-SESSION-50===========
+Create the node image in docker file
+How to build docker container images for roboshop cart
+How to create docker container image for frontend
+
 =========D82-2025-02-20-SESSION-51===========
 =========D82-2025-02-21-SESSION-52===========
