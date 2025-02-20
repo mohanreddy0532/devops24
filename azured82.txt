@@ -495,5 +495,11 @@ Deployed the cart component
 How to create azure role_assignment for K8s
 How to create the role and add the permissions
 How deploy roboshop application
+What is Monitoring
+How to install the prometheus
+What is blackbox and white box monitoring
+Prometheus and pull metrics
+Prometheus architecture
+How to setup Prometheus
 
 =========D82-2025-02-21-SESSION-52===========
