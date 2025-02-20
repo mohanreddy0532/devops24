@@ -491,4 +491,9 @@ How to create docker container images for payment
 How to create docker container images for shipping
 How to deploy the docker container image with ArgoCD
 =========D82-2025-02-20-SESSION-51===========
+Deployed the cart component
+How to create azure role_assignment for K8s
+How to create the role and add the permissions
+How deploy roboshop application
+
 =========D82-2025-02-21-SESSION-52===========
