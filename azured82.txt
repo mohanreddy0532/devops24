@@ -501,5 +501,8 @@ What is blackbox and white box monitoring
 Prometheus and pull metrics
 Prometheus architecture
 How to setup Prometheus
+How to add scrap configuration
+How to install the node exporter to prometheus through lab auto
+How to execute the node in prometheus
 
 =========D82-2025-02-21-SESSION-52===========
