@@ -509,6 +509,12 @@ prometheus metric types
 Jobs and instances
 =========D82-2025-02-21-SESSION-NA===========
 =========D82-2025-02-24-SESSION-52===========
+Installed the prometheus added the node
+prometheus concepts
+prometheus configuration
+prometheus Architecture
+Recording rules and how to add the recording rules
+
 =========D82-2025-02-25-SESSION-53===========
 =========D82-2025-02-26-SESSION-54===========
 =========D82-2025-02-27-SESSION-55===========
