@@ -514,7 +514,13 @@ prometheus concepts
 prometheus configuration
 prometheus Architecture
 Recording rules and how to add the recording rules
-
+Alerting rules and how to add the recording rules
+Template examples
+Template reference
+Unit testing for rules
+HTTPS and authentication
+Quering in prometheus
+Basics in queuing
 =========D82-2025-02-25-SESSION-53===========
 =========D82-2025-02-26-SESSION-54===========
 =========D82-2025-02-27-SESSION-55===========
