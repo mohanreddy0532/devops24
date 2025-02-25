@@ -523,7 +523,7 @@ Quering in prometheus
 Basics in queuing
 Operations in Prometheus querying with examples
 Functions in Prometheus querying with examples
-=========D82-2025-02-25-SESSION-53===========
-=========D82-2025-02-26-SESSION-54===========
-=========D82-2025-02-27-SESSION-55===========
-=========D82-2025-02-28-SESSION-56===========
+=========D82-2025-02-25-SESSION-NA===========
+=========D82-2025-02-26-SESSION-53===========
+=========D82-2025-02-27-SESSION-54===========
+=========D82-2025-02-28-SESSION-55===========
