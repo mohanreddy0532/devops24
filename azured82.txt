@@ -531,6 +531,7 @@ Resource provisioning
 DNS record creation
 Vault setup manually
 Creating gitHub runner
-
+Creating GitHub runner secrets
+Setup roboshop terrafrom
 =========D82-2025-02-27-SESSION-54===========
 =========D82-2025-02-28-SESSION-55===========
