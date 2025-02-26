@@ -524,7 +524,13 @@ Basics in queuing
 Operations in Prometheus querying with examples
 Functions in Prometheus querying with examples
 =========D82-2025-02-25-SESSION-NA===========
-
 =========D82-2025-02-26-SESSION-53===========
+New AZ login
+Workstation creation
+Resource provisioning
+DNS record creation
+Vault setup manually
+Creating gitHub runner
+
 =========D82-2025-02-27-SESSION-54===========
 =========D82-2025-02-28-SESSION-55===========
