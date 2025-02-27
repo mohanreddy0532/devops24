@@ -534,4 +534,10 @@ Creating gitHub runner
 Creating GitHub runner secrets
 Setup roboshop terrafrom
 =========D82-2025-02-27-SESSION-54===========
+Updating resources
+Creating role for GitHub actions
+How to install prometheus Helm chart
+How to install Gama in GitHub actions
+How tin install nginx ingress
+E
 =========D82-2025-02-28-SESSION-55===========
