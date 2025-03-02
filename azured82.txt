@@ -541,3 +541,7 @@ How to install Gama in GitHub actions
 How tin install nginx ingress
 External DNS
 =========D82-2025-02-28-SESSION-55===========
+How to create DNS record for FE
+How to create external DNS
+How to get K8s_secret
+How to convert string intro Terraform
