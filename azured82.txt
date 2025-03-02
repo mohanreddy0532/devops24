@@ -545,3 +545,6 @@ How to create DNS record for FE
 How to create external DNS
 How to get K8s_secret
 How to convert string intro Terraform
+How to access DNS using service principal
+How to access DNS using kubelet identity
+=========D82-2025-03-03-SESSION-56===========
