@@ -551,7 +551,8 @@ How to access DNS using kubelet identity
 Update the external DNS
 How to install cube prometheus stack
 How to add additional script configuration
-
+How to add azure_sd_configuratin
+Upgrade of prometheus helm charts
 =========D82-2025-03-04-SESSION-56===========
 =========D82-2025-03-03-SESSION-56===========
 =========D82-2025-03-03-SESSION-56===========
