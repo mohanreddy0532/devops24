@@ -548,3 +548,11 @@ How to convert string intro Terraform
 How to access DNS using service principal
 How to access DNS using kubelet identity
 =========D82-2025-03-03-SESSION-56===========
+Update the external DNS
+How to install cube prometheus stack
+How to add additional script configuration
+
+=========D82-2025-03-04-SESSION-56===========
+=========D82-2025-03-03-SESSION-56===========
+=========D82-2025-03-03-SESSION-56===========
+=========D82-2025-03-03-SESSION-56===========
