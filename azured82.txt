@@ -554,6 +554,11 @@ How to add additional script configuration
 How to add azure_sd_configuratin
 Upgrade of prometheus helm charts
 =========D82-2025-03-04-SESSION-56===========
+Use template file functions in prometheus
+How to add the relabel config
+How to create axurerem-virtual manchineel for prometheus
+How to add azure_sd_configs filters
+
 =========D82-2025-03-03-SESSION-56===========
 =========D82-2025-03-03-SESSION-56===========
 =========D82-2025-03-03-SESSION-56===========
