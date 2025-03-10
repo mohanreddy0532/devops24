@@ -570,6 +570,9 @@ Wt are the pre-req. Of Elastic Search
 How to install elastic search with Ansible
 How to get the enrolment token
 How to reset the elastic search password
+Creating vault secret for ELK
+How to store the logs in ELK
+Logstash input plugins
 
 =========D82-2025-03-07-SESSION-NA===========
 =========D82-2025-03-10-SESSION-59===========
