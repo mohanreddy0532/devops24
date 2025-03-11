@@ -573,6 +573,11 @@ How to reset the elastic search password
 Creating vault secret for ELK
 How to store the logs in ELK
 Logstash input plugins
+Beats input plugin
+How to create log stash configuration
+How to add elastic search output plugins
+How to ship the logs
+How to install the file beat K8’s and ship the logs
 
 =========D82-2025-03-07-SESSION-NA===========
 =========D82-2025-03-10-SESSION-59===========
