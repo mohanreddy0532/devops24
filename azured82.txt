@@ -584,6 +584,10 @@ How to ship the logs to ELK
 How to add filter plugins
 How to create the data view for roboshop
 How to configure the JSON plugin
+How to convert structured logs to JSON logs
+How to add nginx response time to logfromat
+How to update the ArgoCD
+How to write log Grok patterns
 
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
