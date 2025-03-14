@@ -592,7 +592,13 @@ The 4 golden signals of monitoring
 How to monitor the nginx log
 How to create visualise lib for FE
 How to install roboshop-load-gen
-=========D82-2025-03-10-SESSION-59===========
+=========D82-2025-03-12-SESSION-61===========
+How to change argoCD server to ingress
+Setup of Argued-helm
+How to deploy the roboshop-helm with ArgoCD
+How to deploy the cart component with ArgoCD
+How to deploy catalogue with ArgoCD
+
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
