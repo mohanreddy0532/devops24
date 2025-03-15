@@ -602,6 +602,9 @@ How to get ghost cli latest commit
 How to deploy roboshop-helm with ArgoCD in dev env
 How to make a loudest for roboshop-project
 =========D82-2025-03-13-SESSION-62===========
+Setup the cluster for roboshop
+How to write docker file for shipping
+Deploy shipping with ArgoCD
 
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
