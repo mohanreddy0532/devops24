@@ -601,7 +601,8 @@ How to deploy catalogue with ArgoCD
 How to get ghost cli latest commit
 How to deploy roboshop-helm with ArgoCD in dev env
 How to make a loudest for roboshop-project
-=========D82-2025-03-10-SESSION-59===========
+=========D82-2025-03-13-SESSION-62===========
+
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
