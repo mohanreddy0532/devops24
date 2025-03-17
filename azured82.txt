@@ -607,6 +607,10 @@ How to write docker file for shipping
 Deploy shipping with ArgoCD
 Making load-get test for shipping
 How to configure the liveness and readiness probe for shipping
-=========D82-2025-03-10-SESSION-59===========
+=========D82-2025-03-14-SESSION-63===========
+Setup of the cluster
+Updated the changes in shipping
+Installed the metric server in k8’s
+How to add HPA to roboshop-Helm
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
