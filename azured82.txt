@@ -612,5 +612,6 @@ Setup of the cluster
 Updated the changes in shipping
 Installed the metric server in k8’s
 How to add HPA to roboshop-Helm
+Deploying roboshop-Helm with ArgoCD
 =========D82-2025-03-10-SESSION-59===========
 =========D82-2025-03-10-SESSION-59===========
