@@ -613,5 +613,11 @@ Updated the changes in shipping
 Installed the metric server in k8’s
 How to add HPA to roboshop-Helm
 Deploying roboshop-Helm with ArgoCD
-=========D82-2025-03-10-SESSION-59===========
+=========D82-2025-03-17-SESSION-64===========
+How to stabilise the roboshop application
+Updating the payment
+Made a roboshop-load-gen test
+Changing the resource of shipping
+How to create the node-pool
+
 =========D82-2025-03-10-SESSION-59===========
