@@ -625,3 +625,6 @@ How to stabilise the roboshop-app
 How to get app response time
 Deploying the shipping components
 Wt is cpu usage of roboshop app
+How to maximise the memory usage in grafana
+How to install and setup NewRelic
+How to monitor shipping with Newrelic app
