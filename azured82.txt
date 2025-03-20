@@ -621,3 +621,7 @@ Changing the resource of shipping
 How to create the node-pool
 Made a roboshop load gen test
 =========D82-2025-03-18-SESSION-65===========
+How to stabilise the roboshop-app
+How to get app response time
+Deploying the shipping components
+Wt is cpu usage of roboshop app
