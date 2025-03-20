@@ -628,3 +628,6 @@ Wt is cpu usage of roboshop app
 How to maximise the memory usage in grafana
 How to install and setup NewRelic
 How to monitor shipping with Newrelic app
+=========D82-2025-03-20-SESSION-66===========
+=========D82-2025-03-21-SESSION-67===========
+
