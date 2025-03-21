@@ -633,6 +633,8 @@ What is Azure LZone
 How to create the dev subscription
 How to create azurerm_resource_group
 How to create the azurerm_secuirty_group
-
+How to create azurerm_virtual_network
+How to add azurerm_virtual_network_peering
+How to create the pod subscription
 =========D82-2025-03-21-SESSION-67===========
 
