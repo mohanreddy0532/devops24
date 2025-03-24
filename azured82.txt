@@ -642,6 +642,10 @@ Deploying the application
 How is application is running
 What is bastion node
 azurerm_security_group modification
+What is encryption and decryption
+How to encrypt and decrypt using keys
+How key vendors works
+How to enable the https
 
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
