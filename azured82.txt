@@ -636,7 +636,13 @@ How to create the azurerm_secuirty_group
 How to create azurerm_virtual_network
 How to add azurerm_virtual_network_peering
 How to create the pod subscription
-=========D82-2025-03-21-SESSION-NA===========
+=========D82-2025-03-24-SESSION-67===========
+Updating resource group
+Deploying the application
+How is application is running
+What is bastion node
+azurerm_security_group modification
+
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
