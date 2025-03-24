@@ -646,6 +646,8 @@ What is encryption and decryption
 How to encrypt and decrypt using keys
 How key vendors works
 How to enable the https
+Lets encrypt
+How to install cent-manager with helm-charts
 
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
