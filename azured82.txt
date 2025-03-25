@@ -648,8 +648,8 @@ How key vendors works
 How to enable the https
 Lets encrypt
 How to install cent-manager with helm-charts
-
-=========D82-2025-03-24-SESSION-67===========
+How to create cluster issuer for crew-manager-cluster
+=========D82-2025-03-25-SESSION-68===========
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
