@@ -650,6 +650,14 @@ Lets encrypt
 How to install cent-manager with helm-charts
 How to create cluster issuer for crew-manager-cluster
 =========D82-2025-03-25-SESSION-68===========
+How to create cluster-issuer to cret-manager
+How to configure the cert-manager annotations in ingress
+How to generate request for ssl/TCL certificate
+SAST tools
+SCA tools
+Code quality tool Sonar Qube
+How to setup code-scans
+
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
