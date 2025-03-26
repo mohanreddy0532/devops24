@@ -657,6 +657,10 @@ SAST tools
 SCA tools
 Code quality tool Sonar Qube
 How to setup code-scans
+CredAvenu Ye=ubi application
+How to setup Sonarqube
+How to install and setup Trivy
+How to scan robosho-cart image with privy
 
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
