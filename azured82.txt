@@ -667,6 +667,8 @@ Changing the cluster to available regions
 Change the roboshop-terraform resource-group
 Deleting resource group
 =========D82-2025-03-27-SESSION-70===========
+How to upgrade the vulnerabilities in the container scan
+How to fix the allow-all Network security group in roboshop
 
 =========D82-2025-03-24-SESSION-67===========
 =========D82-2025-03-24-SESSION-67===========
