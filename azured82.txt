@@ -669,6 +669,6 @@ Deleting resource group
 =========D82-2025-03-27-SESSION-70===========
 How to upgrade the vulnerabilities in the container scan
 How to fix the allow-all Network security group in roboshop
-
-=========D82-2025-03-24-SESSION-67===========
+How using cloud is secure in terms of data
+=========D82-2025-03-28-SESSION-71===========
 =========D82-2025-03-24-SESSION-67===========
