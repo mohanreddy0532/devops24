@@ -675,6 +675,9 @@ Security at Transit
 Wt is Service mesh
 Intro to Isito
 How to install istio with helm
-How to write istio ex
+How to write istio example
+Creating istio namespace
+How to install Piali
+How to enable ingress to Kiali ‘Adding the Prometheus adding to istio
 
 =========================================
