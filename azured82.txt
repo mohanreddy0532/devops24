@@ -679,5 +679,9 @@ How to write istio example
 Creating istio namespace
 How to install Piali
 How to enable ingress to Kiali ‘Adding the Prometheus adding to istio
-
+How node.js server accepts posts requests
+How to write istio examples
+How to enable istio autherization policy
+How to create peer auth. For istio
+Web Application
 =========================================
