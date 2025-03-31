@@ -683,5 +683,6 @@ How node.js server accepts posts requests
 How to write istio examples
 How to enable istio autherization policy
 How to create peer auth. For istio
-Web Application
-=========================================
+Web Application Firewall (WAF)
+Cost saving methods
+================END=========================
