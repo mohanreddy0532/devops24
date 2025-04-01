@@ -10,3 +10,4 @@ SG in AWS and how it works
 How to create the SG
 Understand kind of application 
 How modern project looks like
+=========D83-04-02-2025-SESSION-07============
