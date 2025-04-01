@@ -1,3 +1,12 @@
-======AWS DevOps D83=====
 DevOps D83
 =================
+=========D83-03-02-2025-SESSION-06============
+Networking in AWS
+Wt is IP address
+What is NAT in networking
+Wt is f/w and how it protects server
+Wt is port number
+SG in AWS and how it works
+How to create the SG
+Understand kind of application 
+How modern project looks like
