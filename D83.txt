@@ -1,6 +1,6 @@
 DevOps D83
 =================
-=========D83-03-02-2025-SESSION-06============
+=========D83-2025-02-03-SESSION-06============
 Networking in AWS
 Wt is IP address
 What is NAT in networking
@@ -8,6 +8,14 @@ Wt is f/w and how it protects server
 Wt is port number
 SG in AWS and how it works
 How to create the SG
-Understand kind of application 
+Understand kind of application
 How modern project looks like
-=========D83-04-02-2025-SESSION-07============
+=========D83-2025-02-04-SESSION-07============
+3-tier application with example
+Wt are doff. Softwares used by web layers
+MS with examples
+Wt are project standards we use
+Project documentation
+Project overview
+How to add tagging to instance
+How to launch the instance for FE
