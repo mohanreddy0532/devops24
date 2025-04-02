@@ -19,3 +19,7 @@ Project documentation
 Project overview
 How to add tagging to instance
 How to launch the instance for FE
+Things that help you to setup project
+Wt is FE and setup FE component
+Wt is forward proxy vs reverse proxy with example
+Nginx Reverse proxy
