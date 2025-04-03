@@ -24,3 +24,8 @@ Wt is FE and setup FE component
 Wt is forward proxy vs reverse proxy with example
 Nginx Reverse proxy
 =========D83-2025-02-05-SESSION-08============
+Setup roboshop project
+Wt is MongoDB and setup
+Wt is catalogue and setup
+Wt is redis with example
+Setup Redis
