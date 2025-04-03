@@ -29,3 +29,5 @@ Wt is MongoDB and setup
 Wt is catalogue and setup
 Wt is redis with example
 Setup Redis
+Setup User
+=========D83-2025-02-06-SESSION-09============
