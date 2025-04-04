@@ -31,3 +31,9 @@ Wt is redis with example
 Setup Redis
 Setup User
 =========D83-2025-02-06-SESSION-09============
+How a cart component works and setup cart
+What is MySQL
+How to setup MySQL
+How to setup shipping component
+Wt is RabbitMQ with example
+How to setup RabbitMQ component
