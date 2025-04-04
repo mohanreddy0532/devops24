@@ -37,3 +37,5 @@ How to setup MySQL
 How to setup shipping component
 Wt is RabbitMQ with example
 How to setup RabbitMQ component
+How to setup Payment component
+How to setup dispatch component
