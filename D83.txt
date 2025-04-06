@@ -45,7 +45,12 @@ Wt is DNS
 Multiple Env.s
 Github account
 =========D83-2025-02-11-SESSION-11============
-
+Wt is the solution for IP address change
+Wt is DNS service
+AWS R53
+How Hosting domain connects to AWS DNS servers
+How to create the DNS record in Hosted zone
+Wt is Automation and wt are we automating
 
 
 
