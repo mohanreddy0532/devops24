@@ -51,7 +51,14 @@ AWS R53
 How Hosting domain connects to AWS DNS servers
 How to create the DNS record in Hosted zone
 Wt is Automation and wt are we automating
-
+Wt is shell scripting and why shell
+Which Shell
+Code
+Code editor
+GitRepos
+How to create the repository and clone in GitHUB
+Wt is continuous work and how to make it
+How to authenticate to GitHUB
 
 
 
