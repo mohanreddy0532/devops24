@@ -62,7 +62,10 @@ How to authenticate to GitHUB
 How to push code on the server side
 How to create shell scripting examples
 =========D83-2025-02-12-SESSION-12============
-
+Launch the instance for roboshop
+Wt is the script
+How to setup roboshop-shell project
+How to create code for FE
 
 
 
