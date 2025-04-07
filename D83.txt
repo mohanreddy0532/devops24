@@ -59,6 +59,9 @@ GitRepos
 How to create the repository and clone in GitHUB
 Wt is continuous work and how to make it
 How to authenticate to GitHUB
+How to push code on the server side
+How to create shell scripting examples
+=========D83-2025-02-12-SESSION-12============
 
 
 
