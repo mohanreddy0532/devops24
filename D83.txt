@@ -70,6 +70,14 @@ How to create code nginx config file
 How to create code for MongoDB
 How to create code for catlogue
 How to create code Redis
+How to create code User
+How to create code Cart
+How to create code MySQL and Shipping
+How to create code RabbitMQ
+How to create code Payment
+Creat the server for Roboshop components
+How to create DNS records for Roboshop components
+Wt are non functional requirement
 
 
 
