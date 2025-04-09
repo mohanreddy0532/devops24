@@ -84,7 +84,10 @@ Ho sto access variables in shell script with example
 How to declare the functions in shell script
 How to keep roboshop code dry
 Variable and functions name style
-
+Wt are the features keep the code dry
+How to execute print
+I/p variable in shell scripting
+Redirections examples
 
 
 
