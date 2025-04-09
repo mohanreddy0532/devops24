@@ -79,7 +79,11 @@ Creat the server for Roboshop components
 How to create DNS records for Roboshop components
 Wt are non functional requirement
 =========D83-2025-02-13-SESSION-13============
-
+Wt are non functional requirements
+Ho sto access variables in shell script with example
+How to declare the functions in shell script
+How to keep roboshop code dry
+Variable and functions name style
 
 
 
