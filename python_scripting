@@ -1,0 +1,8 @@
+Python_Scripting
+====================
+Varibales:
+Snake_case for Variables—Use lowercase letters and underscore to separate words
+ Eg: player_score,total_points
+Meaningful Names :user_age not ua
+Avoid using Digits at the start:
+Eg: player2 is valid but 2plyaer is invalid
