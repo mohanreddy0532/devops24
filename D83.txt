@@ -93,5 +93,6 @@ How to setup headings to Roboshop-shell project
 Conditions in shells crippling
 How to execute the conditions in catalogue
 How to add exit status in roboshp project
-
+Declare dynamic variables in shell scripting
+Loops in shell scripting with examples and Loops
 
