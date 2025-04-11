@@ -89,5 +89,9 @@ How to execute print
 I/p variable in shell scripting
 Redirections examples
 =========D83-2025-02-14-SESSION-14============
+How to setup headings to Roboshop-shell project
+Conditions in shells crippling
+How to execute the conditions in catalogue
+How to add exit status in roboshp project
 
 
