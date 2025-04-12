@@ -95,4 +95,8 @@ How to execute the conditions in catalogue
 How to add exit status in roboshp project
 Declare dynamic variables in shell scripting
 Loops in shell scripting with examples and Loops
-
+=========D83-2025-02-17-SESSION-15============
+Wt are the problems of shell scripting
+Wt are diff. Configuration Management tools
+Into to Ansible
+Configuration Push & Pull
