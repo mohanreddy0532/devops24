@@ -105,4 +105,10 @@ How ansible connects to node
 How to create Workstation server
 How to install Ansible
 How to install ansible with automation
+Ansible uses ssh and inventory
+Ansible collection
+Wt is Ansible Playbook
+Wt is Markup Language with example
+How to write ansible-playbook
+How to setup FE in ansible
 
