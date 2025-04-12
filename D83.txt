@@ -100,3 +100,9 @@ Wt are the problems of shell scripting
 Wt are diff. Configuration Management tools
 Into to Ansible
 Configuration Push & Pull
+History of Ansible
+How ansible connects to node
+How to create Workstation server
+How to install Ansible
+How to install ansible with automation
+
