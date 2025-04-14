@@ -111,4 +111,8 @@ Wt is Ansible Playbook
 Wt is Markup Language with example
 How to write ansible-playbook
 How to setup FE in ansible
-
+=========D83-2025-02-18-SESSION-16============
+Wt is Ansible role and how to create a role
+How to setup FE component in roboshop-ansible
+How to declare variables in Ansible
+Wt is variable precedence
