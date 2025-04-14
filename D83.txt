@@ -116,3 +116,8 @@ Wt is Ansible role and how to create a role
 How to setup FE component in roboshop-ansible
 How to declare variables in Ansible
 Wt is variable precedence
+Wt is make file
+How to write make file for roboshop-ansible
+How to setup mangoDB component in rosboshop-ansible
+How to setup catalogue component in rosboshop-ansible
+How to setup redid component
