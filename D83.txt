@@ -121,3 +121,8 @@ How to write make file for roboshop-ansible
 How to setup mangoDB component in rosboshop-ansible
 How to setup catalogue component in rosboshop-ansible
 How to setup redid component
+=========D83-2025-02-19-SESSION-17============
+Setup My SQL component in rosboshop-ansible
+Setup Shipping component in rosboshop-ansible
+Setup RabbitMQ component in rosboshop-ansible
+Setup Payment component in rosboshop-ansible
