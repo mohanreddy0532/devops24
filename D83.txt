@@ -126,3 +126,7 @@ Setup My SQL component in rosboshop-ansible
 Setup Shipping component in rosboshop-ansible
 Setup RabbitMQ component in rosboshop-ansible
 Setup Payment component in rosboshop-ansible
+Inventory file in Ansible
+Types of variables in daansible
+Wt are variable data types
+Ansible facts
