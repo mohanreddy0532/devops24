@@ -130,3 +130,9 @@ Inventory file in Ansible
 Types of variables in daansible
 Wt are variable data types
 Ansible facts
+Ansible certification topics
+Configuration files in ansible
+How to configure ansible managed nodes
+Ansible dynamic inventory
+How to use variable to retrieve the results of runnings commands
+How to execute conditions in ansible with ex
