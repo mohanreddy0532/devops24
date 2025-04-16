@@ -136,3 +136,9 @@ How to configure ansible managed nodes
 Ansible dynamic inventory
 How to use variable to retrieve the results of runnings commands
 How to execute conditions in ansible with ex
+How to execute tags in ansible
+Error handling in ansible with ex.
+Wt is template and how to create the template with ex.
+How to create the template for roboshop-ansible components
+Wt is SOP
+Ansible galaxy
