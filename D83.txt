@@ -149,3 +149,12 @@ How ansible pull approach works
 INtro to Terraform
 Why IaC
 Terraform alternative
+HashiCorp configuration language
+How HCL look like
+Wt is diff block offered by terraform
+Resources in TF
+Creating repository for TF
+How to create file in TF
+Terraform command
+How to install TF and apply TF command
+
