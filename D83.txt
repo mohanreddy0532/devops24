@@ -142,3 +142,10 @@ Wt is template and how to create the template with ex.
 How to create the template for roboshop-ansible components
 Wt is SOP
 Ansible galaxy
+=========D83-2025-02-20-SESSION-18============
+How to add the templates to roboshop-ansible
+Ansible vault
+How ansible pull approach works
+INtro to Terraform
+Why IaC
+Terraform alternative
