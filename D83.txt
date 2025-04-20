@@ -177,7 +177,11 @@ How to provision the terraform resource
 Variables and how to declare the variables in roboshop-terraform
 Loops-count in Terraform with examples
 Functions in Terraform and how to write functions in Terraform
-
+How to apply loops in robsohop-tf
+For-each-loop in terraform’How to apply for-each in roboshop-terraform
+Modules in terraform and how to write module
+How to create EC2 modules for roboshop-terraform
+Wt is triage
 
 
 
