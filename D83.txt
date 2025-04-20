@@ -172,7 +172,11 @@ How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
 Updated the changes in roboshop-terraform code
 How to decouple the rpovisioner
-
+=========D83-2025-02-25-SESSION-20============
+How to provision the terraform resource
+Variables and how to declare the variables in roboshop-terraform
+Loops-count in Terraform with examples
+Functions in Terraform and how to write functions in Terraform
 
 
 
