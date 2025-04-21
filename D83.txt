@@ -185,7 +185,10 @@ Wt is triage
 Diff. Terraform remote state backend
 Wt is S3 bucket and how to create a S3 bucket
 Module blocks and module sources in Terraform
-
+=========D83-2025-02-27-SESSION-21============
+Conditions in Terraform
+Locals in Terraform
+Setup of roboshop-terraform
 
 
 
