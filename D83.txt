@@ -192,8 +192,11 @@ Setup of roboshop-terraform
 How to setup-tools code with terraform
 How to increase the disk space
 How to setup vault
-
-
+=========D83-2025-02-28-SESSION-22============
+AWS saving plans
+Spot instances in AWS
+How to launch the spot instance
+How to setup the vault with terraform
 
 
 
