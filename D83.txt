@@ -202,7 +202,7 @@ How to create the vault secret
 How to retrieve the vault secrets from Ansible
 How to retrieve the vault secrets from Terraform
 How to store vault_mount
-
+How to retrieve secrets from roboshop-terraform
 
 
 
