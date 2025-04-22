@@ -197,7 +197,11 @@ AWS saving plans
 Spot instances in AWS
 How to launch the spot instance
 How to setup the vault with terraform
-
+How to unseal vault key
+How to create the vault secret
+How to retrieve the vault secrets from Ansible
+How to retrieve the vault secrets from Terraform
+How to store vault_mount
 
 
 
