@@ -203,8 +203,11 @@ How to retrieve the vault secrets from Ansible
 How to retrieve the vault secrets from Terraform
 How to store vault_mount
 How to retrieve secrets from roboshop-terraform
-
-
+=========D83-2025-03-03-SESSION-23============
+How to create vault secrets
+How to create vault secrets for roboshop-ansible
+How to add Jinja lookup plugin to receive secrets
+How to retrieve the secrets from ansible
 
 
 
