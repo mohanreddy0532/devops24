@@ -211,7 +211,10 @@ How to retrieve the secrets from ansible
 =========D83-2025-03-04-SESSION-24============
 Ho sto apply component service
 How to add filters to roboshop ansible
-
+How to update the roboshop-ansible secrets
+Wt is Containerisation
+History of containers
+Web Assembly
 
 
 
