@@ -215,8 +215,13 @@ How to update the roboshop-ansible secrets
 Wt is Containerisation
 History of containers
 Web Assembly
-
-
+=========D83-2025-03-06-SESSION-25============
+History of virtualisation
+LXC Containers
+Intro to Docker
+How to run a container
+NameSpaces
+Cgroups
 
 
 
