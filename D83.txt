@@ -222,6 +222,9 @@ Intro to Docker
 How to run a container
 NameSpaces
 Cgroups
+Chroot jailing
+Wt are diff. Container management tools
+
 
 
 
