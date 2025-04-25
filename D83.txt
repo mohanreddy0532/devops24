@@ -227,7 +227,10 @@ Wt are diff. Container management tools
 History of docker
 How to run a docker
 How to install docker and run the docker container
-=========D83-2025-03-06-SESSION-25============
-
+=========D83-2025-03-07-SESSION-26============
+How to setup the roboshop project with docker
+How to setup Cart component with docker
+How to install docker for roboshop project
+How to setup FE-socker component
 
 
