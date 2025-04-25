@@ -224,7 +224,10 @@ NameSpaces
 Cgroups
 Chroot jailing
 Wt are diff. Container management tools
-
+History of docker
+How to run a docker
+How to install docker and run the docker container
+=========D83-2025-03-06-SESSION-25============
 
 
 
