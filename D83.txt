@@ -231,6 +231,11 @@ How to install docker and run the docker container
 How to setup the roboshop project with docker
 How to setup Cart component with docker
 How to install docker for roboshop project
-How to setup FE-socker component
+How to setup FE-docker component
+How to create the vault container secrets
+How to setup the catalogue-docker
+How to update the catalogue schema
+How to setup shipping-docker
+How to increase the volume size
 
 
