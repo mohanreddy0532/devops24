@@ -127,7 +127,7 @@ Setup Shipping component in rosboshop-ansible
 Setup RabbitMQ component in rosboshop-ansible
 Setup Payment component in rosboshop-ansible
 Inventory file in Ansible
-Types of variables in daansible
+Types of variables in  ansible
 Wt are variable data types
 Ansible facts
 Ansible certification topics
@@ -241,4 +241,8 @@ How to increase the volume size
 How to setup the Roboshop-docker containers
 Why containers are not scalable
 Amazon Elastic K8s Service
+Wt K8 makes better than Docker Swarm
+Wt are the advantages of Pod over container
+Network in Pod vs Container
+Storage in Pod vs container
 
