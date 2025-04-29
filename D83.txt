@@ -245,4 +245,11 @@ Wt K8 makes better than Docker Swarm
 Wt are the advantages of Pod over container
 Network in Pod vs Container
 Storage in Pod vs container
+Kubernetes Architecture
+How to create the EKS cluster
+API server in K8’s
+How to install kubectl
+How to generate the Kube config
+How to create aws_eks_node_group
+How to create a pod
 
