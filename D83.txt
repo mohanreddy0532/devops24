@@ -253,3 +253,7 @@ How to generate the Kube config
 How to create aws_eks_node_group
 How to create a pod
 =========D83-2025-03-11-SESSION-28============
+Wt are diff. Kubectl options
+How to create multiple containers in a pod
+How to create pod-storage
+How to create pod-network
