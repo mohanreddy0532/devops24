@@ -257,3 +257,6 @@ Wt are diff. Kubectl options
 How to create multiple containers in a pod
 How to create pod-storage
 How to create pod-network
+Wt is init container and how to create init container
+Wt is ephemeral containers and how to create ephemeral contianers
+Wt is Side-car container and how to create it
