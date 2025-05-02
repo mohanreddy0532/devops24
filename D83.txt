@@ -260,3 +260,8 @@ How to create pod-network
 Wt is init container and how to create init container
 Wt is ephemeral containers and how to create ephemeral contianers
 Wt is Side-car container and how to create it
+Labels in containers
+K8’s annotations
+Wt is a replicates and how to create the replicates
+How to delete the replicates
+How to scale a replicates
