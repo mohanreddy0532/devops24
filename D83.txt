@@ -265,3 +265,9 @@ K8’s annotations
 Wt is a replicates and how to create the replicates
 How to delete the replicates
 How to scale a replicates
+========D83-2025-03-12-SESSION-29=============
+What is POD deletion cost
+K8’s Architecture
+What are the limitations of relicaset
+Wt are the limitation of relicaset
+
