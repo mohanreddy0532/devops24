@@ -273,4 +273,9 @@ Wt are the limitation of relicaset
 Deployment in K8’s
 Devops deployment strategies
 Roll back a deployment with ex
+Scaling in deployments
+How to create deployment for roboshop components
+How to define pods in environment variable in roboshop components
+Configmap in pods and containers with ex.
+How to create config maps for roboshop-app
 ========D83-2025-03-13-SESSION-30=============
