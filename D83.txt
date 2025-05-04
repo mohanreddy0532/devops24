@@ -279,3 +279,7 @@ How to define pods in environment variable in roboshop components
 Configmap in pods and containers with ex.
 How to create config maps for roboshop-app
 ========D83-2025-03-13-SESSION-30=============
+Setup the roboshop with K8’s
+Secrets in K8’s
+Mounting config maps and secrets
+Services in K8’s
