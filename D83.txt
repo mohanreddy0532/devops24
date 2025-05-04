@@ -283,3 +283,9 @@ Setup the roboshop with K8’s
 Secrets in K8’s
 Mounting config maps and secrets
 Services in K8’s
+Cluster IP in service type
+LB in service type
+External name in Service type
+How to apply service to roboshop-app
+Jobs in K8’s
+How to create jobs for roboshop components
