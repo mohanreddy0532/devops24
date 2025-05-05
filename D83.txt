@@ -289,3 +289,10 @@ External name in Service type
 How to apply service to roboshop-app
 Jobs in K8’s
 How to create jobs for roboshop components
+========D83-2025-03-14-SESSION-31=============
+Resource Management in K8’s
+Resource requests and limits of pods and container
+Resource quotas
+Tools for monitoring resources
+What is Autoscaling
+What is Horizontal Scaling vs Vertical scaling
