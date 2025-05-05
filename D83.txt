@@ -296,3 +296,5 @@ Resource quotas
 Tools for monitoring resources
 What is Autoscaling
 What is Horizontal Scaling vs Vertical scaling
+How to create HPA
+How to scale POD with HPA How to add metric server add-ons
