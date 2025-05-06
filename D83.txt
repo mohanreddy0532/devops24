@@ -298,3 +298,7 @@ What is Autoscaling
 What is Horizontal Scaling vs Vertical scaling
 How to create HPA
 How to scale POD with HPA How to add metric server add-ons
+How to create aws_aks_cluster
+Wt is Horizontal POD Autoscaling
+Intro to KEDA
+Wt is Vertical Pod autoscaling and create VPA
