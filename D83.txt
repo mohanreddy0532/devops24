@@ -302,3 +302,7 @@ How to create aws_aks_cluster
 Wt is Horizontal POD Autoscaling
 Intro to KEDA
 Wt is Vertical Pod autoscaling and create VPA
+========D83-2025-03-17-SESSION-32=============
+Wt is scheduling in K8’s
+Wt are scheduling basics
+How to add the eke add-on
