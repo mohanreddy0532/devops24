@@ -310,3 +310,6 @@ How to select the node
 Taints and tolerations how to add the schedule the traints
 POD topology Spread constraints
 How to schedule the node affinity
+What is POD affinity and schedule the POD affinity
+What is Topology
+POD priority and preemption with example
