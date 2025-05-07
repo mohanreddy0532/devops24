@@ -305,4 +305,8 @@ Wt is Vertical Pod autoscaling and create VPA
 ========D83-2025-03-17-SESSION-32=============
 Wt is scheduling in K8’s
 Wt are scheduling basics
-How to add the eke add-on
+How to add the eks add-on
+How to select the node
+Taints and tolerations how to add the schedule the traints
+POD topology Spread constraints
+How to schedule the node affinity
