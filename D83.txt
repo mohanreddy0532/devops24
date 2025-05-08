@@ -317,3 +317,6 @@ POD priority and preemption with example
 What is Ansible role and how to create a role
 How to setup FE component in roboshop-ansible
 How to declare variable in Ansible
+What is variable precedence
+How to create the role for Roboshop components
+What is Make file
