@@ -314,9 +314,6 @@ What is POD affinity and schedule the POD affinity
 What is Topology
 POD priority and preemption with example
 ========D83-2025-03-18-SESSION-33=============
-What is Ansible role and how to create a role
-How to setup FE component in roboshop-ansible
-How to declare variable in Ansible
-What is variable precedence
-How to create the role for Roboshop components
-What is Make file
+Pod Topology spread constraint and configure
+What is stateful application
+K8’s persistent volumes
