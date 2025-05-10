@@ -317,3 +317,7 @@ POD priority and preemption with example
 Pod Topology spread constraint and configure
 What is stateful application
 K8’s persistent volumes
+How to create the storage class volume
+How to create the AWS EBS volume
+How to create the role for Pod to access the permissions
+How to assign IAM role to K8’s service account
