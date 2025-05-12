@@ -323,3 +323,7 @@ How to create the role for Pod to access the permissions
 How to assign IAM role to K8’s service account
 Why we need statefulset
 How to create the statefulset without PVC
+========D83-2025-03-20-SESSION-34=============
+Intro to the helm chart
+How tp create the helm chart
+How to install helm
