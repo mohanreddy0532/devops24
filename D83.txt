@@ -334,3 +334,7 @@ How to create the helm templates to FE and deploy FE
 Built in objects in helm charts
 Values files in helm charts
 Template functions and pipelines in helm charts
+Template functions list in helm charts
+Flow control in helm charts
+Variables in helm charts
+
