@@ -330,4 +330,7 @@ How to install helm
 How to deploy FE with helm
 Helmchart templates
 How to create the helm templates to FE and deploy FE
-
+========D83-2025-03-21-SESSION-35=============
+Built in objects in helm charts
+Values files in helm charts
+Template functions and pipelines in helm charts
