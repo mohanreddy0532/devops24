@@ -327,3 +327,7 @@ How to create the statefulset without PVC
 Intro to the helm chart
 How tp create the helm chart
 How to install helm
+How to deploy FE with helm
+Helmchart templates
+How to create the helm templates to FE and deploy FE
+
