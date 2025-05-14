@@ -337,4 +337,8 @@ Template functions and pipelines in helm charts
 Template functions list in helm charts
 Flow control in helm charts
 Variables in helm charts
+Template functions and pipelines in helm charts
+Template functions list in helm charts
+Flow control in helm charts
+
 
