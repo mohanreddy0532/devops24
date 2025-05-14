@@ -340,5 +340,9 @@ Variables in helm charts
 Template functions and pipelines in helm charts
 Template functions list in helm charts
 Flow control in helm charts
+Varibales in helm charts
+Names templates in helm charts
+Accessing files in templates in helm charts
+Subcharts and global values in helm charts
 
 
