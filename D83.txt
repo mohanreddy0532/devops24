@@ -347,4 +347,7 @@ Subcharts and global values in helm charts
 ========D83-2025-03-24-SESSION-36=============
 Creating repository for roboshop-helm
 Helm-repo strategy
+How to create helm charts for FE
+How to create helm charts for cart and catalogue
+How to create helm charts for user, shipping and payment
 
