@@ -352,4 +352,6 @@ How to create helm charts for cart and catalogue
 How to create helm charts for user, shipping and payment
 How to add if condition to roboshop-helm
 Enabling the schema for catalogue and shipping
-
+========D83-2025-03-25-SESSION-37=============
+What is continuous work
+Introduction to Hithub actions
