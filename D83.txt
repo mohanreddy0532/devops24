@@ -355,3 +355,6 @@ Enabling the schema for catalogue and shipping
 ========D83-2025-03-25-SESSION-37=============
 What is continuous work
 Introduction to Hithub actions
+How to create code GitHub-runner
+How to install the GitHub-actions
+How to create the vault secret for GitHub-runner
