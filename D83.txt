@@ -358,3 +358,7 @@ Introduction to Hithub actions
 How to create code GitHub-runner
 How to install the GitHub-actions
 How to create the vault secret for GitHub-runner
+How to create GitHub runner service
+Creating repository for GitHub actions
+How to write Hithub workflows
+Github actions workflow syntax
