@@ -352,7 +352,7 @@ How to create helm charts for cart and catalogue
 How to create helm charts for user, shipping and payment
 How to add if condition to roboshop-helm
 Enabling the schema for catalogue and shipping
-========D83-2025-03-25-SESSION-37=============
+========D83-2025-03-25-SESSION-37===githubActions=======
 What is continuous work
 Introduction to Hithub actions
 How to create code GitHub-runner
@@ -368,3 +368,6 @@ Installing terraform in GitHub runner
 How to create aws_iam_role for GitHub-runner
 How to add aws_iam_policy
 Creating aws_iam_role_policy_attachment
+How to add the secrets to GitHub-actions
+How to retrieve secrets from GitHub actions
+How to setup the GitHub actions with ansible
