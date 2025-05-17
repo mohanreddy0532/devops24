@@ -362,3 +362,9 @@ How to create GitHub runner service
 Creating repository for GitHub actions
 How to write Hithub workflows
 Github actions workflow syntax
+========D83-2025-03-26-SESSION-38=============
+How to update the terraform apply
+Installing terraform in GitHub runner
+How to create aws_iam_role for GitHub-runner
+How to add aws_iam_policy
+Creating aws_iam_role_policy_attachment
