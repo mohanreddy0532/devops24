@@ -375,4 +375,9 @@ How to install the helm in GitHub-actions
 Workflows in GitHub-actions
 How to write the workflows
 How to install Rodman container
-
+========D83-2025-03-27-SESSION-39=============
+How to run jobs in the container
+How to choose a workflow and use jobs in workflows with example
+How to write the GitHub-actions example
+Github CLI in workflows
+Workflow commands with examples
