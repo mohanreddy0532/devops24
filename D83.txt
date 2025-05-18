@@ -381,3 +381,4 @@ How to choose a workflow and use jobs in workflows with example
 How to write the GitHub-actions example
 Github CLI in workflows
 Workflow commands with examples
+Permissions for github_token
