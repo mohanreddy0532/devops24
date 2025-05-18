@@ -373,3 +373,6 @@ How to retrieve secrets from GitHub actions
 How to setup the GitHub actions with ansible
 How to install the helm in GitHub-actions
 Workflows in GitHub-actions
+How to write the workflows
+How to install Rodman container
+
