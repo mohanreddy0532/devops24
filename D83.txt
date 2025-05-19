@@ -385,3 +385,6 @@ Permissions for github_token
 Expressions in GitHub-actions
 How to declare variables
 Contexts GitHub-actions
+Pass info GitHub actions
+Environments GitHub-actions
+Concurrenct GitHub-actions how it works with example
