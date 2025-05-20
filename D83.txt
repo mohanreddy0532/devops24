@@ -388,3 +388,6 @@ Contexts GitHub-actions
 Pass info GitHub actions
 Environments GitHub-actions
 Concurrenct GitHub-actions how it works with example
+========D83-2025-03-28-SESSION-40=============
+What is the use concurrency with examples
+How to run job variations
