@@ -391,3 +391,8 @@ Concurrenct GitHub-actions how it works with example
 ========D83-2025-03-28-SESSION-40=============
 What is the use concurrency with examples
 How to run job variations
+Cache dependencies in GitHub-actions
+What is continues integration
+How to make code checks
+How to install gh-cli
+How to create the pulping for cart
