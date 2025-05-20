@@ -396,3 +396,6 @@ What is continues integration
 How to make code checks
 How to install gh-cli
 How to create the pulping for cart
+How to create the pipeline for cart
+How to create the pipeline for catalogue
+How to create the pipeline for FE and user
