@@ -402,3 +402,5 @@ How to create the pipeline for FE and user
 Creating hitHub-actions-reusable repository
 How to create reusable workflows for roboshop-helm
 How to apply strategy to GitHub-actions
+What is strategy in CI
+Continous deployment vs Continous delivery
