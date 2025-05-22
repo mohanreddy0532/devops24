@@ -407,3 +407,7 @@ Continous deployment vs Continous delivery
 ========D83-2025-03-31-SESSION-41=============
 How developers work in iterative manner
 How to create branch and merge the branch example
+How to modify github CI
+How to create and merge the branch for robosop-cart
+How to modify github CI
+How to create and merge the branch for roboshop-components
