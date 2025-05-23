@@ -411,3 +411,6 @@ How to modify github CI
 How to create and merge the branch for robosop-cart
 How to modify github CI
 How to create and merge the branch for roboshop-components
+What are test cases for a MS
+How to run test-cases
+How to Download dependencies
