@@ -414,3 +414,6 @@ How to create and merge the branch for roboshop-components
 What are test cases for a MS
 How to run test-cases
 How to Download dependencies
+What is Docker build
+How to build a node docker image in Roboshop-cart
+How to increase the volume of disk space
