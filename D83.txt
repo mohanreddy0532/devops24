@@ -418,3 +418,7 @@ What is Docker build
 How to build a node docker image in Roboshop-cart
 How to increase the volume of disk space
 ========D83-2025-04-01-SESSION-42=============
+How to Build the roboshop docker images
+How to create the repository for cart in ECR
+Creating repositories for roboshop-docker components
+
