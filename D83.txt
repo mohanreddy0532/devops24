@@ -427,4 +427,7 @@ How to build docker image for FE
 How to provide permissions to GitHub-runner role
 Triggering the Roboshop-pipelines
 How to access a docker image for db-schema
-
+========D83-2025-04-02-SESSION-43=============
+How to deploy the roboshop-app
+Setup schema in shipping
+Setup of roboshop-catalogue
