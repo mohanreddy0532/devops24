@@ -424,3 +424,7 @@ Creating repositories for roboshop-docker components
 How to build docker image for shipping
 How to built docker image for Payment
 How to build docker image for FE
+How to provide permissions to GitHub-runner role
+Triggering the Roboshop-pipelines
+How to access a docker image for db-schema
+
