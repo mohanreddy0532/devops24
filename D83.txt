@@ -431,3 +431,7 @@ How to access a docker image for db-schema
 How to deploy the roboshop-app
 Setup schema in shipping
 Setup of roboshop-catalogue
+Modifying the schema
+How to add aws_eks_entry
+How to provide access to workstation
+Intro to ArgoCD
