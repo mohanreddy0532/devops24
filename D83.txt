@@ -435,3 +435,7 @@ Modifying the schema
 How to add aws_eks_entry
 How to provide access to workstation
 Intro to ArgoCD
+========D83-2025-04-03-SESSION-44=============
+How to instal ArgoCD manually
+How to install ArgoCD with helm charts
+How to create the cart application in ArgoCD
