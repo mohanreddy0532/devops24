@@ -439,3 +439,5 @@ Intro to ArgoCD
 How to instal ArgoCD manually
 How to install ArgoCD with helm charts
 How to create the cart application in ArgoCD
+How to deploy cart with ArgoCD
+How to deploy user with ArgoCD
