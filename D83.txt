@@ -441,3 +441,6 @@ How to install ArgoCD with helm charts
 How to create the cart application in ArgoCD
 How to deploy cart with ArgoCD
 How to deploy user with ArgoCD
+========D83-2025-04-04-SESSION-45=============
+How to trigger the ghost command
+How to install helm-application
