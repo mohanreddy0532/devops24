@@ -444,3 +444,5 @@ How to deploy user with ArgoCD
 ========D83-2025-04-04-SESSION-45=============
 How to trigger the ghost command
 How to install helm-application
+How to add the workflow permissions
+How to deploy the roboshop-components with ArgoCD
