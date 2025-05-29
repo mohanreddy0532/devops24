@@ -446,3 +446,5 @@ How to trigger the ghost command
 How to install helm-application
 How to add the workflow permissions
 How to deploy the roboshop-components with ArgoCD
+Adding the eks node
+How to create the new QA env for GitHub-actions
