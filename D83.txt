@@ -452,4 +452,6 @@ How to create the new QA env for GitHub-actions
 How to deploy roboshop-tf
 Intro to Frog Artifactory
 How to sign in to Frog artfiactory
-How to create docker repository in Frog
+How to create docker repository in JFrog
+How to store the roboshop-image artefacts in Artifactory
+How to setup the Maven repo. 28:22
