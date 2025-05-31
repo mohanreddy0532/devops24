@@ -448,7 +448,7 @@ How to add the workflow permissions
 How to deploy the roboshop-components with ArgoCD
 Adding the eks node
 How to create the new QA env for GitHub-actions
-========D83-2025-04-05-SESSION-46=============
+========D83-2025-04-07-SESSION-46=============
 How to deploy roboshop-tf
 Intro to Frog Artifactory
 How to sign in to Frog artfiactory
@@ -462,3 +462,4 @@ Prometheus Architecture
 How to install Prometheus
 How to install Prometheus node exporter and how to monitor
 How to download Mongo_db exporter how to monitor
+========D83-2025-04-09-SESSION-47=============
