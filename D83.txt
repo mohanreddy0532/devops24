@@ -454,4 +454,9 @@ Intro to Frog Artifactory
 How to sign in to Frog artfiactory
 How to create docker repository in JFrog
 How to store the roboshop-image artefacts in Artifactory
-How to setup the Maven repo. 28:22
+—>How to setup the Maven repo. 28:22
+What is blackbox monitoring and white box monitoring
+Prometheus Monitoring
+Prometheus pulls metrics
+Prometheus Architecture
+How to instaall Prometheus
