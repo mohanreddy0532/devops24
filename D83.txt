@@ -459,4 +459,6 @@ What is blackbox monitoring and white box monitoring
 Prometheus Monitoring
 Prometheus pulls metrics
 Prometheus Architecture
-How to instaall Prometheus
+How to install Prometheus
+How to install Prometheus node exporter and how to monitor
+How to download Mongo_db exporter how to monitor
