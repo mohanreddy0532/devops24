@@ -463,3 +463,5 @@ How to install Prometheus
 How to install Prometheus node exporter and how to monitor
 How to download Mongo_db exporter how to monitor
 ========D83-2025-04-09-SESSION-47=============
+How to setup prometheus-helm charts on K8’s-cluster
+How to install helm Nginx ingress
