@@ -467,3 +467,5 @@ How to setup prometheus-helm charts on K8’s-cluster
 How to install helm Nginx ingress
 How to create the example nginx-ingress controller
 Create the dns record for FE
+How to create the certificate in certificate manger
+How to use aws cam nginx ingress
