@@ -472,3 +472,7 @@ How to use aws cam nginx ingress
 How to Setup the LB
 How to add the annotations to ingress
 How to redirect the nginx ingress
+========D83-2025-04-10-SESSION-48=============
+How to setup the ingress
+How to redirect the http and Https
+How to add the annotations to nginx configuration
