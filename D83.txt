@@ -476,3 +476,5 @@ How to redirect the nginx ingress
 How to setup the ingress
 How to redirect the http and Https
 How to add the annotations to nginx configuration
+How to install and setup the helm Cert Manager Manually
+Cert manager certified issuer ACME
