@@ -478,3 +478,5 @@ How to redirect the http and Https
 How to add the annotations to nginx configuration
 How to install and setup the helm Cert Manager Manually
 Cert manager certified issuer ACME
+
+========D83-2025-04-11-SESSION-49=============
