@@ -483,3 +483,6 @@ Add the cert Manager annotations Nginx ingress
 Creating the ingress
 How to encrypt the cert-manager
 How to setup the cert-manager with Helm
+How to install External -DNS helm chart
+How to add the aws_eks_addon to eks pod identity agent
+How to create IAM role for eks pod identity
