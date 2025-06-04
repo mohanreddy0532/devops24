@@ -480,3 +480,6 @@ How to install and setup the helm Cert Manager Manually
 Cert manager certified issuer ACME
 Add the cert Manager annotations Nginx ingress
 ========D83-2025-04-11-SESSION-49=============
+Creating the ingress
+How to encrypt the cert-manager
+How to setup the cert-manager with Helm
