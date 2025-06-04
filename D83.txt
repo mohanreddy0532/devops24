@@ -486,3 +486,6 @@ How to setup the cert-manager with Helm
 How to install External -DNS helm chart
 How to add the aws_eks_addon to eks pod identity agent
 How to create IAM role for eks pod identity
+How to attache aws_iam_role_policy_attachment to external-dns
+Installing ArgoCD with helm in roboshop-terrraform
+========D83-2025-04-11-SESSION-49=============
