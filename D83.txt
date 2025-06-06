@@ -493,3 +493,9 @@ How to add the ingress to ArgoCD
 Adding the annotations to ArgoCD
 How to create the ingress to Prometheus
 Prometheus configuration
+Metric type in Prometheus
+Jobs and instances in Prometheus
+Recording rules in Prometheus
+Template examples in Prometheus
+Alert Rules in Prometheus
+
