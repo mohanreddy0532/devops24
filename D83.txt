@@ -491,3 +491,5 @@ Installing ArgoCD with helm in roboshop-terrraform
 ========D83-2025-04-15-SESSION-50=============
 How to add the ingress to ArgoCD
 Adding the annotations to ArgoCD
+How to create the ingress to Prometheus
+Prometheus configuration
