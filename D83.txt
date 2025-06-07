@@ -501,4 +501,6 @@ Alert Rules in Prometheus
 Template examples in Prometheus
 Template reference in Prometheus
 Unit testing rules
+HTTPs Authentication
+Querying in Prometheus
 
