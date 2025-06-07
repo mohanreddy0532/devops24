@@ -498,4 +498,7 @@ Jobs and instances in Prometheus
 Recording rules in Prometheus
 Template examples in Prometheus
 Alert Rules in Prometheus
+Template examples in Prometheus
+Template reference in Prometheus
+Unit testing rules
 
