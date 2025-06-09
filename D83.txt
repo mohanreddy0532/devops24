@@ -504,3 +504,6 @@ Unit testing rules
 HTTPs Authentication
 Querying in Prometheus
 ========D83-2025-04-16-SESSION-51=============
+Creating ingress to Prometheus
+Operators in prometheus with ex.
+Function
