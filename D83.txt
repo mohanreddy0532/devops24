@@ -512,4 +512,6 @@ How to monitor nodes with Kube-prometheus-stack
 How to add the static configuration
 How to add filters to ec2_sd_configs
 ========D83-2025-04-17-SESSION-52=============
-How to enable the prometheus monitoring in roboshop-ansib;e
+How to enable the prometheus monitoring in roboshop-ansible
+How to install prometheus node-exporter in roboshop-ansible
+How to add reliable configuration roboshop-ansible
