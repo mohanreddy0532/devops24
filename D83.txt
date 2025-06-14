@@ -521,3 +521,4 @@ How to create Grafana dashboard with terraform
 How to create Grafana provider
 Adding new connections Prometheus metrics
 How to add the ingress-nginx controller to Prometheus
+How to monitor metrics with ingress monitoring
