@@ -522,3 +522,7 @@ How to create Grafana provider
 Adding new connections Prometheus metrics
 How to add the ingress-nginx controller to Prometheus
 How to monitor metrics with ingress monitoring
+========D83-2025-04-21-SESSION-54=============
+Deploying the roboshop-terraform
+How to sign in to cloud grafana
+How to install roaboshop-load-gen
