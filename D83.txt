@@ -529,3 +529,7 @@ How to install roaboshop-load-gen
 How to make a load-test
 How to install and setup ELK
 How to create vault password for ELK
+========D83-2025-04-22-SESSION-55=============
+How to setup ELK stack
+How to ship the logs from Filbert
+How to install file beat with terraform
