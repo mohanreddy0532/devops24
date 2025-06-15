@@ -526,3 +526,6 @@ How to monitor metrics with ingress monitoring
 Deploying the roboshop-terraform
 How to sign in to cloud grafana
 How to install roaboshop-load-gen
+How to make a load-test
+How to install and setup ELK
+How to create vault password for ELK
