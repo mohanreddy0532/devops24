@@ -536,3 +536,6 @@ How to install file beat with terraform
 How to install file beat with helm-chart
 What is Logstash
 How to built grok pattern
+How to convert unstructured log into structured log with log stash
+How to setup filbert on K8’s
+How to setup log stash on K8’s
