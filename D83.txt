@@ -11,7 +11,7 @@ SG in AWS and how it works
 How to create the SG
 	netstat -lntp
 Understand kind of application
-How modern project looks like
+How modern project looks like-B2B or B2C Roboshop
 =========D83-2025-02-04-SESSION-07============
 3-tier application with example
 Wt are doff. Softwares used by web layers
