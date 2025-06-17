@@ -27,13 +27,17 @@ MicroService with examples.
 		MS communicate each other over the n/w
 		MS can help poly cloud apps
 Wt are project standards we use -SG allowable,t3.small,individual server for each service,B4 installing s/w understand version
-Project documentation
+Project documentation—>RoboShopon RHEL9
 Project overview
 How to add tagging to instance
 How to launch the instance for FE
 Things that help you to setup project
 Wt is FE and setup FE component
+	def module list
+	 /etc/nginx/nginx.conf
 Wt is forward proxy vs reverse proxy with example
+	 user->F/W proxy—>Internet—>Web servers
+	users—>internet—>R Proxy(NGINX)—>WebServers
 Nginx Reverse proxy
 =========D83-2025-02-05-SESSION-08============
 Setup roboshop project
