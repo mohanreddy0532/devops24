@@ -26,7 +26,7 @@ MicroService with examples.
 		 MS Flexibility to choose diff program Langs.
 		MS communicate each other over the n/w
 		MS can help poly cloud apps
-Wt are project standards we use
+Wt are project standards we use -SG allowable,t3.small,individual server for each service,B4 installing s/w understand version
 Project documentation
 Project overview
 How to add tagging to instance
