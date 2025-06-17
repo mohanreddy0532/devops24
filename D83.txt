@@ -12,10 +12,15 @@ How to create the SG
 	netstat -lntp
 Understand kind of application
 How modern project looks like-B2B or B2C Roboshop
+	WebLayer—>App Layer—>DB Layer
 =========D83-2025-02-04-SESSION-07============
 3-tier application with example
-Wt are doff. Softwares used by web layers
-MS with examples
+Wt are diff. Softwares used by
+	web layers—ReactJS/AngularJS/HTML5/Flutter
+	App Layer—Java/NodeJS/Pythin/GoLang/Ruby/.NET
+	DB Layer—SQL,NoSQL,CACHING,MQ
+ EA-Enterprise Architect
+MicroService with examples
 Wt are project standards we use
 Project documentation
 Project overview
