@@ -558,3 +558,6 @@ How to setup log stash on K8’s
 ========D83-2025-04-23-SESSION-56=============
 How to ship the roboshop logs in ELK
 How to make modifications in roboshop-helm
+Changing version of the filbert
+How to add sd_output log stash out_put
+How to add Logstash conditions
