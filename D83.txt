@@ -64,7 +64,7 @@ PT(Performance Testing)
 DEV—>FT—>AutomatedTesting(regression)—>UAT—>PREPRD—>PROD
 Github account
 =========D83-2025-02-11-SESSION-11============
-Wt is the solution for IP address change-for FE->Sol. DNS Name roboshop.online
+Wt is the solution for IP address change-for FE->Sol. DNS Name roboshop.online -all Name Servers are given to AWS-R53
 Wt is DNS service(Domain Name Service)
 AWS R53->(DNS Service)
 How Hosting domain connects to AWS DNS servers
