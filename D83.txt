@@ -76,8 +76,8 @@ Wt is Automation and wt are we automating
  	OS Commands-Shell Scripting
  	Application-Python,NodeJS,GoLang
 Wt is Shell scripting and why shell-it is default in OS,no additional installation,performance
-Which Shell
-Code
+Which Shell -Bash default in RHEL
+Code,and its standards->never keep local
 Code editor
 GitRepos
 How to create the repository and clone in GitHUB
