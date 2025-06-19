@@ -59,6 +59,7 @@ How to setup dispatch component
 Wt are backlogs of the project
 Wt is DNS
 Multiple Env.s
+SANDBOX—>DEV—>FT—>AutomatedTesting(regression)—>UAT—>PREPRD—>PROD
 Github account
 =========D83-2025-02-11-SESSION-11============
 Wt is the solution for IP address change
