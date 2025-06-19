@@ -73,7 +73,9 @@ How to create the DNS record in Hosted zone
 Type-A(IPv4),AAAA(IPv6),
 CNAME	Aliases one domain name to another.
 Wt is Automation and wt are we automating
-Wt is shell scripting and why shell
+ 	OS Commands-Shell Scripting
+ 	Application-Python,NodeJS,GoLang
+Wt is Shell scripting and why shell-it is default in OS,no additional installation,performance
 Which Shell
 Code
 Code editor
