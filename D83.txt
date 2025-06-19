@@ -70,7 +70,8 @@ AWS R53->(DNS Service)
 How Hosting domain connects to AWS DNS servers
 How to create the DNS record in Hosted zone
  TTL-time to live for cache
-Type-A(IPv4),AAAA(IPv6)
+Type-A(IPv4),AAAA(IPv6),
+CNAME	Aliases one domain name to another.
 Wt is Automation and wt are we automating
 Wt is shell scripting and why shell
 Which Shell
