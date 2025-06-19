@@ -78,8 +78,8 @@ Wt is Automation and wt are we automating
 Wt is Shell scripting and why shell-it is default in OS,no additional installation,performance
 Which Shell -Bash default in RHEL
 Code,and its standards->never keep local
-Code editor
-GitRepos
+Code editors->Sublime,Visual studio,IntelliJ
+GitRepos—GitLab,GitHub(MicroSoft),BitBucket
 How to create the repository and clone in GitHUB
 Wt is continuous work and how to make it
 How to authenticate to GitHUB
