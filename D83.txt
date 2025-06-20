@@ -88,19 +88,19 @@ How to create shell scripting examples
 =========D83-2025-02-12-SESSION-12============
 Launch the instance for roboshop
 Wt is the script—keeping commands in a logic way
-How to setup roboshop-shell project
+How to setup RoboShop-shell project
 How to create code for FE
-How to create code nginx config file
+How to create code Nginx config file
 How to create code for MongoDB
-How to create code for catlogue
+How to create code for catalogue
 How to create code Redis
 How to create code User
 How to create code Cart
 How to create code MySQL and Shipping
 How to create code RabbitMQ
 How to create code Payment
-Creat the server for Roboshop components
-How to create DNS records for Roboshop components
+Create the server for RoboShop components
+How to create DNS records for RoboShop components
 Wt are non functional requirement
 =========D83-2025-02-13-SESSION-13====ShellScripting========
 Wt are non functional requirements
