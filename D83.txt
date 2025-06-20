@@ -101,7 +101,9 @@ How to create code RabbitMQ
 How to create code Payment
 Create the server for RoboShop components
 How to create DNS records for RoboShop components
-Wt are non functional requirement
+Wt are non functional requirement (NFR)
+  Keep code DRY,username/pwd not hardcode,
+		Rerun of code should not fail
 =========D83-2025-02-13-SESSION-13====ShellScripting========
 Wt are non functional requirements
 Ho sto access variables in shell script with example
