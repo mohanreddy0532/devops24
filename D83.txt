@@ -107,7 +107,8 @@ Wt are non functional requirement (NFR)
 =========D83-2025-02-13-SESSION-13====ShellScripting========
 01.Sample.sh
 02.variable.sh
-03.function.sh
+03.function.sh (to keep code dry)
+	variables in functions —>To access
 Wt are non functional requirements
 How to access variables in shell script with example
 How to declare the functions in shell script
