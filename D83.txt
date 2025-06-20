@@ -79,7 +79,7 @@ Wt is Shell scripting and why shell-it is default in OS,no additional installati
 Which Shell -Bash default in RHEL
 Code,and its standards->never keep local
 Code editors->Sublime,Visual studio,IntelliJ
-GitRepos—GitLab,GitHub(MicroSoft),BitBucket
+GitRepos—GitLab,GitHub(MicroSoft in 2018),BitBucket
 How to create the repository and clone in GitHUB
 Wt is continuous work and how to make it
 How to authenticate to GitHUB
@@ -87,7 +87,7 @@ How to push code on the server side
 How to create shell scripting examples
 =========D83-2025-02-12-SESSION-12============
 Launch the instance for roboshop
-Wt is the script
+Wt is the script—keeping commands in a logic way
 How to setup roboshop-shell project
 How to create code for FE
 How to create code nginx config file
