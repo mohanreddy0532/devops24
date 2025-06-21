@@ -583,3 +583,7 @@ Made a roboshop-loadtest
 Monitoring the Nginx-Ingress controller with Grafana
 Load test for Roboshop-Cart
 Deploying the Roboshop-code
+Probes in K8’s
+Adding probes to Roboshop-TF for HC
+Monitoring the Roboshop Logs with ELK
+Redeploying the Robosho-code
