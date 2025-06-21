@@ -55,7 +55,7 @@ Wt is RabbitMQ with example
 How to setup RabbitMQ component
 How to setup Payment component
 How to setup dispatch component
-=========D83-2025-02-10-SESSION-10=====**=======
+=========D83-2025-02-10-SESSION-10============
 Wt are backlogs of the project
 Wt is DNS
 Multiple Env.s
@@ -104,7 +104,7 @@ How to create DNS records for RoboShop components
 Wt are non functional requirement (NFR)
   Keep code DRY,username/pwd not hardcode,
 		Rerun of code should not fail
-=========D83-2025-02-13-SESSION-13====ShellScripting========
+=========D83-2025-02-13-SESSION-13====ShellScripting==***======
 01.Sample.sh
 02.variable.sh
 03.function.sh (to keep code dry)
@@ -578,3 +578,8 @@ How to add Logstash conditions
 How to add Logstash drop line
 How to write date expression in Logstash
 Creating dativeews for
+Made a roboshop-loadtest
+========D83-2025-04-25-SESSION-57=============
+Monitoring the Nginx-Ingress controller with Grafana
+Load test for Roboshop-Cart
+Deploying the Roboshop-code
