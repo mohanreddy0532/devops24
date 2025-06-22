@@ -591,3 +591,5 @@ Redeploying the Robosho-code
 Run the transform apply
 Deploying the roboshop-terraform
 Monitoring Nginx ingress-controller with Grafana
+Load-test for Eoboshop-shipping and Monitoring the Logs
+Monitoring shipping logs with ELK
