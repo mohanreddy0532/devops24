@@ -587,3 +587,7 @@ Probes in K8’s
 Adding probes to Roboshop-TF for HC
 Monitoring the Roboshop Logs with ELK
 Redeploying the Robosho-code
+========D83-2025-04-28-SESSION-58======TF=======
+Run the transform apply
+Deploying the roboshop-terraform
+Monitoring Nginx ingress-controller with Grafana
