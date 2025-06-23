@@ -596,4 +596,6 @@ Monitoring shipping logs with ELK
 Again Load-test of roboshop-shipping monitoring the logs
 ========D83-2025-04-29-SESSION-59======TF=======
 Updating the errors of shipping
-Monio=toring the shipping with ELK
+Monitoring the shipping with ELK
+Deploying the shipping with K8’s
+Shipping the roboshop logs with Filbert
