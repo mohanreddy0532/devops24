@@ -598,4 +598,5 @@ Again Load-test of roboshop-shipping monitoring the logs
 Updating the errors of shipping
 Monitoring the shipping with ELK
 Deploying the shipping with K8’s
-Shipping the roboshop logs with Filbert
+Shipping the roboshop logs with Filebeat
+========D83-2025-04-30-SESSION-60=============
