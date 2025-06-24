@@ -136,6 +136,9 @@ How to execute the conditions in catalogue
 30:00 05.conditions if, if-else,else-if
 How to add exit status ->0-255
 	echo$? =0 success 1=Fail
+Expressions: Number Operators-> -eq, -ne, -gt, -ge, -lt, -le
+String operators—> ==, !=
+File Operators: -e
 Declare dynamic variables in shell scripting
 Loops in shell scripting with examples and Loops
 =========D83-2025-02-17-SESSION-15====Ansible========
