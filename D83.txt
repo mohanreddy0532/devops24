@@ -111,7 +111,7 @@ Wt are non functional requirement (NFR)
 	variables in functions —>To access
 Wt are non functional requirements
 How to access variables in shell script with example
-12:00 source common.sh
+12:00 source common.sh (source file)
 How to declare the functions in shell script
 How to keep RoboShop code dry
 Variable and functions name style—>snake,camelCase,PascalCase style
@@ -133,7 +133,9 @@ Redirections examples—I/P <, o/p >, append >>
 How to setup headings to Roboshop-shell project
 Conditions in shells crippling
 How to execute the conditions in catalogue
-How to add exit status in roboshp project
+30:00 05.conditions if, if-else,else-if
+How to add exit status ->0-255
+	echo$? =0 success 1=Fail
 Declare dynamic variables in shell scripting
 Loops in shell scripting with examples and Loops
 =========D83-2025-02-17-SESSION-15====Ansible========
