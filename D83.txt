@@ -123,7 +123,10 @@ How to execute print—>echo displayMessage
 	-e enable color
 	\e[COLm select color  31,32,33,34,35,36,37
 	\e[0m	disable color
-I/p variable in shell scripting
+I/P variable in shell scripting(LHS input and RHS side inputs)
+Input arguments=
+	print_head() {
+	} function for echo
 Redirections examples
 =========D83-2025-02-14-SESSION-14============
 How to setup headings to Roboshop-shell project
