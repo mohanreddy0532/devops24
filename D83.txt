@@ -113,8 +113,9 @@ Wt are non functional requirements
 How to access variables in shell script with example
 How to declare the functions in shell script
 How to keep RoboShop code dry
-Variable and functions name style
+Variable and functions name style—>snake,camelCase,PascalCase style
 Wt are the features keep the code dry
+Curl -L -o dest sourceURL
 How to execute print
 I/p variable in shell scripting
 Redirections examples
