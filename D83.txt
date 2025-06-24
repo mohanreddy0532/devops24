@@ -111,12 +111,13 @@ Wt are non functional requirement (NFR)
 	variables in functions —>To access
 Wt are non functional requirements
 How to access variables in shell script with example
+12:00 source common.sh
 How to declare the functions in shell script
 How to keep RoboShop code dry
 Variable and functions name style—>snake,camelCase,PascalCase style
 Wt are the features keep the code dry
 Curl -L -o dest sourceURL
-How to execute print
+How to execute print—>echo displayMessage
 I/p variable in shell scripting
 Redirections examples
 =========D83-2025-02-14-SESSION-14============
