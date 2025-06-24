@@ -118,6 +118,11 @@ Variable and functions name style—>snake,camelCase,PascalCase style
 Wt are the features keep the code dry
 Curl -L -o dest sourceURL
 How to execute print—>echo displayMessage
+04.echo.sh 45:00
+	echo -e “\e[COLmHello\e[0m”
+	-e enable color
+	\e[COLm select color  31,32,33,34,35,36,37
+	\e[0m	disable color
 I/p variable in shell scripting
 Redirections examples
 =========D83-2025-02-14-SESSION-14============
