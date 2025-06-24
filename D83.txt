@@ -127,7 +127,8 @@ I/P variable in shell scripting(LHS input and RHS side inputs)
 Input arguments=
 	print_head() {
 	} function for echo
-Redirections examples—I/p <, o/p >, append >>
+Redirections examples—I/P <, o/p >, append >>
+	&>> redirect both errors and out put to a file
 =========D83-2025-02-14-SESSION-14============
 How to setup headings to Roboshop-shell project
 Conditions in shells crippling
