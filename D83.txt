@@ -145,8 +145,8 @@ Declare dynamic variables in shell scripting
 @1:16:00 Loops in shell scripting with examples and Loops
 =========D83-2025-02-17-SESSION-15====Ansible========
 Wt are the problems of shell scripting
-	imperative need lots of code
-Wt are diff. Configuration Management tools
+	imperative&Homogenious need lots of code
+Wt are diff. Configuration Management tools—>CFEngine,Puppet,Chef,Ansible
 Into to Ansible
 Configuration Push & Pull
 History of Ansible
