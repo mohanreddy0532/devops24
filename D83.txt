@@ -129,7 +129,7 @@ Input arguments=
 	} function for echo
 Redirections examples—I/P <, o/p >, append >>
 	&>> redirect both errors and out put to a file
-=========D83-2025-02-14-SESSION-14============
+=========D83-2025-02-14-SESSION-14========****====
 How to setup headings to Roboshop-shell project
 Conditions in shells crippling
 How to execute the conditions in catalogue
@@ -140,9 +140,12 @@ Expressions: Number Operators-> -eq, -ne, -gt, -ge, -lt, -le
 String operators—> ==, !=
 File Operators: -e
 Declare dynamic variables in shell scripting
-Loops in shell scripting with examples and Loops
+	pwd=$(pwd)
+@1:00:00
+@1:16:00 Loops in shell scripting with examples and Loops
 =========D83-2025-02-17-SESSION-15====Ansible========
 Wt are the problems of shell scripting
+	imperative need lots of code
 Wt are diff. Configuration Management tools
 Into to Ansible
 Configuration Push & Pull
@@ -155,7 +158,7 @@ Ansible uses ssh and inventory
 Ansible collection
 Wt is Ansible Playbook
 Wt is Markup Language with example
-How to write ansible-playbook
+How to write ansible-Playbook
 How to setup FE in ansible
 =========D83-2025-02-18-SESSION-16============
 Wt is Ansible role and how to create a role
