@@ -146,13 +146,14 @@ Declare dynamic variables in shell scripting
 =========D83-2025-02-17-SESSION-15====Ansible========
 Wt are the problems of shell scripting
 	imperative&Homogenious need lots of code
-Wt are diff. Configuration Management tools—>CFEngine,Puppet,Chef,Ansible
+Wt are diff. Configuration Management tools—>CFEngine,Puppet,Chef,Ansible(written on Python)
 Into to Ansible
-Configuration Push & Pull
-History of Ansible
+Configuration Push & Pull…
+History of Ansible.
 How ansible connects to node
 How to create Workstation server
 How to install Ansible
+	sudo pip3.11 install ansible
 How to install ansible with automation
 Ansible uses ssh and inventory
 Ansible collection
