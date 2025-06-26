@@ -156,13 +156,16 @@ How to install Ansible
 	sudo pip3.11 install ansible
 How to install ansible with automation
 Ansible uses ssh and inventory
-Ansible collection
+Ansible collections (modules)
 Wt is Ansible Playbook
 Wt is Markup Language with example
+	YAML-Yet Another Markup Language
 How to write ansible-Playbook
+	collection of
 How to setup FE in ansible
-=========D83-2025-02-18-SESSION-16============
+=========D83-2025-02-18-SESSION-16=====***=======
 Wt is Ansible role and how to create a role
+	roles->FE->files(nginx.conf);tasks(main.yml)
 How to setup FE component in roboshop-ansible
 How to declare variables in Ansible
 Wt is variable precedence
