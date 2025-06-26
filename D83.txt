@@ -168,6 +168,8 @@ Wt is Ansible role and how to create a role
 	roles->FE->files(nginx.conf);tasks(main.yml)
 How to setup FE component in roboshop-ansible
 How to declare variables in Ansible
+    03.varsity.yml
+	we access variable with {{ }},if the value is variable or starts with variable then we need to Quote it “”. Eg:msg: “{{ }}”
 Wt is variable precedence
 Wt is make file
 How to write make file for roboshop-ansible
