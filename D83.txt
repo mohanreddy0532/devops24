@@ -634,3 +634,6 @@ Monitoring the shipping with ELK
 Deploying the shipping with K8’s
 Shipping the roboshop logs with Filebeat
 ========D83-2025-04-30-SESSION-60=============
+Load test for roboshop-load-gen
+Monitoring Kubernetes POD resources roboshop
+Deploying user component with helm
