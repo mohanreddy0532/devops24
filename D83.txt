@@ -640,3 +640,5 @@ Deploying user component with helm
 Updating the aws_eks_node_group
 How to install cluster-autoscaler
 How to create aws_iam-role to cluster auto-scalar
+How to add inline policy to cluster-autoscaler
+Load-test for roboshop-load-gen
