@@ -642,3 +642,20 @@ How to install cluster-autoscaler
 How to create aws_iam-role to cluster auto-scalar
 How to add inline policy to cluster-autoscaler
 Load-test for roboshop-load-gen
+========D83-2025-05-01--SESSION-61=============
+Re-run the roboshop-tf
+Updating cluster-autoscaler
+How to create the horizontal autoscaler for roboshop-helm
+
+
+
+
+
+
+
+
+
+
+
+
+
