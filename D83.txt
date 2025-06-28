@@ -650,7 +650,8 @@ Load-test for roboshop-tf
 CPU usage in Grafana
 How to increase the memory size in shipping
 Increasing payment resources in Roboshop-helm
-
+Load-test for roboshop-tf
+Creating data views and monitoring payment logs
 
 
 
