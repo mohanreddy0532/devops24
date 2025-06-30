@@ -196,7 +196,7 @@ Types of variables in  Ansible
      1.Normal
      2.List
      3.Map
-Wt are variable data types
+Wt are variable data types—>1.String,2.Number,3.Boolean(T/False)
 Ansible facts
 Ansible certification topics
 Configuration files in ansible
