@@ -186,10 +186,11 @@ How to setup mangoDB component in rosboshop-ansible
 How to setup catalogue component in rosboshop-ansible
 How to setup redis component
 =========D83-2025-02-19-SESSION-17=====**=======
-Setup My SQL component in rosboshop-ansible
-Setup Shipping component in rosboshop-ansible
+Setup My SQL component in rosboShop-ansible
+Setup Shipping component in rosboShop-ansible
+  install Maven,mvn clean pkg
 Setup RabbitMQ component in rosboshop-ansible
-Setup Payment component in rosboshop-ansible
+Setup Payment component in rosboShop-ansible
 Inventory file in Ansible
 Types of variables in  ansible
 Wt are variable data types
