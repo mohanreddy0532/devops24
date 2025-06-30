@@ -202,9 +202,9 @@ Ansible certification topics EX407
 Configuration files in ansible—>.ansible.cfg
 How to configure ansible managed nodes—>default 10(forks=10)
 Ansible dynamic inventory
-How to use variable to retrieve the results of runnings commands
-How to execute conditions in ansible with ex
-How to execute tags in ansible
+How to use variable to retrieve the results of runnings commands-Uptime etc
+How to execute conditions in ansible with ex:when x |int > 10
+*How to execute tags in ansible to run a particular: tag : fruits…in cli -t fruits,vegetables
 Error handling in ansible with ex.
 Wt is template and how to create the template with ex.
 How to create the template for roboshop-ansible components
