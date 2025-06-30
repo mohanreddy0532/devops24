@@ -206,9 +206,12 @@ How to use variable to retrieve the results of runnings commands-Uptime etc
 How to execute conditions in ansible with ex:when x |int > 10
 *How to execute tags in ansible to run a particular: tag : fruits…in cli -t fruits,vegetables
 Error handling in ansible with ex.
-Wt is template and how to create the template with ex.
+	ignore_errors: yes
+>Wt is template and how to create the templates with ex.
+  Files—>copy module
+  templates—>template module
 How to create the template for roboshop-ansible components
-Wt is SOP
+What is SOP(StandardOperatingProcedure)
 Ansible galaxy
 =========D83-2025-02-20-SESSION-18============
 How to add the templates to roboshop-ansible
