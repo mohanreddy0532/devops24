@@ -212,7 +212,7 @@ Error handling in ansible with ex.
   templates—>template module
 How to create the template for roboshop-ansible components
 What is SOP(StandardOperatingProcedure)
-Ansible galaxy
+Ansible galaxy…AAP
 =========D83-2025-02-20-SESSION-18============
 How to add the templates to roboshop-ansible
 Ansible vault
