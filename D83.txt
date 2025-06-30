@@ -192,7 +192,10 @@ Setup Shipping component in rosboShop-ansible
 Setup RabbitMQ component in rosboshop-ansible
 Setup Payment component in rosboShop-ansible
 Inventory file in Ansible
-Types of variables in  ansible
+Types of variables in  Ansible
+     1.Normal
+     2.List
+     3.Map
 Wt are variable data types
 Ansible facts
 Ansible certification topics
