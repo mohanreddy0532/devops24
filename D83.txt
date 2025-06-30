@@ -197,10 +197,10 @@ Types of variables in  Ansible
      2.List
      3.Map
 Wt are variable data types—>1.String,2.Number,3.Boolean(T/False)
-Ansible facts
-Ansible certification topics
-Configuration files in ansible
-How to configure ansible managed nodes
+Ansible facts(ansible pre-defined variables)
+Ansible certification topics EX407
+Configuration files in ansible—>.ansible.cfg
+How to configure ansible managed nodes—>default 10(forks=10)
 Ansible dynamic inventory
 How to use variable to retrieve the results of runnings commands
 How to execute conditions in ansible with ex
