@@ -663,8 +663,9 @@ Creating data views and monitoring payment logs
 Update & deployed the payment
 Monitored the payment component
 Monitoring the FE nginx ingress-controller with Prometheus
-How to add the Noginx response time to FE
-
+How to add the Nginx response time to FE
+Ship the FE logs to log stash
+How to create visualise library for FE response time
 
 
 
