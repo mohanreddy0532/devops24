@@ -660,8 +660,10 @@ Increasing payment resources in Roboshop-helm
 Load-test for roboshop-tf
 Creating data views and monitoring payment logs
 ========D83-2025-05-02--SESSION-62=============
-Update & deployed the apyment
-
+Update & deployed the payment
+Monitored the payment component
+Monitoring the FE nginx ingress-controller with Prometheus
+How to add the Noginx response time to FE
 
 
 
