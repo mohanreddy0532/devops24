@@ -659,7 +659,8 @@ How to increase the memory size in shipping
 Increasing payment resources in Roboshop-helm
 Load-test for roboshop-tf
 Creating data views and monitoring payment logs
-
+========D83-2025-05-02--SESSION-62=============
+Update & deployed the apyment
 
 
 
