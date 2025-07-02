@@ -221,8 +221,9 @@ Ansible Vault
 How ansible pull approach works
 Intro to Terraform
 Why IaC
-Terraform alternative
+Terraform alternative-Pulumi
 HashiCorp configuration language
+TF CDK—to support other languages like python,java
 How HCL look like
 Wt is diff block offered by terraform
 Resources in TF
