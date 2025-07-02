@@ -220,10 +220,11 @@ Ansible Vault
   $ansible-vault encrypt_string abc123
 How ansible pull approach works
 Intro to Terraform
-Why IaC
-Terraform alternative-Pulumi
+Why IaC—>
+Terraform alternative-Pulumi,Crossplane
 HashiCorp configuration language
 TF CDK—to support other languages like python,java
+TF-Wont support SNOW
 How HCL look like
 Wt is diff block offered by terraform
 Resources in TF
