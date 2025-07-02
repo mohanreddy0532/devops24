@@ -213,13 +213,13 @@ Error handling in ansible with ex.
 How to create the template for roboshop-ansible components
 What is SOP(StandardOperatingProcedure)
 Ansible galaxy…AAP
-=========D83-2025-02-20-SESSION-18============
+=========D83-2025-02-20-SESSION-18=====Terraform=======
 How to add the templates to roboshop-ansible
 Ansible Vault
 08.vault-variable.yml
   $ansible-vault encrypt_string abc123
 How ansible pull approach works
-INtro to Terraform
+Intro to Terraform
 Why IaC
 Terraform alternative
 HashiCorp configuration language
