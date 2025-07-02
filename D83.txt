@@ -215,7 +215,9 @@ What is SOP(StandardOperatingProcedure)
 Ansible galaxy…AAP
 =========D83-2025-02-20-SESSION-18============
 How to add the templates to roboshop-ansible
-Ansible vault
+Ansible Vault
+08.vault-variable.yml
+  $ansible-vault encrypt_string abc123
 How ansible pull approach works
 INtro to Terraform
 Why IaC
