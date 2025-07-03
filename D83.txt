@@ -680,7 +680,7 @@ Updating the vault secrets
 How to recreate the helm PODs
 How to install helm-wave
 Deploying the wave-helm with ArgoCD
-
+========D83-2025-05-06--SESSION-64=============
 
 
 
