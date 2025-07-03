@@ -674,7 +674,12 @@ How to create visualise library for FE response time
 Updating the roboshop-code
 How config maps sync the roboshop-components
 How to retrieve the secrets from Vault
-
+How to create External secrets for roboshop-helm
+How to create External secrets for roboshop components
+Updating the vault secrets
+How to recreate the helm PODs
+How to install helm-wave
+Deploying the wave-helm with ArgoCD
 
 
 
