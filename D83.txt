@@ -670,7 +670,10 @@ Monitoring the FE nginx ingress-controller with Prometheus
 How to add the Nginx response time to FE
 Ship the FE logs to log stash
 How to create visualise library for FE response time
-
+========D83-2025-05-05--SESSION-63=============
+Updating the roboshop-code
+How config maps sync the roboshop-components
+How to retrieve the secrets from Vault
 
 
 
