@@ -221,13 +221,13 @@ Ansible Vault
 How ansible pull approach works
 Intro to Terraform
 Why IaC—>
-Terraform alternative-Pulumi,Crossplane
-HashiCorp configuration language
+Terraform alternative->Pulumi,Crossplane Hashicorp configuration language
 TF CDK—to support other languages like python,java
 TF-Wont support SNOW
-How HCL look like
+TF HCL code is in blocks {} ,are Seven
+How HCL look like—>Resource,Variable, Output,Data,Local,Module,Providers.
 Wt is diff block offered by terraform
-Resources in TF
+Resources in TF…
 Creating repository for TF
 How to create file in TF
 Terraform command
