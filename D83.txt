@@ -683,7 +683,9 @@ Deploying the wave-helm with ArgoCD
 ========D83-2025-05-06--SESSION-64=============
 Load test roboshop-load-gen
 Monitoring Logs off the payment
-
+Again load-test roboshop-load-gen
+Monitoring logs off the shipping
+How to sign in and setup NewRelic
 
 
 
