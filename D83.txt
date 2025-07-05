@@ -229,8 +229,8 @@ How HCL look like—>Resource,Variable, Output,Data,Local,Module,Providers.
 Wt is diff block offered by terraform
 Resources in TF…
 Creating repository for TF
-How to create file in TF
-Terraform command
+How to create file in TF—>main.tf
+Terraform command==>init->Plan->apply->destroy
 How to install TF and apply TF command
 =========D83-2025-02-24-SESSION-19============
 How ti declare the variables with examples
@@ -681,7 +681,8 @@ How to recreate the helm PODs
 How to install helm-wave
 Deploying the wave-helm with ArgoCD
 ========D83-2025-05-06--SESSION-64=============
-
+Load test roboshop-load-gen
+Monitoring Logs off the payment
 
 
 
