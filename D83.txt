@@ -687,6 +687,7 @@ Again load-test roboshop-load-gen
 Monitoring logs off the shipping
 How to sign in and setup NewRelic
 ========D83-2025-05-08--SESSION-65=============
-
+How to integrate shipping with Newrelic
+How to integrate the Roboshop components with new relic
 
 
