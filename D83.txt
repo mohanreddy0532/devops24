@@ -235,9 +235,9 @@ How to install TF and apply TF command
 =========D83-2025-02-24-SESSION-19============
 How to declare the variables with examples
 How to access the data types in TF
-How to roboshop-terraform project
+How to roboShop-terraform project
 How to setup FE instance with terraform
-How to create aws provider
+How to create AWS provider
 How Terraform talks to AWS
 How to create user in the IAM
 How to create the aws IAM role
