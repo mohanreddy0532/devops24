@@ -693,4 +693,7 @@ How to integrate the Roboshop components with new relic
 How to install Prometheus Alert-Manager
 How to monitor the alerts
 Amazon SES How to sent alerts using AWS SES
+How to create SMTP credentials
+How to config alert-manager with AWS SMTP
+Creating vault secret for SMTP
 
