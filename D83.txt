@@ -696,4 +696,4 @@ Amazon SES How to sent alerts using AWS SES
 How to create SMTP credentials
 How to config alert-manager with AWS SMTP
 Creating vault secret for SMTP
-
+How to create alert manager prometheus stack with helm chart
