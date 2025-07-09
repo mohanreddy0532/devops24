@@ -701,3 +701,5 @@ How to create alert manager prometheus stack with helm chart
 Run the TF-apply
 Alert-Manager configuration
 How to modify prom-stack-template configuration with TF
+How to reload the alert-manager prometheus-stack configuration
+Updating the SMTP settings of alert-manager
