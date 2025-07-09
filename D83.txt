@@ -699,3 +699,5 @@ Creating vault secret for SMTP
 How to create alert manager prometheus stack with helm chart
 ========D83-2025-05-15--SESSION-67=============
 Run the TF-apply
+Alert-Manager configuration
+How to modify prom-stack-template configuration with TF
