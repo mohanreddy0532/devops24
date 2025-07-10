@@ -241,7 +241,7 @@ How to setup FE instance with terraform
 How to create AWS provider
 How Terraform talks to AWS—>using role
 How to create user in the IAM
-How to create the aws IAM role—
+How to create the aws IAM role—|>
 How to create the vpc_security_group_ids
 How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
