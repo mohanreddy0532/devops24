@@ -246,6 +246,7 @@ How to create the vpc_security_group_ids
 How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
+	Provisioners->file,local-exec,remote-exec
 Updated the changes in roboshop-terraform code
 How to decouple the rpovisioner
 =========D83-2025-02-25-SESSION-20============
