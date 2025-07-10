@@ -233,7 +233,7 @@ How to create file in TF—>main.tf
 Terraform command==>init->Plan->apply->destroy
 How to install TF and apply TF command
 =========D83-2025-02-24-SESSION-19============
-How to declare the variables with examples
+How to declare the variables with examples: ${var.x}
 How to access the data types in TF
 How to roboShop-terraform project
 How to setup FE instance with terraform
