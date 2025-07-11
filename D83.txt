@@ -713,3 +713,5 @@ Enabling alert-manager
 Monitoring the alerts
 Configuring the alert-rules in Prometheus
 Demon Sets and stateful sets
+How to install privy and setup privy
+How to
