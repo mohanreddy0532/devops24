@@ -708,3 +708,5 @@ Updating the SMTP settings of alert-manager
 ========D83-2025-05-16--SESSION-68=============
 Run tf-apply
 How to get the alerts from alert-manager
+========D83-2025-05-19--SESSION-69=============
+Enabling alert-manager
