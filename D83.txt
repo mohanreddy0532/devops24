@@ -705,3 +705,6 @@ Alert-Manager configuration
 How to modify prom-stack-template configuration with TF
 How to reload the alert-manager prometheus-stack configuration
 Updating the SMTP settings of alert-manager
+========D83-2025-05-16--SESSION-68=============
+Run tf-apply
+How
