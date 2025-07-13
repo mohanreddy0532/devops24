@@ -715,3 +715,7 @@ Configuring the alert-rules in Prometheus
 Demon Sets and stateful sets
 How to install privy and setup privy
 How to create roboshop docker-image for privy
+========D83-2025-05-20--SESSION-70=============
+How to install privy with automation
+How to scan the roboshop docker-images with privy
+Creating docker-image from Amazon corretto
