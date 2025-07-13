@@ -719,3 +719,5 @@ How to create roboshop docker-image for privy
 How to install privy with automation
 How to scan the roboshop docker-images with privy
 Creating docker-image from Amazon corretto
+How to fix the vulnerabilities in the docker-build
+How to add the Maven repository to roboshop shipping
