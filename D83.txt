@@ -721,3 +721,4 @@ How to scan the roboshop docker-images with privy
 Creating docker-image from Amazon corretto
 How to fix the vulnerabilities in the docker-build
 How to add the Maven repository to roboshop shipping
+========D83-2025-05-21--SESSION-71=============
