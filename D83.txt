@@ -243,6 +243,7 @@ How Terraform talks to AWS—>using role
 How to create user in the IAM
 How to create the aws IAM role—|>
 How to create the vpc_security_group_ids = list
+Provider —>inline
 How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
