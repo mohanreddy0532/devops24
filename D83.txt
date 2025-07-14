@@ -252,7 +252,7 @@ Provider —>inline
 How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
-	Provisioners(to run condos on local machine)->file,local-exec,remote-exec
+	Provisioners(to run commands on local machine)->file,local-exec,remote-exec provisioners
 Updated the changes in roboshop-terraform code
 How to decouple the rpovisioner
 =========D83-2025-02-25-SESSION-20============
