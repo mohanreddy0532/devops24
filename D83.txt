@@ -233,9 +233,13 @@ How to create file in TF—>main.tf
 Terraform command==>init->Plan->apply->destroy
 How to install TF and apply TF command
 =========D83-2025-02-24-SESSION-19============
-How to declare the combination String variables with examples: ${var.x}
-List variables: default = [ 1, “ab”, 0.4, false]
-How to access the data types in TF->Manual load and File(File variables)
+>How to declare the combination String variables with examples: ${var.x}
+>List variables: default = [ 1, “ab”, 0.4, false]
+> default = {
+	name = "John”
+	age = 20
+	}
+>How to access the data types in TF->Manual load and File(File variables)
 	auto.tfvars-for automatic loading
 How to roboShop-terraform project
 How to setup FE instance with terraform
