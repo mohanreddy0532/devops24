@@ -253,6 +253,7 @@ How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
 	Provisioners(to run commands on local machine)->file,local-exec,remote-exec provisioners
+QA:boto,boto3 are the python libraries for AWS to use in Ansible
 Updated the changes in roboshop-terraform code
 How to decouple the rpovisioner
 =========D83-2025-02-25-SESSION-20============
