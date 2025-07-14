@@ -240,7 +240,7 @@ How to install TF and apply TF command
 	age = 20
 	}
 >How to access the data types in TF->Manual load and File(File variables)
-	auto.tfvars-for automatic loading
+	auto.tfvars—>for automatic loading
 How to roboShop-terraform project
 How to setup FE instance with terraform
 How to create AWS provider
