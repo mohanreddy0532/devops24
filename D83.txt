@@ -275,6 +275,7 @@ How to apply loops in robsohop-tf
 For-each-loop in terraform’How to apply for-each in roboshop-terraform—disadvantage of count
  Use each.key
 Modules in terraform and How to write module->
+   Modules can’t communicate directly, but can do via root-module….Only rootModue can print the output
 How to create EC2 modules for roboshop-terraform
 Wt is triage
 Diff. Terraform remote state backend
