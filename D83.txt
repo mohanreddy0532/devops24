@@ -274,7 +274,7 @@ How to apply loops in robsohop-tf
 	var.instances[count.index]
 For-each-loop in terraform’How to apply for-each in roboshop-terraform—disadvantage of count
  Use each.key
-Modules in terraform and how to write module
+Modules in terraform and How to write module->
 How to create EC2 modules for roboshop-terraform
 Wt is triage
 Diff. Terraform remote state backend
