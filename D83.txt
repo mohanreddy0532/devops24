@@ -267,7 +267,7 @@ resource "null_resource" "cluster" {
   }
 =========D83-2025-02-25-SESSION-20============
 How to provision the terraform resource
-Variables and how to declare the variables in roboshop-terraform
+Variables and how to declare the variables in roboshop-terraform variables.tf
 Loops-count in Terraform with examples
 Functions in Terraform and how to write functions in Terraform
 How to apply loops in robsohop-tf
