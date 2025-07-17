@@ -284,6 +284,7 @@ How to create EC2 modules for roboshop-terraform
 	vpc_security_group_ids
 	zone_id
 	env
+$terraform plan -var-file=env-prod/main.tfvars
 Wt is triage
 Diff. Terraform remote state backend
 Wt is S3 bucket and how to create a S3 bucket
