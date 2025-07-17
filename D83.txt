@@ -278,6 +278,12 @@ Modules in terraform and How to write module->
    Modules can’t communicate directly, but can do via root-module….Only rootModue can print the output
 1:07:00
 How to create EC2 modules for roboshop-terraform
+	ami_id
+	name
+	instance_type
+	vpc_security_group_ids
+	zone_id
+	env
 Wt is triage
 Diff. Terraform remote state backend
 Wt is S3 bucket and how to create a S3 bucket
