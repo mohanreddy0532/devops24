@@ -265,7 +265,7 @@ resource "null_resource" "cluster" {
   triggers = {
     cluster_instance_ids = join(",", aws_instance.cluster[*].id)
   }
-=========D83-2025-02-25-SESSION-20============
+=========D83-2025-02-25-SESSION-20======***======
 How to provision the terraform resource
 Variables and how to declare the variables in roboshop-terraform variables.tf
 Loops-count in Terraform with examples
@@ -291,7 +291,7 @@ Wt is S3 bucket and how to create a S3 bucket
   $terraform init -backend-config=env-dev/state.tfvars
 Makefile for dev,prod
 Module blocks and module sources in Terraform
-=========D83-2025-02-27-SESSION-21============
+=========D83-2025-02-27-SESSION-21==***==========
 Conditions in Terraform
 Locals in Terraform
 Setup of roboshop-terraform
