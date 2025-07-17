@@ -285,8 +285,8 @@ How to create EC2 modules for roboshop-terraform
 	zone_id
 	env
 $terraform plan -var-file=env-prod/main.tfvars
-Wt is triage
-Diff. Terraform remote state backend
+Wt is Triage—>Code,AWS resource state,State File
+Diff. Terraform remote state backend->azurerm,consul,COS,GCS,K8,PostGress,S3
 Wt is S3 bucket and how to create a S3 bucket
 Module blocks and module sources in Terraform
 =========D83-2025-02-27-SESSION-21============
