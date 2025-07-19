@@ -291,7 +291,7 @@ Wt is S3 bucket and how to create a S3 bucket
   $terraform init -backend-config=env-dev/state.tfvars
 Makefile for dev,prod
 Module blocks and module sources in Terraform
-=========D83-2025-02-27-SESSION-21==***==========
+=========D83-2025-02-27-SESSION-21===***==========
 Conditions in Terraform
 Locals in Terraform
 Setup of roboshop-terraform
@@ -751,3 +751,6 @@ Creating docker-image from Amazon corretto
 How to fix the vulnerabilities in the docker-build
 How to add the Maven repository to roboshop shipping
 ========D83-2025-05-21--SESSION-71=============
+How to create the pull request for shipping service
+Adding amazon-corrette docker image
+Scanning the roboshop-code using privy k8
