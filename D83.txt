@@ -754,3 +754,6 @@ How to add the Maven repository to roboshop shipping
 How to create the pull request for shipping service
 Adding amazon-corrette docker image
 Scanning the roboshop-code using privy k8
+Deploying the roboshop-Helm with ArgoCD
+Scanning the roboshop using privy Kubernetes
+Pod or container security
