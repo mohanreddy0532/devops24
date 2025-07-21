@@ -765,3 +765,5 @@ How to change the frontend nginx-configuration
 Configuration the roboshop components schema
 How to configure the security in roboshop-helm
 AWS inspector to scan the instances
+Different tools to scan the instances
+========D83-2025-05-26--SESSION-73=============
