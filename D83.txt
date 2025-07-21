@@ -763,3 +763,5 @@ Scanning the roboshop-helm using privy
 Modification of the roboshop-helm
 How to change the frontend nginx-configuration
 Configuration the roboshop components schema
+How to configure the security in roboshop-helm
+AWS inspector to scan the instances
