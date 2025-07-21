@@ -759,3 +759,5 @@ Scanning the roboshop using privy Kubernetes
 Pod or container security
 Redeploying roboshop-helm with ArgoCD
 ========D83-2025-05-22--SESSION-72=============
+Scanning the roboshop-helm using privy
+Modification of the roboshop-helm
