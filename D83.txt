@@ -770,3 +770,6 @@ Different tools to scan the instances
 To scan the instances with AWS inspector
 Creating role for AWS inspector
 AWS inspector supported OS
+How to create the VPC manually
+Visual subnet calculator
+How to create the VPC with TF
