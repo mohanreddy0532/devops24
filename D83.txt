@@ -767,3 +767,6 @@ How to configure the security in roboshop-helm
 AWS inspector to scan the instances
 Different tools to scan the instances
 ========D83-2025-05-26--SESSION-73=============
+To scan the instances with AWS inspector
+Creating role for AWS inspector
+AWS inspector supported OS
