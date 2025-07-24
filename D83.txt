@@ -782,3 +782,5 @@ Recreating the VPC
 Creating the subnets for VPC roboshop-tf
 Creating the aws_internet_gateway
 How to add the aws_route_table_association
+Creating the aws_nat_gateways
+Creating the aws_route for nat_gateway
