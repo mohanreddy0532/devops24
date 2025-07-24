@@ -776,3 +776,4 @@ How to create the VPC with TF
 How to add aws_vpc_peering_connection
 How to add the aws_route to VPC
 How to add the aws_internet_g/w to VPC
+How to add the aws_nat_gateway to VPC
