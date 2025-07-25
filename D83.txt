@@ -785,3 +785,8 @@ How to add the aws_route_table_association
 Creating the aws_nat_gateways
 Creating the aws_route for nat_gateway
 How to send the subnet_ids to VPC
+========D83-2025-05-28--SESSION-75=============
+Structure of VPC
+How to share output to another module
+Enabling the peering connection to VPC
+Enabling the ec2 db_ instances
