@@ -791,3 +791,4 @@ How to share output to another module
 Enabling the peering connection to VPC
 Enabling the ec2 db_ instances
 How to create the aws_security_group_egress_rule
+Configuring the aws_vpc_sg_egress_rule
