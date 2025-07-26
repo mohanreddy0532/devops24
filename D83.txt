@@ -794,3 +794,6 @@ How to create the aws_security_group_egress_rule
 Configuring the aws_vpc_sg_egress_rule
 Configuring the aws_vpc_sg_ingress_rule
 How to add the SG to roboshop-terraform
+How to add app subnets to eks-cluster
+What is DB protection
+AWS Key Management Service
