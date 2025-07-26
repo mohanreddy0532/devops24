@@ -797,3 +797,5 @@ How to add the SG to roboshop-terraform
 How to add app subnets to eks-cluster
 What is DB protection
 AWS Key Management Service
+========D83-2025-05-30--SESSION-76=============
+Data Security
