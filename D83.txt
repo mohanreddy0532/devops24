@@ -792,3 +792,5 @@ Enabling the peering connection to VPC
 Enabling the ec2 db_ instances
 How to create the aws_security_group_egress_rule
 Configuring the aws_vpc_sg_egress_rule
+Configuring the aws_vpc_sg_ingress_rule
+How to add the SG to roboshop-terraform
