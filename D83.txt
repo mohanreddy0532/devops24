@@ -801,3 +801,6 @@ AWS Key Management Service
 Data Security
 How to create a KMS key for roboshop
 How to create the aws_eks_nodegroup
+How to add the node group
+How to create the launch template
+How to encrypt the disk
