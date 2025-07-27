@@ -799,3 +799,5 @@ What is DB protection
 AWS Key Management Service
 ========D83-2025-05-30--SESSION-76=============
 Data Security
+How to create a KMS key for roboshop
+How to create the aws_eks_nodegroup
