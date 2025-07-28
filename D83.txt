@@ -808,3 +808,7 @@ How to encrypt the disk
 Encryption of the roboahop-terraform
 Network Security
 Intro to ISITO
+How to install and setup istio
+How to enable Kiali Helm chart
+How to enable ingress for Kiali
+
