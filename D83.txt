@@ -811,4 +811,6 @@ Intro to ISITO
 How to install and setup istio
 How to enable Kiali Helm chart
 How to enable ingress for Kiali
+Recreated the roboshop PODs
+How to enable the Peer Authentication
 
