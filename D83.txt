@@ -805,3 +805,6 @@ How to add the node group
 How to create the launch template
 How to encrypt the disk
 ========D83-2025-06-03--SESSION-77=============
+Encryption of the roboahop-terraform
+Network Security
+Intro to ISITO
