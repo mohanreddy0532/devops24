@@ -817,3 +817,5 @@ East West Vs North South Security
 ========D83-2025-06-03--SESSION-78=============
 Updating Sevice-Mesh
 Debugging the HELM charts in Roboshop-Helm
+Isito PeerAuthentication
+How to enable example isito sidecar container
