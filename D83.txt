@@ -816,6 +816,8 @@ How to enable the Peer Authentication
 East West Vs North South Security
 ========D83-2025-06-03--SESSION-78=============
 Updating Sevice-Mesh
-Debugging the HELM charts in RoboShop-Helm
+Debugging the HELM charts in Roboshop-Helm
 Isito PeerAuthentication
-How to enable example Isito sidecar container
+How to enable example isito sidecar container
+Enabling the isito sidecar container
+Enabling the isito PeerAuthentication
