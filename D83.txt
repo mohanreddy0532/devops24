@@ -823,4 +823,5 @@ Enabling the isito sidecar container
 Enabling the isito PeerAuthentication
 Deleting the PeerAuthentication
 How to add the Authorisation Policy in Istio
-How oto implement the isito in Roboshop
+How to implement the isito in Roboshop
+How to create a service account for Roboshop-Helm
