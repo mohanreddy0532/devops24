@@ -832,6 +832,10 @@ Istio debugging logs
 ========D83-2025-06-05-SESSION-80=============
 Debugging the roboshop-helm istio logs
 CommVault backup
+What are th common Web Application Attacks
+AWS WAF
+How to create the application balancer for Nginx-Ingress
+How to create the WAF ACL’s
 
 
 
