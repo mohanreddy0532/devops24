@@ -829,4 +829,26 @@ How to allow the service-mesh security ISTIO for roboshop-helm
 ========D83-2025-06-04-SESSION-79=============
 Updating robsoshop-helm istio
 Istio debugging logs
-===========
+========D83-2025-06-05-SESSION-80=============
+Debugging the roboshop-helm istio logs
+CommVault backup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
