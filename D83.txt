@@ -836,6 +836,7 @@ What are th common Web Application Attacks
 AWS WAF
 How to create the application balancer for Nginx-Ingress
 How to create the WAF ACL’s
+========D83-2025-06-06-SESSION-81=============
 
 
 
