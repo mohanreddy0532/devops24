@@ -291,7 +291,7 @@ Wt is S3 bucket and how to create a S3 bucket
   $terraform init -backend-config=env-dev/state.tfvars
 Makefile for dev,prod
 Module blocks and module sources in Terraform
-=========D83-2025-02-27-SESSION-21===***==========
+=========D83-2025-02-27-SESSION-21===*****==========
 Conditions in Terraform
 Locals in Terraform
 Setup of roboshop-terraform
@@ -303,7 +303,7 @@ AWS saving plans
 Spot instances in AWS
 How to launch the spot instance
 How to setup the vault with terraform
-How to unseal vault key
+
 How to create the vault secret
 How to retrieve the vault secrets from Ansible
 How to retrieve the vault secrets from Terraform
