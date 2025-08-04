@@ -313,6 +313,7 @@ How to retrieve secrets from roboshop-terraform
 How to create vault secrets
 How to create vault secrets for roboshop-ansible
 How to add Jinja lookup plugin to receive secrets
+What is Jinja templating?
 How to retrieve the secrets from ansible
 =========D83-2025-03-04-SESSION-24============
 Ho sto apply component service
