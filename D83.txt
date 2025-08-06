@@ -291,6 +291,13 @@ Wt is S3 bucket and how to create a S3 bucket
   $terraform init -backend-config=env-dev/state.tfvars
 Makefile for dev,prod
 Module blocks and module sources in Terraform
+——TF Workspace---https://www.youtube.com/watch?v=_B7gtqwzKuc&list=PLFoX_td1iTj-eHQsckhwnxTYm0GgHWiu0&index=13
+ #terraform workspace list
+#terraform  workspace new dev  ##To create dev workspace
+#terraform  workspace new prod  ##To create prod workspace
+#terraform  workspace select dev  #To Select dev workspace
+#terraform init
+#terraform apply -var-file dev.tfvars
 =========D83-2025-02-27-SESSION-21===*****==========
 Conditions in Terraform
 Locals in Terraform
