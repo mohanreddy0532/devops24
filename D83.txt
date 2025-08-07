@@ -257,6 +257,7 @@ QA:boto,boto3 are the python libraries for AWS to use in Ansible
 Updated the changes in roboshop-terraform code
 How to decouple the povisioner
 	use null_resource
+
 # The primary use-case for the null resource is as a do-nothing container for arbitrary actions taken by a provisioner.
 # In this example, three EC2 instances are created and then a null_resource instance is used to gather data about all three and execute a single action that affects them all. Due to the triggers
 # map, the null_resource will be replaced each time the instance ids change, and thus the remote-exec provisioner will be re-run.
