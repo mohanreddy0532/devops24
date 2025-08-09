@@ -299,7 +299,7 @@ Module blocks and module sources in Terraform
 #terraform  workspace select dev  #To Select dev workspace
 #terraform init
 #terraform apply -var-file dev.tfvars
-=========D83-2025-02-27-SESSION-21===*****==========
+==***====D83-2025-02-27-SESSION-21===*****==========
 Conditions in Terraform
 Locals in Terraform
 
