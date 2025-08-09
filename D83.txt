@@ -302,6 +302,7 @@ Module blocks and module sources in Terraform
 =========D83-2025-02-27-SESSION-21===*****==========
 Conditions in Terraform
 Locals in Terraform
+
 Setup of roboshop-terraform
 How to setup-tools code with terraform
 How to increase the disk space
