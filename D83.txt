@@ -414,7 +414,7 @@ Tools for monitoring resources
 What is Autoscaling
 What is Horizontal Scaling vs Vertical scaling
 How to create HPA
-How to scale POD with HPA How to add metric server add-ons
+How to scale POD with HPAHow to add metric server add-ons
 How to create aws_aks_cluster
 Wt is Horizontal POD Autoscaling
 Intro to KEDA
@@ -734,7 +734,7 @@ How to integrate the Roboshop components with new relic
 ========D83-2025-05-12--SESSION-66=============
 How to install Prometheus Alert-Manager
 How to monitor the alerts
-Amazon SES How to sent alerts using AWS SES
+Amazon SESHow to sent alerts using AWS SES
 How to create SMTP credentials
 How to config alert-manager with AWS SMTP
 Creating vault secret for SMTP
@@ -870,7 +870,7 @@ all:
 	ansible-playbook -i shipping-dev.rdevopsb83.online, -e ansible_user=ec2-user -e ansible_password=DevOps321 roboshop.yml -e component_name=shipping -e env=$(env)
 	ansible-playbook -i payment-dev.rdevopsb83.online, -e ansible_user=ec2-user -e ansible_password=DevOps321 roboshop.yml -e component_name=payment -e env=$(env)
 
-
+=====Introduction to Visual studio and GitHUB-Copiolt===
 
 
 
