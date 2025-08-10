@@ -875,6 +875,19 @@ all:
 * Conduct Exploratory Data Analysis (EDA) to understand patterns and relationships across large data sets, and develop hypotheses for new model development.
 * Develop dashboards and reports to present actionable insights to business and security teams.
 * Build and automate near real-time analytics workflows on AWS, leveraging services like S3, Kinesis, Glue, Athena, Redshift, and Quick Sight.
+
+>AWS Glue is a Serverless data integration service provided by Amazon Web Services (AWS) that simplifies the process of discovering, preparing, and combining data for analytics, machine learning (ML), and application development. It offers a comprehensive set of capabilities for building and automating modern data pipelines. 
+AWS Glue is a fully managed, serverless Extract, Transform, and Load (ETL) service provided by Amazon Web Services. It simplifies and automates the process of preparing and loading data for analytics, machine learning, and application development.
+AWS Glue provides tools for building ETL pipelines. It can extract data from various sources (e.g., Amazon S3, Amazon RDS, Amazon DynamoDB), transform it using Apache Spark-based jobs (written in Python or Scala), and load it into desired destinations.
+
+>Amazon Athena is a serverless, interactive query service provided by Amazon Web Services (AWS) that enables users to analyze data directly in Amazon S3 using standard SQL. 
+
+>Amazon QuickSight is a cloud-powered business intelligence (BI) service from Amazon Web Services (AWS) that enables users to create interactive dashboards, perform ad-hoc analysis, and discover insights from their data. It allows users to build visualizations, explore data, and share results with others, making it easier to make data-driven decisions. 
+
+>Amazon Kinesis is a family of services within Amazon Web Services (AWS) designed for collecting, processing, and analyzing real-time streaming data at scale. It enables the building of applications that can consume and process data from various sources simultaneously, allowing for real-time insights and actions.
+
+>Amazon Redshift is a fully managed, petabyte-scale, cloud-based data warehouse service offered by Amazon Web Services (AWS). It is designed for high-performance analytics on large datasets, ranging from hundreds of gigabytes to a petabyte or more. 
+
 —————————————————
 * Experience with AWS data and analytics services (e.g., S3, Kinesis, Glue, Redshift, Athena).
 * Hands-on experience ETL/ELT, data pipelines/workflows, data models, data bricks, etc.
