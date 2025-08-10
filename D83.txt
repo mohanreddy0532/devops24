@@ -10,12 +10,12 @@ SG in AWS and how it works
 	TCP(ack)netstat -lt ,UDP (no ack)
 How to create the SG
 	netstat -lntp
-Understand kind of application
+Understand kind of application 
 How modern project looks like-B2B or B2C Roboshop
 	WebLayer—>App Layer—>DB Layer
 =========D83-2025-02-04-SESSION-07============
 3-tier application with example
-Wt are diff. Softwares used by
+Wt are diff. Softwares used by 	
 	Web layers—ReactJS/AngularJS/HTML5/Flutter
 	App Layer—Java/NodeJS/Pythin/GoLang/Ruby/.NET
 	DB Layer—SQL,NoSQL,CACHING,MQ
@@ -62,7 +62,7 @@ Multiple Env.s
 SANDBOX
 PT(Performance Testing)
 DEV—>FT—>AutomatedTesting(regression)—>UAT—>PREPRD—>PROD
-Github account
+Github account 
 =========D83-2025-02-11-SESSION-11============
 Wt is the solution for IP address change-for FE->Sol. DNS Name roboshop.online -all Name Servers are given to AWS-R53
 Wt is DNS service(Domain Name System Service)
@@ -84,7 +84,7 @@ How to create the repository and clone in GitHUB
 Wt is continuous work and how to make it
 How to authenticate to GitHUB
 How to push code on the server side
-How to create shell scripting examples
+How to create shell scripting examples 
 =========D83-2025-02-12-SESSION-12============
 Launch the instance for roboshop
 Wt is the script—keeping commands in a logic way
@@ -108,11 +108,11 @@ Wt are non functional requirement (NFR)
 01.Sample.sh
 02.variable.sh
 03.function.sh (to keep code dry)
-	variables in functions —>To access
+	variables in functions —>To access 
 Wt are non functional requirements
 How to access variables in shell script with example
 12:00 source common.sh (source file)
-How to declare the functions in shell script
+How to declare the functions in shell script 
 How to keep RoboShop code dry
 Variable and functions name style—>snake,camelCase,PascalCase style
 Wt are the features keep the code dry
@@ -127,20 +127,20 @@ I/P variable in shell scripting(LHS input and RHS side inputs)
 Input arguments=
 	print_head() {
 	} function for echo
-Redirections examples—I/P <, o/p >, append >>
+Redirections examples—I/P <, o/p >, append >> 
 	&>> redirect both errors and out put to a file
 =========D83-2025-02-14-SESSION-14========****====
 How to setup headings to Roboshop-shell project
 Conditions in shells crippling
 How to execute the conditions in catalogue
 30:00 05.conditions if, if-else,else-if
-How to add exit status ->0-255
+How to add exit status ->0-255 
 	echo$? =0 success 1=Fail
 Expressions: Number Operators-> -eq, -ne, -gt, -ge, -lt, -le
 String operators—> ==, !=
 File Operators: -e
 Declare dynamic variables in shell scripting
-	pwd=$(pwd)
+	pwd=$(pwd) 
 @1:00:00
 @1:16:00 Loops in shell scripting with examples and Loops
 =========D83-2025-02-17-SESSION-15====Ansible========
@@ -161,14 +161,14 @@ Wt is Ansible Playbook
 Wt is Markup Language with example
 	YAML-Yet Another Markup Language
 How to write ansible-Playbook
-	collection of
+	collection of 
 How to setup FE in ansible
 =========D83-2025-02-18-SESSION-16=====***=======
 Wt is Ansible role and how to create a role
 	roles->FE->files(nginx.conf);tasks(main.yml)
 How to setup FE component in roboshop-ansible
 How to declare variables in Ansible
-    03.vars.yml
+    03.vars.yml 
 	we access variable with {{ }},if the value is variable or starts with variable then we need to Quote it “”. Eg:msg: “{{  }}”
 Wt is variable precedence—>1.CLI,2.Task,3.Role,4.Play
 	three places we cn declare task, play, role,-e is extra at command level
@@ -239,7 +239,7 @@ How to install TF and apply TF command
 	name = "John”
 	age = 20
 	}
->How to access the data types in TF->Manual load and File(File variables)
+>How to access the data types in TF->Manual load and File(File variables) 
 	auto.tfvars—>for automatic loading
 How to roboShop-terraform project
 How to setup FE instance with terraform
@@ -248,7 +248,7 @@ How Terraform talks to AWS—>using role
 How to create user in the IAM
 How to create the aws IAM role—|>
 How to create the vpc_security_group_ids = list
-Provider —>inline
+Provider —>inline 
 How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
@@ -414,7 +414,7 @@ Tools for monitoring resources
 What is Autoscaling
 What is Horizontal Scaling vs Vertical scaling
 How to create HPA
-How to scale POD with HPAHow to add metric server add-ons
+How to scale POD with HPA How to add metric server add-ons
 How to create aws_aks_cluster
 Wt is Horizontal POD Autoscaling
 Intro to KEDA
@@ -462,7 +462,7 @@ Names templates in helm charts
 Accessing files in templates in helm charts
 Subcharts and global values in helm charts
 ========D83-2025-03-24-SESSION-36=============
-Creating repository for roboshop-helm
+Creating repository for roboshop-helm 
 Helm-repo strategy
 How to create helm charts for FE
 How to create helm charts for cart and catalogue
@@ -609,7 +609,7 @@ Installing ArgoCD with helm in roboshop-terrraform
 How to add the ingress to ArgoCD
 Adding the annotations to ArgoCD
 How to create the ingress to Prometheus
-Prometheus configuration
+Prometheus configuration 
 Metric type in Prometheus
 Jobs and instances in Prometheus
 Recording rules in Prometheus
@@ -734,7 +734,7 @@ How to integrate the Roboshop components with new relic
 ========D83-2025-05-12--SESSION-66=============
 How to install Prometheus Alert-Manager
 How to monitor the alerts
-Amazon SESHow to sent alerts using AWS SES
+Amazon SES How to sent alerts using AWS SES
 How to create SMTP credentials
 How to config alert-manager with AWS SMTP
 Creating vault secret for SMTP
@@ -807,7 +807,7 @@ Configuring the aws_vpc_sg_ingress_rule
 How to add the SG to roboshop-terraform
 How to add app subnets to eks-cluster
 What is DB protection
-AWS Key Management Service
+AWS Key Management Service 
 ========D83-2025-05-30--SESSION-76=============
 Data Security
 How to create a KMS key for roboshop
@@ -821,7 +821,7 @@ Network Security
 Intro to ISITO
 How to install and setup istio
 How to enable Kiali Helm chart
-How to enable ingress for Kiali
+How to enable ingress for Kiali 
 Recreated the roboshop PODs
 How to enable the Peer Authentication
 East West Vs North South Security
@@ -848,7 +848,7 @@ AWS WAF
 How to create the application balancer for Nginx-Ingress
 How to create the WAF ACL’s
 ========D83-2025-06-06-SESSION-81=============
-Categorised the experience based
+Categorised the experience based 
 About the Project
 Iteration of learning
 =====END========
@@ -870,21 +870,14 @@ all:
 	ansible-playbook -i shipping-dev.rdevopsb83.online, -e ansible_user=ec2-user -e ansible_password=DevOps321 roboshop.yml -e component_name=shipping -e env=$(env)
 	ansible-playbook -i payment-dev.rdevopsb83.online, -e ansible_user=ec2-user -e ansible_password=DevOps321 roboshop.yml -e component_name=payment -e env=$(env)
 
-=====Introduction to Visual studio and GitHUB-Copiolt add Date as msg=======
 
+========================
+* Experience with AWS data and analytics services (e.g., S3, Kinesis, Glue, Redshift, Athena).
+* Hands-on experience ETL/ELT, data pipelines/workflows, data models, data bricks, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-
+* Experience on wiring Infrastructure As Code [Terraform] for cloud resources.
+* Proficiency in data enrichment, data wrangling, cleansing, and feature engineering.
+* Working with real-time data streaming architectures and handling high-volume event-based data.
 
 
 
