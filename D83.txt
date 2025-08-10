@@ -891,7 +891,6 @@ AWS Glue provides tools for building ETL pipelines. It can extract data from va
 —————————————————
 * Experience with AWS data and analytics services (e.g., S3, Kinesis, Glue, Redshift, Athena).
 * Hands-on experience ETL/ELT, data pipelines/workflows, data models, data bricks, etc.
-
 * Experience on wiring Infrastructure As Code [Terraform] for cloud resources.
 * Proficiency in data enrichment, data wrangling, cleansing, and feature engineering.
 * Working with real-time data streaming architectures and handling high-volume event-based data.
