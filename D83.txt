@@ -872,12 +872,29 @@ all:
 
 
 ========================
+* Conduct Exploratory Data Analysis (EDA) to understand patterns and relationships across large data sets, and develop hypotheses for new model development.
+* Develop dashboards and reports to present actionable insights to business and security teams.
+* Build and automate near real-time analytics workflows on AWS, leveraging services like S3, Kinesis, Glue, Athena, Redshift, and Quick Sight.
+—————————————————
 * Experience with AWS data and analytics services (e.g., S3, Kinesis, Glue, Redshift, Athena).
 * Hands-on experience ETL/ELT, data pipelines/workflows, data models, data bricks, etc.
 
 * Experience on wiring Infrastructure As Code [Terraform] for cloud resources.
 * Proficiency in data enrichment, data wrangling, cleansing, and feature engineering.
 * Working with real-time data streaming architectures and handling high-volume event-based data.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
