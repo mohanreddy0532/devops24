@@ -903,6 +903,7 @@ AWS Glue provides tools for building ETL pipelines. It can extract data from va
 * Working with real-time data streaming architectures and handling high-volume event-based data.
 
 ===========================
+1. High-Level Flow
 AWS CloudWatch Alarm
     ↓
 AWS SNS or EventBridge
@@ -913,6 +914,17 @@ Netcool Rules / Automation
     ↓
 Netcool Impact → ServiceNow (Incident creation/update)
 
+2. Integration Steps
+Step 1 — Get Alerts Out of CloudWatch
+You can send CloudWatch alarm state changes to Netcool in two main ways:
+Option A: Direct HTTPS to Netcool HTTP/REST Probe
+* In CloudWatch, set the alarm action to publish to an SNS topic.
+* Subscribe an HTTPS endpoint (Netcool HTTP/REST Probe) to that SNS topic.
+* The SNS message will POST to Netcool Probe’s listening port, which parses it into a Netcool event.
+Option B: Lambda Bridge
+* CloudWatch → SNS → Lambda function.
+* Lambda reformats the JSON into Netcool’s expected alert format.
+* Lambda sends it via HTTP POST, Syslog, or SNMP to the appropriate Netcool probe (HTTP, EIF, Syslog Probe, etc.).
 
 
 
