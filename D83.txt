@@ -253,7 +253,7 @@ How to setup the MongoDB with Terraform
 How to setup the catalogue with Terraform
 How to create aws_route53_record for roboshop-terraform project
 	Provisioners(to run commands on local machine)->file,local-exec,remote-exec provisioners
-QA:boto,boto3 are the python libraries for AWS to use in Ansible
+QA: boto,boto3 are the python libraries for AWS to use in Ansible
 Updated the changes in roboshop-terraform code
 How to decouple the povisioner
 	use null_resource
@@ -268,7 +268,7 @@ resource "null_resource" "cluster" {
   }
 =========D83-2025-02-25-SESSION-20======***======
 How to provision the terraform resource
-Variables and how to declare the variables in roboshop-terraform variables.tf
+Variables and how to declare the variables in roboshop-terraform  variables.tf
 Loops-count in Terraform with examples
 Functions in Terraform and how to write functions in Terraform
 How to apply loops in robsohop-tf
@@ -276,7 +276,7 @@ How to apply loops in robsohop-tf
 For-each-loop in terraform’How to apply for-each in roboshop-terraform—disadvantage of count
  Use each.key
 Modules in terraform and How to write module->
-   Modules can’t communicate directly, but can do via root-module….Only rootModue can print the output
+   Modules can’t communicate directly, but can do via root-module….Only rootModule can print the output
 1:07:00
 How to create EC2 modules for roboshop-terraform
 	ami_id
@@ -292,14 +292,14 @@ Wt is S3 bucket and how to create a S3 bucket
   $terraform init -backend-config=env-dev/state.tfvars
 Makefile for dev,prod
 Module blocks and module sources in Terraform
-———TF Workspace---https://www.youtube.com/watch?v=_B7gtqwzKuc&list=PLFoX_td1iTj-eHQsckhwnxTYm0GgHWiu0&index=13
- #terraform workspace list
+————TF Workspace---https://www.youtube.com/watch?v=_B7gtqwzKuc&list=PLFoX_td1iTj-eHQsckhwnxTYm0GgHWiu0&index=13
+#terraform workspace list
 #terraform  workspace new dev  ##To create dev workspace
 #terraform  workspace new prod  ##To create prod workspace
 #terraform  workspace select dev  #To Select dev workspace
 #terraform init
 #terraform apply -var-file dev.tfvars
-==***====D83-2025-02-27-SESSION-21===*****==========
+======D83-2025-02-27-SESSION-21=============
 Conditions in Terraform
 Locals in Terraform
 
@@ -891,22 +891,10 @@ AWS Glue provides tools for building ETL pipelines. It can extract data from va
 —————————————————
 * Experience with AWS data and analytics services (e.g., S3, Kinesis, Glue, Redshift, Athena).
 * Hands-on experience ETL/ELT, data pipelines/workflows, data models, data bricks, etc.
+
 * Experience on wiring Infrastructure As Code [Terraform] for cloud resources.
 * Proficiency in data enrichment, data wrangling, cleansing, and feature engineering.
 * Working with real-time data streaming architectures and handling high-volume event-based data.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
