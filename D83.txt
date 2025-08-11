@@ -309,6 +309,8 @@ Locals in Terraform
 Setup of roboshop-terraform
 @34:00 depends_on = [aws_route53_record.record]
 How to setup-tools code with terraform
+ Sg: ingress - inbound traffic 
+	egress - outbound
 How to increase the disk space
 How to setup vault
 =========D83-2025-02-28-SESSION-22============
