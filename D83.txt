@@ -307,6 +307,7 @@ Conditions in Terraform
 Locals in Terraform
 
 Setup of roboshop-terraform
+@34:00 depends_on = [aws_route53_record.record]
 How to setup-tools code with terraform
 How to increase the disk space
 How to setup vault
