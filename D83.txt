@@ -301,6 +301,9 @@ Module blocks and module sources in Terraform
 #terraform apply -var-file dev.tfvars
 ======D83-2025-02-27-SESSION-21=============
 Conditions in Terraform
+  >content = var.content == null ? “Null Content” : var.content
+ Syntax: 
+	condition ? true_val : false_val
 Locals in Terraform
 
 Setup of roboshop-terraform
@@ -895,6 +898,19 @@ AWS Glue provides tools for building ETL pipelines. It can extract data from va
 * Experience on wiring Infrastructure As Code [Terraform] for cloud resources.
 * Proficiency in data enrichment, data wrangling, cleansing, and feature engineering.
 * Working with real-time data streaming architectures and handling high-volume event-based data.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
