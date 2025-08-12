@@ -937,6 +937,11 @@ Option B: Lambda Bridge
 * Lambda reformats the JSON into Netcool’s expected alert format.
 * Lambda sends it via HTTP POST, Syslog, or SNMP to the appropriate Netcool probe (HTTP, EIF, Syslog Probe, etc.).
 
+======
+3. Subscribe Consumers to SNS
+* Lambda (for ServiceNow, Netcool, etc.)
+* HTTP endpoint
+* Email/SMS for notifications
 
 
 
