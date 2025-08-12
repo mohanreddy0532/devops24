@@ -914,6 +914,10 @@ Netcool Rules / Automation
     ↓
 Netcool Impact → ServiceNow (Incident creation/update)
 
+CloudWatch Alarms are sent to Amazon Simple Notification Service (SNS) because SNS provides a flexible and scalable mechanism for delivering notifications and triggering actions based on alarm state changes.
+
+
+
 2. Integration Steps
 Step 1 — Get Alerts Out of CloudWatch
 You can send CloudWatch alarm state changes to Netcool in two main ways:
