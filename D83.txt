@@ -916,7 +916,14 @@ Netcool Impact → ServiceNow (Incident creation/update)
 
 CloudWatch Alarms are sent to Amazon Simple Notification Service (SNS) because SNS provides a flexible and scalable mechanism for delivering notifications and triggering actions based on alarm state changes.
 
+CloudWatch alarms are sent to Lambda functions to enable automated, custom responses to changes in your AWS environment. This integration simplifies the process of reacting to operational issues and allows for more sophisticated remediation actions than traditional notification methods.
 
+Reasons for sending CloudWatch alarms to Lambda functions:
+
+* Automated Remediation:When an alarm state changes (e.g., from OK to ALARM) Custom Notifications:
+* Complex Logic and Data Processing:
+* Reduced Latency and Complexity:
+* Centralized Alert Management: 
 
 2. Integration Steps
 Step 1 — Get Alerts Out of CloudWatch
