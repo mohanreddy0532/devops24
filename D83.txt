@@ -951,6 +951,10 @@ CopyEdit
 aws sns create-topic --name ECSServiceAlarms
 Copy the Topic ARN (e.g., arn:aws:sns:us-east-1:123456789012:ECSServiceAlarms).
 
+2. Identify What You Want to Catch
+* ECS services don’t create alarms by default — they only generate CloudWatch metrics (CPUUtilization, MemoryUtilization, RunningTaskCount, etc.).
+* Alarms are separate CloudWatch objects tied to these metrics.
+* You want: "Any ECS-related CloudWatch alarm state change" → SNS.
 
 
 
