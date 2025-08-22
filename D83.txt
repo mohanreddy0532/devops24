@@ -956,8 +956,12 @@ Copy the Topic ARN (e.g., arn:aws:sns:us-east-1:123456789012:ECSServiceAlarms).
 * Alarms are separate CloudWatch objects tied to these metrics.
 * You want: "Any ECS-related CloudWatch alarm state change" → SNS.
 
+==========AWS+TF+SNS===================
+https://www.youtube.com/watch?v=Ph5tABrhPSU&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI
 
-
+Create provider.tf for tf aws
+Configure aws->aws configure
+>terraform init
 
 
 
