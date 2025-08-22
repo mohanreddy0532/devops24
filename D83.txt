@@ -968,9 +968,9 @@ Pre-requisites:
 terrafrom init —->initialises the current directory
 terraform refresh—->refreshes the state file
 terraform output—>views Terraform outputs
-terraform apply
-Terraform destroy
-Terraform graph
+terraform apply—->applies the terraform code and builds stuff
+Terraform destroy—->destroys what has been built by terraform
+Terraform graph—>Creates a DOT-formatted graph
 Terraform plan 
 Terrafrom validate
 ——————
