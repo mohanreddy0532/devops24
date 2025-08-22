@@ -964,6 +964,15 @@ Pre-requisites:
 .IAM User access key & Secret key
 .Install AWS CLI
 .Install Terraform binary file
+———
+terrafrom init —->initialises the current directory
+terraform refresh—->refreshes the state file
+terraform output—>views Terraform outputs
+terraform apply
+Terraform destroy
+Terraform graph
+Terraform plan 
+Terrafrom validate
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
