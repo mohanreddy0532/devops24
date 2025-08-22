@@ -958,7 +958,13 @@ Copy the Topic ARN (e.g., arn:aws:sns:us-east-1:123456789012:ECSServiceAlarms).
 
 ==========AWS+TF+SNS===================
 https://www.youtube.com/watch?v=Ph5tABrhPSU&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI
-
+Pre-requisites:
+.Visual studio
+.AWS Account
+.IAM User access key & Secret key
+.Install AWS CLI
+.Install Terraform binary file
+——————
 Create provider.tf for tf aws
 Configure aws->aws configure
 >terraform init
