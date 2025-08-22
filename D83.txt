@@ -971,8 +971,8 @@ terraform output—>views Terraform outputs
 terraform apply—->applies the terraform code and builds stuff
 Terraform destroy—->destroys what has been built by terraform
 Terraform graph—>Creates a DOT-formatted graph
-Terraform plan 
-Terrafrom validate
+Terraform plan —>a dry run to see what Terraform will do
+Terrafrom validate—>creates a DOT-formatted graph
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
