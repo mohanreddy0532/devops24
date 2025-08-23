@@ -980,8 +980,9 @@ Configure aws->aws configure
 >terraform init
 Create main.tf for sNs topic 
 >terraform apply
-SNS Topic as Standard/FIFO
+SNS Topic as Standard/FIFO add encryption
 
+>terrafrom destroy
 
 
 
