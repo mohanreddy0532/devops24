@@ -984,6 +984,10 @@ SNS Topic as Standard/FIFO add encryption
 
 >terrafrom destroy
 
+To correct indentation in terraform files
+>terraform fmt
+https://www.youtube.com/watch?v=NmwIZVUOLQI&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI&index=6
+
 
 
 
