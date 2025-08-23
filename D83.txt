@@ -976,7 +976,10 @@ Terrafrom validate—>creates a DOT-formatted graph
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
+    Get accessKey and Secret access Key,Region from IAM(AWS)
 >terraform init
+Create main.tf for sNs topic 
+>terraform apply
 
 
 
