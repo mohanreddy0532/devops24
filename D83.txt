@@ -980,6 +980,7 @@ Configure aws->aws configure
 >terraform init
 Create main.tf for sNs topic 
 >terraform apply
+SNS Topic as Standard/FIFO
 
 
 
