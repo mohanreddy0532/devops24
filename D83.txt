@@ -973,6 +973,9 @@ Terraform destroy—->destroys what has been built by terraform
 Terraform graph—>Creates a DOT-formatted graph
 Terraform plan —>a dry run to see what Terraform will do
 Terrafrom validate—>creates a DOT-formatted graph
+terraform fmt —>Rewrites Terraform configuration files to a canonical format and style.
+Terraform show—>Provides a human-redable o/p of the current or saved plan file
+Terraform state—>A subcommand with various operations for manipulation the tf state file
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
