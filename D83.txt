@@ -977,6 +977,7 @@ terraform fmt —>Rewrites Terraform configuration files to a canonical format a
 Terraform show—>Provides a human-redable o/p of the current or saved plan file
 Terraform state—>A subcommand with various operations for manipulation the tf state file(eg: list,show,mv,rm)
 Terraform workspace: Manages workspaces, allowing for multiple distinct states for same configuration(eg: List,select,new,delete)
+Terraform version: Displays the current version
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
@@ -992,6 +993,9 @@ To correct indentation in terraform files
 >terraform fmt
 https://www.youtube.com/watch?v=NmwIZVUOLQI&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI&index=6
 
+====
+PART 4 - How to create Multiple S3 Buckets using Terraform
+https://www.youtube.com/watch?v=QaoMVLkb37Y&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI&index=4
 
 
 
