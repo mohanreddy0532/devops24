@@ -975,7 +975,8 @@ Terraform plan —>a dry run to see what Terraform will do
 Terrafrom validate—>creates a DOT-formatted graph
 terraform fmt —>Rewrites Terraform configuration files to a canonical format and style.
 Terraform show—>Provides a human-redable o/p of the current or saved plan file
-Terraform state—>A subcommand with various operations for manipulation the tf state file
+Terraform state—>A subcommand with various operations for manipulation the tf state file(eg: list,show,mv,rm)
+Terraform workspace: Manages workspaces, allowing for multiple distinct states for same configuration(eg: List,select,new,delete)
 ——————
 Create provider.tf for tf aws
 Configure aws->aws configure
