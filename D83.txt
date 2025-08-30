@@ -329,7 +329,7 @@ How to create vault secrets
 How to create vault secrets for roboshop-ansible
 How to add Jinja lookup plugin to receive secrets
 What is Jinja templating?
-How to retrieve the secrets from Ansible
+How to retrieve the secrets from Ansible…
 Create the Vault secrets for Roboshop-ansible and retrieve the Vault secrets.
 =========D83-2025-03-04-SESSION-24============
 Ho sto apply component service
