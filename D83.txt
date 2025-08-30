@@ -332,12 +332,12 @@ What is Jinja templating?
 How to retrieve the secrets from Ansible…
 Create the Vault secrets for Roboshop-ansible and retrieve the Vault secrets.
 =========D83-2025-03-04-SESSION-24============
-Ho sto apply component service
+How to apply component service
 How to add filters to roboshop ansible
 How to update the roboshop-ansible secrets
 Wt is Containerisation
 History of containers
-Web Assembly
+Web Assembly…
 =========D83-2025-03-06-SESSION-25============
 History of virtualisation
 LXC Containers
