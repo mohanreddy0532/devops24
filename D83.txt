@@ -989,13 +989,13 @@ SNS Topic as Standard/FIFO add encryption
 
 >terrafrom destroy
 
-====
+===============
 PART 6 - Terraform fmt command 
 To correct indentation in terraform files
 >terraform fmt
 https://www.youtube.com/watch?v=NmwIZVUOLQI&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI&index=6
 
-====
+================
 PART 4 - How to create Multiple S3 Buckets using Terraform
 https://www.youtube.com/watch?v=QaoMVLkb37Y&list=PLIOQso9xn2V2LSaCLf3y2bEsq3TCSntSI&index=4
 
