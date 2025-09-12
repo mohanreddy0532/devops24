@@ -964,7 +964,7 @@ Pre-requisites:
 .IAM User access key & Secret key
 .Install AWS CLI
 .Install Terraform binary file
-———
+——————————
 terrafrom init —->initialises the current directory
 terraform refresh—->refreshes the state file
 terraform output—>views Terraform outputs
