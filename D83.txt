@@ -978,7 +978,7 @@ Terraform show—>Provides a human-redable o/p of the current or saved plan file
 Terraform state—>A subcommand with various operations for manipulation the tf state file(eg: list,show,mv,rm)
 Terraform workspace: Manages workspaces, allowing for multiple distinct states for same configuration(eg: List,select,new,delete)
 Terraform version: Displays the current version
-——————
+————————————————
 Create provider.tf for tf aws
 Configure aws->aws configure
     Get accessKey and Secret access Key,Region from IAM(AWS)
