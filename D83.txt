@@ -926,6 +926,7 @@ Reasons for sending CloudWatch alarms to Lambda functions:
 * Centralized Alert Management: 
 
 2. Integration Steps
+
 Step 1 — Get Alerts Out of CloudWatch
 You can send CloudWatch alarm state changes to Netcool in two main ways:
 Option A: Direct HTTPS to Netcool HTTP/REST Probe
@@ -942,7 +943,6 @@ Option B: Lambda Bridge
 * Lambda (for ServiceNow, Netcool, etc.)
 * HTTP endpoint
 * Email/SMS for notifications
-==============
 ==============
 Step-by-Step: Send All ECS Service Alarms to SNS
 1. Create an SNS Topic
