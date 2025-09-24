@@ -988,6 +988,7 @@ Create main.tf for sNs topic
 SNS Topic as Standard/FIFO add encryption
 
 >terrafrom destroy
+ will delete exising resources
 ===============
 PART 6 - Terraform fmt command 
 To correct indentation in terraform files
@@ -1005,7 +1006,7 @@ https://www.youtube.com/watch?v=QfF1koIv724&t=373s
 https://www.youtube.com/@techitfactory/videos
 ================
 ================
-
+================
 
 
 
