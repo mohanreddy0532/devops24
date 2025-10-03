@@ -989,7 +989,7 @@ SNS Topic as Standard/FIFO add encryption
 
 >terrafrom destroy
  will delete exising resources
-===============
+====================================
 PART 6 - Terraform fmt command 
 To correct indentation in terraform files
 >terraform fmt
